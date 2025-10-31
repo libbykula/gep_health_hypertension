@@ -1,0 +1,8 @@
+{
+    // Automatically activate the selected Python environment in terminals
+    "python.terminal.activateEnvironment": true,
+
+    // Optional: Linting and IntelliSense
+    "python.linting.enabled": true,
+    "python.languageServer": "Pylance"
+}

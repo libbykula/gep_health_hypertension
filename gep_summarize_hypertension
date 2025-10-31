@@ -1,0 +1,27 @@
+import pandas as pd
+import glob
+import os
+
+# --- Step 1: Define the folder containing your CSV files ---
+folder_path = r"D:/base_data/GEP/Output"
+
+# --- Step 2: Get all CSV files matching the pattern ---
+file_pattern = os.path.join(folder_path, 'indiv', "*_hypertension_results_*.csv")
+csv_files = glob.glob(file_pattern)
+
+# --- Step 3: Read and concatenate all CSV files ---
+df_list = [pd.read_csv(f) for f in csv_files]
+df = pd.concat(df_list, ignore_index=True)
+
+# --- Step 4: Summarize total_value_usd by country ---
+country_summary = df.groupby('country', as_index=False)['total_value_usd'].sum()
+
+# --- Step 5: Sort descending by total_value_usd ---
+country_summary = country_summary.sort_values('total_value_usd', ascending=False)
+
+# --- Step 6: Save the summary to a new CSV ---
+output_file = os.path.join(folder_path, "total_value_by_country.csv")
+country_summary.to_csv(output_file, index=False)
+
+print(country_summary)
+

@@ -1,0 +1,20 @@
+name: geoenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - geopandas
+  - xarray
+  - rioxarray
+  - pygeoprocessing
+  - gdal
+  - rasterio
+  - shapely
+  - fiona
+  - proj
+  - pyproj
+  - dask
+  - jupyter
+  - ipykernel
