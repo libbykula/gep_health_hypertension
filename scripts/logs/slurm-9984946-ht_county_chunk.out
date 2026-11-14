@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v03.py", line 6, in <module>
+    import snapp_public_ndvi_v02
+  File "/users/3/kula0049/gep_health/scripts/snapp_public_ndvi_v02.py", line 45
+    resampleAlg='near'
+                ^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?

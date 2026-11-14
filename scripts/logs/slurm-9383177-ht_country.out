@@ -1,0 +1,98 @@
+/var/spool/slurmd/job9383188/slurm_script: line 18: _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+/var/spool/slurmd/job9383187/slurm_script: line 18: _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383186/slurm_script: line 18: _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383180/slurm_script: line 18: _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383181/slurm_script: line 18: _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383189/slurm_script: line 18: _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383190/slurm_script: line 18: _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383191/slurm_script: line 18: _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383192/slurm_script: line 18: _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383177/slurm_script: line 18: _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383183/slurm_script: line 18: _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383184/slurm_script: line 18: _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383185/slurm_script: line 18: _chunks.txt: No such file or directory
+/var/spool/slurmd/job9383182/slurm_script: line 18: _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+sed: can't read _chunks.txt: No such file or directory
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+    country_label = sys.argv[1]
+    country_label = sys.argv[1]
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+IndexError: list index out of range
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+    country_label = sys.argv[1]
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_v03_linear.py", line 8, in <module>
+    country_label = sys.argv[1]
+                    ~~~~~~~~^^^
+IndexError: list index out of range

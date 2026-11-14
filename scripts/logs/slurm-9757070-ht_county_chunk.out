@@ -1,0 +1,665 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py:9374: RuntimeWarning: Self-intersection at or near point 30385.160037952064 14210.629773379032
+  return _gdal.wrapper_GDALWarpDestName(*args)
+ounty_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 37195
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37195_hypertension_results_2019_linear_county_prev.csv
+running usa 38099
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 47045
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47045_hypertension_results_2019_linear_county_prev.csv
+running usa 47183
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47183_hypertension_results_2019_linear_county_prev.csv
+running usa 47131
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 16019
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/16019_hypertension_results_2019_linear_county_prev.csv
+running usa 16033
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/16033_hypertension_results_2019_linear_county_prev.csv
+running usa 56023
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 12081
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/12081_hypertension_results_2019_linear_county_prev.csv
+running usa 42029
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/42029_hypertension_results_2019_linear_county_prev.csv
+running usa 48479
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48479_hypertension_results_2019_linear_county_prev.csv
+running usa 48311
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48311_hypertension_results_2019_linear_county_prev.csv
+running usa 48323
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 48073
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48073_hypertension_results_2019_linear_county_prev.csv
+running usa 53015
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/53015_hypertension_results_2019_linear_county_prev.csv
+running usa 53011
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/53011_hypertension_results_2019_linear_county_prev.csv
+running usa 41009
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/41009_hypertension_results_2019_linear_county_prev.csv
+running usa 53069
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/53069_hypertension_results_2019_linear_county_prev.csv
+running usa 06059
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/06059_hypertension_results_2019_linear_county_prev.csv
+running usa 18175
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/18175_hypertension_results_2019_linear_county_prev.csv
+running usa 18143
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/18143_hypertension_results_2019_linear_county_prev.csv
+running usa 18117
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 21007
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/21007_hypertension_results_2019_linear_county_prev.csv
+running usa 29157
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29157_hypertension_results_2019_linear_county_prev.csv
+running usa 29207
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29207_hypertension_results_2019_linear_county_prev.csv
+running usa 29031
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29031_hypertension_results_2019_linear_county_prev.csv
+running usa 29201
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29201_hypertension_results_2019_linear_county_prev.csv
+running usa 17153
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/17153_hypertension_results_2019_linear_county_prev.csv
+running usa 17003
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/17003_hypertension_results_2019_linear_county_prev.csv
+running usa 29133
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29133_hypertension_results_2019_linear_county_prev.csv
+running usa 29017
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29017_hypertension_results_2019_linear_county_prev.csv
+running usa 29223
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29223_hypertension_results_2019_linear_county_prev.csv
+running usa 17181
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/17181_hypertension_results_2019_linear_county_prev.csv
+running usa 29123
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29123_hypertension_results_2019_linear_county_prev.csv
+running usa 17077
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/17077_hypertension_results_2019_linear_county_prev.csv
+running usa 17199
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/17199_hypertension_results_2019_linear_county_prev.csv
+running usa 17145
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/17145_hypertension_results_2019_linear_county_prev.csv
+running usa 17151
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 17201
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/17201_hypertension_results_2019_linear_county_prev.csv
+running usa 17037
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/17037_hypertension_results_2019_linear_county_prev.csv
+running usa 17093
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/17093_hypertension_results_2019_linear_county_prev.csv
+running usa 06057
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/06057_hypertension_results_2019_linear_county_prev.csv
+running usa 06115
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/06115_hypertension_results_2019_linear_county_prev.csv
+running usa 06101
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/06101_hypertension_results_2019_linear_county_prev.csv
+running usa 06063
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/06063_hypertension_results_2019_linear_county_prev.csv
+running usa 06011
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/06011_hypertension_results_2019_linear_county_prev.csv
+running usa 06021
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/06021_hypertension_results_2019_linear_county_prev.csv
+running usa 06103
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/06103_hypertension_results_2019_linear_county_prev.csv
+running usa 06007
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/06007_hypertension_results_2019_linear_county_prev.csv
+running usa 48083
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 51049
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51049_hypertension_results_2019_linear_county_prev.csv
+running usa 51540
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51540_hypertension_results_2019_linear_county_prev.csv
+running usa 51790
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51790_hypertension_results_2019_linear_county_prev.csv
+running usa 51065
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51065_hypertension_results_2019_linear_county_prev.csv
+running usa 51820
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51820_hypertension_results_2019_linear_county_prev.csv
+running usa 51660
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51660_hypertension_results_2019_linear_county_prev.csv
+running usa 51009
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51009_hypertension_results_2019_linear_county_prev.csv
+running usa 51047
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51047_hypertension_results_2019_linear_county_prev.csv
+running usa 51139
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51139_hypertension_results_2019_linear_county_prev.csv
+running usa 51109
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51109_hypertension_results_2019_linear_county_prev.csv
+running usa 51163
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51163_hypertension_results_2019_linear_county_prev.csv
+running usa 47143
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47143_hypertension_results_2019_linear_county_prev.csv
+running usa 47031
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47031_hypertension_results_2019_linear_county_prev.csv
+running usa 01071
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/01071_hypertension_results_2019_linear_county_prev.csv
+running usa 13083
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13083_hypertension_results_2019_linear_county_prev.csv
+running usa 47115
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47115_hypertension_results_2019_linear_county_prev.csv
+running usa 47153
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47153_hypertension_results_2019_linear_county_prev.csv
+running usa 47177
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47177_hypertension_results_2019_linear_county_prev.csv
+running usa 47061
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47061_hypertension_results_2019_linear_county_prev.csv
+running usa 47007
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47007_hypertension_results_2019_linear_county_prev.csv
+running usa 47051
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47051_hypertension_results_2019_linear_county_prev.csv
+running usa 47175
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/47175_hypertension_results_2019_linear_county_prev.csv
+running usa 56031
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/56031_hypertension_results_2019_linear_county_prev.csv
+running usa 56015
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/56015_hypertension_results_2019_linear_county_prev.csv
+running usa 31007
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 55087
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55087_hypertension_results_2019_linear_county_prev.csv
+running usa 55115
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55115_hypertension_results_2019_linear_county_prev.csv
+running usa 55009
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55009_hypertension_results_2019_linear_county_prev. in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 34023
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/34023_hypertension_results_2019_linear_county_prev.csv
+running usa 36047
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/36047_hypertension_results_2019_linear_county_prev.csv
+running usa 36081
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/36081_hypertension_results_2019_linear_county_prev.csv
+running usa 34025
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/34025_hypertension_results_2019_linear_county_prev.csv
+running usa 42045
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/42045_hypertension_results_2019_linear_county_prev.csv
+running usa 42101
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/42101_hypertension_results_2019_linear_county_prev.csv
+running usa 36059
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/36059_hypertension_results_2019_linear_county_prev.csv
+running usa 34031
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/34031_hypertension_results_2019_linear_county_prev.csv
+running usa 36061
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/36061_hypertension_results_2019_linear_county_prev.csv
+running usa 36085
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/36085_hypertension_results_2019_linear_county_prev.csv
+running usa 34039
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/34039_hypertension_results_2019_linear_county_prev.csv
+running usa 36005
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/36005_hypertension_results_2019_linear_county_prev.csv
+running usa 34017
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/34017_hypertension_results_2019_linear_county_prev.csv
+running usa 36087
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/36087_hypertension_results_2019_linear_county_prev.csv
+running usa 12115
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/12115_hypertension_results_2019_linear_county_prev.csv
+running usa 12027
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/12027_hypertension_results_2019_linear_county_prev.csv
+running usa 12103
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/12103_hypertension_results_2019_linear_county_prev.csv
+running usa 48103
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+running usa 29097
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29097_hypertension_results_2019_linear_county_prev.csv
+running usa 29145
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29145_hypertension_results_2019_linear_county_prev.csv
+running usa 26159
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/26159_hypertension_results_2019_linear_county_prev.csv
+running usa 29033
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29033_hypertension_results_2019_linear_county_prev.csv
+running usa 29013
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29013_hypertension_results_2019_linear_county_prev.csv
+running usa 29095
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29095_hypertension_results_2019_linear_county_prev.csv
+running usa 20091
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/20091_hypertension_results_2019_linear_county_prev.csv
+running usa 20043
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/20043_hypertension_results_2019_linear_county_prev.csv
+running usa 20087
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/20087_hypertension_results_2019_linear_county_prev.csv
+running usa 29021
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29021_hypertension_results_2019_linear_county_prev.csv
+running usa 29085
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29085_hypertension_results_2019_linear_county_prev.csv
+running usa 20045
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/20045_hypertension_results_2019_linear_county_prev.csv
+running usa 29177
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29177_hypertension_results_2019_linear_county_prev.csv
+running usa 29047
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29047_hypertension_results_2019_linear_county_prev.csv
+running usa 20059
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/20059_hypertension_results_2019_linear_county_prev.csv
+running usa 20209
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/20209_hypertension_results_2019_linear_county_prev.csv
+running usa 29061
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29061_hypertension_results_2019_linear_county_prev.csv
+running usa 29165
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29165_hypertension_results_2019_linear_county_prev.csv
+running usa 29025
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29025_hypertension_results_2019_linear_county_prev.csv
+running usa 29107
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29107_hypertension_results_2019_linear_county_prev.csv
+running usa 29185
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29185_hypertension_results_2019_linear_county_prev.csv
+running usa 29083
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/29083_hypertension_results_2019_linear_county_prev.csv
+running usa 29117
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 28073
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28073_hypertension_results_2019_linear_county_prev.csv
+running usa 28031
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28031_hypertension_results_2019_linear_county_prev.csv
+running usa 37189
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37189_hypertension_results_2019_linear_county_prev.csv
+running usa 37011
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37011_hypertension_results_2019_linear_county_prev.csv
+running usa 13103
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13103_hypertension_results_2019_linear_county_prev.csv
+running usa 13051
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13051_hypertension_results_2019_linear_county_prev.csv
+running usa 45053
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45053_hypertension_results_2019_linear_county_prev.csv
+running usa 13267
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13267_hypertension_results_2019_linear_county_prev.csv
+running usa 13029
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13029_hypertension_results_2019_linear_county_prev.csv
+running usa 13109
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13109_hypertension_results_2019_linear_county_prev.csv
+running usa 12053
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/12053_hypertension_results_2019_linear_county_prev.csv
+running usa 05105
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/05105_hypertension_results_2019_linear_county_prev.csv
+running usa 05051
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/05051_hypertension_results_2019_linear_county_prev.csv
+running usa 05125
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/05125_hypertension_results_2019_linear_county_prev.csv
+running usa 05097
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/05097_hypertension_results_2019_linear_county_prev.csv
+running usa 05059
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/05059_hypertension_results_2019_linear_county_prev.csv
+running usa 22051
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/22051_hypertension_results_2019_linear_county_prev.csv
+running usa 22075
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/22075_hypertension_results_2019_linear_county_prev.csv
+running usa 48471
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48471_hypertension_results_2019_linear_county_prev.csv
+running usa 48473
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48473_hypertension_results_2019_linear_county_prev.csv
+running usa 48339
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48339_hypertension_results_2019_linear_county_prev.csv
+running usa 48407
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48407_hypertension_results_2019_linear_county_prev.csv
+running usa 48089
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48089_hypertension_results_2019_linear_county_prev.csv
+running usa 48157
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48157_hypertension_results_2019_linear_county_prev.csv
+running usa 48015
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48015_hypertension_results_2019_linear_county_prev.csv
+running usa 48239
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48239_hypertension_results_2019_linear_county_prev.csv
+running usa 48285
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48285_hypertension_results_2019_linear_county_prev.csv
+running usa 48481
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48481_hypertension_results_2019_linear_county_prev.csv
+running usa 48039
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48039_hypertension_results_2019_linear_county_prev.csv
+running usa 48321
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48321_hypertension_results_2019_linear_county_prev.csv
+running usa 48201
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/48201_hypertension_results_2019_linear_county_prev.csv
+running usa 21043
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/21043_hypertension_results_2019_linear_county_prev.csv
+running usa 21063
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/21063_hypertension_results_2019_linear_county_prev.csv
+running usa 21135
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/21135_hypertension_results_2019_linear_county_prev.csv
+running usa 21159
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/21159_hypertension_results_2019_linear_county_prev.csv
+running usa 21205
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/21205_hypertension_results_2019_linear_county_prev.csv
+running usa 21089
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/21089_hypertension_results_2019_linear_county_prev.csv
+running usa 21127
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/21127_hypertension_results_2019_linear_county_prev.csv
+running usa 39079
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 62, in get_hypertension_gep
+    gdal.Warp(re.sub(r'\.(.*?)$', r'_cropped_{}.\1'.format(c), path), 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 1172, in Warp
+    return wrapper_GDALWarpDestName(destNameOrDestDS, srcDSTab, opts, callback, callback_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py", line 9374, in wrapper_GDALWarpDestName
+    return _gdal.wrapper_GDALWarpDestName(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object of wrong GDALDatasetShadow
+running usa 30059
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/30059_hypertension_results_2019_linear_county_prev.csv
+running usa 30099
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/30099_hypertension_results_2019_linear_county_prev.csv
+running usa 08075
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/08075_hypertension_results_2019_linear_county_prev.csv
+running usa 55075
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55075_hypertension_results_2019_linear_county_prev.csv
+running usa 55067
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55067_hypertension_results_2019_linear_county_prev.csv
+running usa 55083
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55083_hypertension_results_2019_linear_county_prev.csv
+running usa 55041
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55041_hypertension_results_2019_linear_county_prev.csv
+running usa 55078
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55078_hypertension_results_2019_linear_county_prev.csv
+running usa 55061
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55061_hypertension_results_2019_linear_county_prev.csv
+running usa 55029
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/55029_hypertension_results_2019_linear_county_prev.csv
+running usa 51089
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51089_hypertension_results_2019_linear_county_prev.csv
+running usa 51141
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51141_hypertension_results_2019_linear_county_prev.csv
+running usa 37169
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37169_hypertension_results_2019_linear_county_prev.csv
+running usa 37049
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37049_hypertension_results_2019_linear_county_prev.csv
+running usa 37117
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37117_hypertension_results_2019_linear_county_prev.csv
+running usa 37013
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37013_hypertension_results_2019_linear_county_prev.csv
+running usa 37065
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37065_hypertension_results_2019_linear_county_prev.csv
+running usa 37147
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37147_hypertension_results_2019_linear_county_prev.csv
+running usa 45077
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45077_hypertension_results_2019_linear_county_prev.csv
+running usa 45073
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45073_hypertension_results_2019_linear_county_prev.csv
+running usa 45007
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45007_hypertension_results_2019_linear_county_prev.csv
+running usa 45001
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45001_hypertension_results_2019_linear_county_prev.csv
+running usa 22071
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/22071_hypertension_results_2019_linear_county_prev.csv
+running usa 28109
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28109_hypertension_results_2019_linear_county_prev.csv
+running usa 22103
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/22103_hypertension_results_2019_linear_county_prev.csv
+running usa 28047
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28047_hypertension_results_2019_linear_county_prev.csv
+running usa 22087
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/22087_hypertension_results_2019_linear_county_prev.csv
+running usa 28059
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28059_hypertension_results_2019_linear_county_prev.csv
+running usa 28039
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28039_hypertension_results_2019_linear_county_prev.csv
+running usa 28035
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28035_hypertension_results_2019_linear_county_prev.csv
+running usa 28111
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28111_hypertension_results_2019_linear_county_prev.csv
+running usa 28045
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28045_hypertension_results_2019_linear_county_prev.csv
+running usa 28131
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/28131_hypertension_results_2019_linear_county_prev.csv
+running usa 51107
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51107_hypertension_results_2019_linear_county_prev.csv
+running usa 54037
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54037_hypertension_results_2019_linear_county_prev.csv
+running usa 54003
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54003_hypertension_results_2019_linear_county_prev.csv
+running usa 51043
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51043_hypertension_results_2019_linear_county_prev.csv
+running usa 22117
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/22117_hypertension_results_2019_linear_county_prev.csv
+running usa 42087
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/42087_hypertension_results_2019_linear_county_prev.csv
+running usa 54071
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54071_hypertension_results_2019_linear_county_prev.csv
+running usa 51171
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51171_hypertension_results_2019_linear_county_prev.csv
+running usa 09007
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 160, in get_hypertension_gep
+    county_prev = float(county_prev_df.loc[(county_prev_df['LocationName'] == county_name) & 
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+running usa 54007
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54007_hypertension_results_2019_linear_county_prev.csv
+running usa 54099
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54099_hypertension_results_2019_linear_county_prev.csv
+running usa 54085
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54085_hypertension_results_2019_linear_county_prev.csv
+running usa 54011
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54011_hypertension_results_2019_linear_county_prev.csv
+running usa 39105
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/39105_hypertension_results_2019_linear_county_prev.csv
+running usa 39053
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/39053_hypertension_results_2019_linear_county_prev.csv
+running usa 54015
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54015_hypertension_results_2019_linear_county_prev.csv
+running usa 54035
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54035_hypertension_results_2019_linear_county_prev.csv
+running usa 54079
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54079_hypertension_results_2019_linear_county_prev.csv
+running usa 54053
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54053_hypertension_results_2019_linear_county_prev.csv
+running usa 54105
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/54105_hypertension_results_2019_linear_county_prev.csv
+running usa 39087
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/39087_hypertension_results_2019_linear_county_prev.csv
+running usa 45019
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45019_hypertension_results_2019_linear_county_prev.csv
+running usa 45029
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45029_hypertension_results_2019_linear_county_prev.csv
+running usa 45015
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45015_hypertension_results_2019_linear_county_prev.csv
+running usa 45035
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45035_hypertension_results_2019_linear_county_prev.csv
+running usa 45013
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45013_hypertension_results_2019_linear_county_prev.csv
+running usa 37007
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37007_hypertension_results_2019_linear_county_prev.csv
+running usa 37027
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37027_hypertension_results_2019_linear_county_prev.csv
+running usa 37059
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37059_hypertension_results_2019_linear_county_prev.csv
+running usa 45091
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45091_hypertension_results_2019_linear_county_prev.csv
+running usa 37023
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37023_hypertension_results_2019_linear_county_prev.csv
+running usa 37057
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37057_hypertension_results_2019_linear_county_prev.csv
+running usa 37123
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37123_hypertension_results_2019_linear_county_prev.csv
+running usa 37193
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37193_hypertension_results_2019_linear_county_prev.csv
+running usa 37159
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37159_hypertension_results_2019_linear_county_prev.csv
+running usa 45021
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/45021_hypertension_results_2019_linear_county_prev.csv
+running usa 37097
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37097_hypertension_results_2019_linear_county_prev.csv
+running usa 37179
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37179_hypertension_results_2019_linear_county_prev.csv
+running usa 37025
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37025_hypertension_results_2019_linear_county_prev.csv
+running usa 37035
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37035_hypertension_results_2019_linear_county_prev.csv
+running usa 37109
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37109_hypertension_results_2019_linear_county_prev.csv
+running usa 37197
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37197_hypertension_results_2019_linear_county_prev.csv
+running usa 37119
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37119_hypertension_results_2019_linear_county_prev.csv
+running usa 37003
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37003_hypertension_results_2019_linear_county_prev.csv
+running usa 37071
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37071_hypertension_results_2019_linear_county_prev.csv
+running usa 37067
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37067_hypertension_results_2019_linear_county_prev.csv
+running usa 37045
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37045_hypertension_results_2019_linear_county_prev.csv
+running usa 37167
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/37167_hypertension_results_2019_linear_county_prev.csv
+running usa 51015
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51015_hypertension_results_2019_linear_county_prev.csv
+running usa 51125
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51125_hypertension_results_2019_linear_county_prev.csv
+running usa 51137
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51137_hypertension_results_2019_linear_county_prev.csv
+running usa 51145
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51145_hypertension_results_2019_linear_county_prev.csv
+running usa 51165
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51165_hypertension_results_2019_linear_county_prev.csv
+running usa 51029
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51029_hypertension_results_2019_linear_county_prev.csv
+running usa 51113
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51113_hypertension_results_2019_linear_county_prev.csv
+running usa 51003
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51003_hypertension_results_2019_linear_county_prev.csv
+running usa 51075
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51075_hypertension_results_2019_linear_county_prev.csv
+running usa 51079
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51079_hypertension_results_2019_linear_county_prev.csv
+running usa 51011
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/51011_hypertension_results_2019_linear_county_prev.csv

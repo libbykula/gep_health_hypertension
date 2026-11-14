@@ -1,0 +1,8 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+[2026-02-18T15:08:23.728] error: *** JOB 3090374 ON acn53 CANCELLED AT 2026-02-18T15:08:23 DUE to SIGNAL Terminated ***
+[2026-02-18T15:08:23.758] error: *** JOB 3090375 ON acn53 CANCELLED AT 2026-02-18T15:08:23 DUE to SIGNAL Terminated ***
+
+[2026-02-18T15:08:23.759] error: *** JOB 3089204 ON acn214 CANCELLED AT 2026-02-18T15:08:23 DUE to SIGNAL Terminated ***

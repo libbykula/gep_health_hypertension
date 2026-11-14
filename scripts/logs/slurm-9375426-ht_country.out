@@ -1,0 +1,405 @@
+running can 22_1501
+FAILED can 22_1501 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1502
+FAILED can 22_1502 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1503
+FAILED can 22_1503 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1504
+FAILED can 22_1504 cannot access local variable 'pixel_width' where it is not associated with a value
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+a value
+running can 22_1406
+FAILED can 22_1406 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1407
+FAILED can 22_1407 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1408
+FAILED can 22_1408 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1409
+FAILED can 22_1409 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1410
+FAILED can 22_1410 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1411
+FAILED can 22_1411 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1412
+FAILED can 22_1412 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1413
+FAILED can 22_1413 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1414
+FAILED can 22_1414 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1415
+FAILED can 22_1415 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1416
+FAILED can 22_1416 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1417
+FAILED can 22_1417 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1418
+FAILED can 22_1418 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1419
+FAILED can 22_1419 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1420
+FAILED can 22_1420 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1421
+FAILED can 22_1421 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1422
+FAILED can 22_1422 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1423
+FAILED can 22_1423 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1424
+FAILED can 22_1424 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1425
+FAILED can 22_1425 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1426
+FAILED can 22_1426 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1427
+FAILED can 22_1427 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1428
+FAILED can 22_1428 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1429
+FAILED can 22_1429 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1430
+FAILED can 22_1430 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1431
+FAILED can 22_1431 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1432
+FAILED can 22_1432 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1433
+FAILED can 22_1433 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1434
+FAILED can 22_1434 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1435
+FAILED can 22_1435 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1436
+FAILED can 22_1436 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1437
+FAILED can 22_1437 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1438
+FAILED can 22_1438 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1439
+FAILED can 22_1439 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1440
+FAILED can 22_1440 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1441
+FAILED can 22_1441 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1442
+FAILED can 22_1442 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1443
+FAILED can 22_1443 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1444
+FAILED can 22_1444 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1445
+FAILED can 22_1445 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1446
+FAILED can 22_1446 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1447
+FAILED can 22_1447 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1448
+FAILED can 22_1448 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1449
+FAILED can 22_1449 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1450
+FAILED can 22_1450 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1451
+FAILED can 22_1451 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1452
+FAILED can 22_1452 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1453
+FAILED can 22_1453 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1454
+FAILED can 22_1454 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1455
+FAILED can 22_1455 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1456
+FAILED can 22_1456 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1457
+FAILED can 22_1457 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1458
+FAILED can 22_1458 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1459
+FAILED can 22_1459 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1460
+FAILED can 22_1460 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1461
+FAILED can 22_1461 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1462
+FAILED can 22_1462 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1463
+FAILED can 22_1463 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1464
+FAILED can 22_1464 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1465
+FAILED can 22_1465 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1466
+FAILED can 22_1466 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1467
+FAILED can 22_1467 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1468
+FAILED can 22_1468 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1469
+FAILED can 22_1469 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1470
+FAILED can 22_1470 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1471
+FAILED can 22_1471 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1472
+FAILED can 22_1472 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1473
+FAILED can 22_1473 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1474
+FAILED can 22_1474 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1475
+FAILED can 22_1475 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1476
+FAILED can 22_1476 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1477
+FAILED can 22_1477 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1478
+FAILED can 22_1478 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1479
+FAILED can 22_1479 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1480
+FAILED can 22_1480 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1481
+FAILED can 22_1481 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1482
+FAILED can 22_1482 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1483
+FAILED can 22_1483 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1484
+FAILED can 22_1484 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1485
+FAILED can 22_1485 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1486
+FAILED can 22_1486 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1487
+FAILED can 22_1487 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1488
+FAILED can 22_1488 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1489
+FAILED can 22_1489 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1490
+FAILED can 22_1490 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1491
+FAILED can 22_1491 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1492
+FAILED can 22_1492 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1493
+FAILED can 22_1493 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1494
+FAILED can 22_1494 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1495
+FAILED can 22_1495 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1496
+FAILED can 22_1496 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 22_1497
+FAILED can 22_1497 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8087
+FAILED can 23_8087 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8088
+FAILED can 23_8088 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8089
+FAILED can 23_8089 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7940
+FAILED can 23_7940 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7941
+FAILED can 23_7941 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7942
+FAILED can 23_7942 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7943
+FAILED can 23_7943 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7944
+FAILED can 23_7944 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7945
+FAILED can 23_7945 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7946
+FAILED can 23_7946 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7947
+FAILED can 23_7947 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7948
+FAILED can 23_7948 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7949
+FAILED can 23_7949 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7950
+FAILED can 23_7950 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7951
+FAILED can 23_7951 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7952
+FAILED can 23_7952 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7953
+FAILED can 23_7953 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7954
+FAILED can 23_7954 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7955
+FAILED can 23_7955 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7956
+FAILED can 23_7956 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7957
+FAILED can 23_7957 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7958
+FAILED can 23_7958 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7959
+FAILED can 23_7959 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7960
+FAILED can 23_7960 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7961
+FAILED can 23_7961 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7962
+FAILED can 23_7962 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7963
+FAILED can 23_7963 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7964
+FAILED can 23_7964 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7965
+FAILED can 23_7965 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7966
+FAILED can 23_7966 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7967
+FAILED can 23_7967 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7968
+FAILED can 23_7968 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7969
+FAILED can 23_7969 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7970
+FAILED can 23_7970 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7971
+FAILED can 23_7971 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7972
+FAILED can 23_7972 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7973
+FAILED can 23_7973 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7974
+FAILED can 23_7974 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7975
+FAILED can 23_7975 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7976
+FAILED can 23_7976 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7977
+FAILED can 23_7977 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7978
+FAILED can 23_7978 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7979
+FAILED can 23_7979 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7980
+FAILED can 23_7980 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7981
+FAILED can 23_7981 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7982
+FAILED can 23_7982 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7983
+FAILED can 23_7983 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7984
+FAILED can 23_7984 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7985
+FAILED can 23_7985 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7986
+FAILED can 23_7986 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7987
+FAILED can 23_7987 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7988
+FAILED can 23_7988 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7989
+FAILED can 23_7989 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7990
+FAILED can 23_7990 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7991
+FAILED can 23_7991 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7992
+FAILED can 23_7992 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7993
+FAILED can 23_7993 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7994
+FAILED can 23_7994 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7995
+FAILED can 23_7995 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7996
+FAILED can 23_7996 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7997
+FAILED can 23_7997 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7998
+FAILED can 23_7998 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_7999
+FAILED can 23_7999 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8000
+FAILED can 23_8000 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8001
+FAILED can 23_8001 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8002
+FAILED can 23_8002 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8003
+FAILED can 23_8003 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8004
+FAILED can 23_8004 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8005
+FAILED can 23_8005 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8006
+FAILED can 23_8006 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8007
+FAILED can 23_8007 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8008
+FAILED can 23_8008 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8009
+FAILED can 23_8009 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8010
+FAILED can 23_8010 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8011
+FAILED can 23_8011 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8012
+FAILED can 23_8012 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8013
+FAILED can 23_8013 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8014
+FAILED can 23_8014 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8015
+FAILED can 23_8015 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8016
+FAILED can 23_8016 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8017
+FAILED can 23_8017 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8018
+FAILED can 23_8018 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8019
+FAILED can 23_8019 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8020
+FAILED can 23_8020 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8021
+FAILED can 23_8021 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8022
+FAILED can 23_8022 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8023
+FAILED can 23_8023 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8024
+FAILED can 23_8024 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8025
+FAILED can 23_8025 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8026
+FAILED can 23_8026 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8027
+FAILED can 23_8027 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8028
+FAILED can 23_8028 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8029
+FAILED can 23_8029 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8030
+FAILED can 23_8030 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8031
+FAILED can 23_8031 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8032
+FAILED can 23_8032 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8033
+FAILED can 23_8033 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8034
+FAILED can 23_8034 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8035
+FAILED can 23_8035 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8036
+FAILED can 23_8036 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8037
+FAILED can 23_8037 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8038
+FAILED can 23_8038 cannot access local variable 'pixel_width' where it is not associated with a value
+running can 23_8039
+FAILED can 23_8039 cannot access local variable 'pixel_width' where it is not associated with a value
+[2026-05-18T13:20:49.067] error: *** JOB 9375536 ON acn130 CANCELLED AT 2026-05-18T13:20:49 DUE to SIGNAL Terminated ***
+[2026-05-18T13:20:49.069] error: *** JOB 9375537 ON acn130 CANCELLED AT 2026-05-18T13:20:49 DUE to SIGNAL Terminated ***

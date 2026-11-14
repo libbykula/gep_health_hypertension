@@ -1,0 +1,74 @@
+running usa 13317
+South
+0     All persons
+1     All persons
+2     All persons
+3     All persons
+4       Northeast
+5       Northeast
+6       Northeast
+7       Northeast
+8         Midwest
+9         Midwest
+10        Midwest
+11        Midwest
+12          South
+13          South
+14          South
+15          South
+16           West
+17           West
+18           West
+19           West
+Name: Group Level, dtype: object
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 54, in get_hypertension_gep
+    price_dc_pp = cost_data.loc[(cost_data['Group Level'] == region_name) &
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+running usa 13085
+South
+0     All persons
+1     All persons
+2     All persons
+3     All persons
+4       Northeast
+5       Northeast
+6       Northeast
+7       Northeast
+8         Midwest
+9         Midwest
+10        Midwest
+11        Midwest
+12          South
+13          South
+14          South
+15          South
+16           West
+17           West
+18           West
+19           West
+Name: Group Level, dtype: object
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 48, in <module>
+    gep_hypertension_linear_county_prev_v04.get_hypertension_gep(county_geoid, perc_adults)
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 54, in get_hypertension_gep
+    price_dc_pp = cost_data.loc[(cost_data['Group Level'] == region_name) &
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear.py", line 9, in <module>
+    county_geoids = sys.argv[1].split(",")
+                    ~~~~~~~~^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear.py", line 9, in <module>
+    county_geoids = sys.argv[1].split(",")
+                    ~~~~~~~~^^^
+IndexError: list index out of range

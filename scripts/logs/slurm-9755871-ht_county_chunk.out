@@ -1,0 +1,96 @@
+running usa 13085
+South
+0     All persons
+1     All persons
+2     All persons
+3     All persons
+4       Northeast
+5       Northeast
+6       Northeast
+7       Northeast
+8         Midwest
+9         Midwest
+10        Midwest
+11        Midwest
+12          South
+13          South
+14          South
+15          South
+16           West
+17           West
+18           West
+19           West
+Name: Group Level, dtype: object
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13085_hypertension_results_2019_linear_county_prev.csv
+running usa 13015
+South
+0     All persons
+1     All persons
+2     All persons
+3     All persons
+4       Northeast
+5       Northeast
+6       Northeast
+7       Northeast
+8         Midwest
+9         Midwest
+10        Midwest
+11        Midwest
+12          South
+13          South
+14          South
+15          South
+16           West
+17           West
+18           West
+19           West
+Name: Group Level, dtype: object
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13015_hypertension_results_2019_linear_county_prev.csv
+running usa 13317
+South
+0     All persons
+1     All persons
+2     All persons
+3     All persons
+4       Northeast
+5       Northeast
+6       Northeast
+7       Northeast
+8         Midwest
+9         Midwest
+10        Midwest
+11        Midwest
+12          South
+13          South
+14          South
+15          South
+16           West
+17           West
+18           West
+19           West
+Name: Group Level, dtype: object
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13317_hypertension_results_2019_linear_county_prev.csv
+running usa 13133
+South
+0     All persons
+1     All persons
+2     All persons
+3     All persons
+4       Northeast
+5       Northeast
+6       Northeast
+7       Northeast
+8         Midwest
+9         Midwest
+10        Midwest
+11        Midwest
+12          South
+13          South
+14          South
+15          South
+16           West
+17           West
+18           West
+19           West
+Name: Group Level, dtype: object
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_18_26/13133_hypertension_results_2019_linear_county_prev.csv

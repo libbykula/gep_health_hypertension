@@ -1,0 +1,2961 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+running bra 23_7143
+FAILED bra 23_7143 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7144
+FAILED bra 23_7144 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7145
+FAILED bra 23_7145 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7146
+FAILED bra 23_7146 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7147
+FAILED bra 23_7147 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7148
+FAILED bra 23_7148 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7149
+FAILED bra 23_7149 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7150
+FAILED bra 23_7150 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7151
+FAILED bra 23_7151 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7152
+FAILED bra 23_7152 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7153
+FAILED bra 23_7153 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7154
+FAILED bra 23_7154 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7155
+FAILED bra 23_7155 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7156
+FAILED bra 23_7156 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7157
+FAILED bra 23_7157 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7158
+FAILED bra 23_7158 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7159
+FAILED bra 23_7159 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7160
+FAILED bra 23_7160 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7161
+FAILED bra 23_7161 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7162
+FAILED bra 23_7162 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7163
+FAILED bra 23_7163 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7164
+FAILED bra 23_7164 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7165
+FAILED bra 23_7165 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7166
+FAILED bra 23_7166 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7167
+FAILED bra 23_7167 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7168
+FAILED bra 23_7168 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7169
+FAILED bra 23_7169 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7170
+FAILED bra 23_7170 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7171
+FAILED bra 23_7171 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7172
+FAILED bra 23_7172 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7173
+FAILED bra 23_7173 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7174
+FAILED bra 23_7174 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7175
+FAILED bra 23_7175 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7176
+FAILED bra 23_7176 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7177
+FAILED bra 23_7177 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7178
+FAILED bra 23_7178 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7179
+FAILED bra 23_7179 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7180
+FAILED bra 23_7180 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7181
+FAILED bra 23_7181 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7182
+FAILED bra 23_7182 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7183
+FAILED bra 23_7183 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7184
+FAILED bra 23_7184 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7185
+FAILED bra 23_7185 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7186
+FAILED bra 23_7186 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7187
+FAILED bra 23_7187 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7188
+FAILED bra 23_7188 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7189
+FAILED bra 23_7189 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7190
+FAILED bra 23_7190 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7191
+FAILED bra 23_7191 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7192
+FAILED bra 23_7192 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6943
+FAILED bra 23_6943 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6944
+FAILED bra 23_6944 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6945
+FAILED bra 23_6945 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6946
+FAILED bra 23_6946 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6947
+FAILED bra 23_6947 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6948
+FAILED bra 23_6948 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6949
+FAILED bra 23_6949 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6950
+FAILED bra 23_6950 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6951
+FAILED bra 23_6951 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6952
+FAILED bra 23_6952 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6953
+FAILED bra 23_6953 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6954
+FAILED bra 23_6954 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6955
+FAILED bra 23_6955 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6956
+FAILED bra 23_6956 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6957
+FAILED bra 23_6957 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6958
+FAILED bra 23_6958 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6959
+FAILED bra 23_6959 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6960
+FAILED bra 23_6960 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6961
+FAILED bra 23_6961 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6962
+FAILED bra 23_6962 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6963
+FAILED bra 23_6963 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6964
+FAILED bra 23_6964 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6965
+FAILED bra 23_6965 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6966
+FAILED bra 23_6966 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6967
+FAILED bra 23_6967 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6968
+FAILED bra 23_6968 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6969
+FAILED bra 23_6969 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6970
+FAILED bra 23_6970 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6971
+FAILED bra 23_6971 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6972
+FAILED bra 23_6972 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6973
+FAILED bra 23_6973 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6974
+FAILED bra 23_6974 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6975
+FAILED bra 23_6975 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6976
+FAILED bra 23_6976 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6977
+FAILED bra 23_6977 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6978
+FAILED bra 23_6978 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6979
+FAILED bra 23_6979 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6980
+FAILED bra 23_6980 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6981
+FAILED bra 23_6981 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6982
+FAILED bra 23_6982 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6983
+FAILED bra 23_6983 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6984
+FAILED bra 23_6984 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6985
+FAILED bra 23_6985 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6986
+FAILED bra 23_6986 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6987
+FAILED bra 23_6987 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6988
+FAILED bra 23_6988 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6989
+FAILED bra 23_6989 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6990
+FAILED bra 23_6990 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6991
+FAILED bra 23_6991 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6992
+FAILED bra 23_6992 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7443
+FAILED bra 23_7443 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7444
+FAILED bra 23_7444 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7445
+FAILED bra 23_7445 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7446
+FAILED bra 23_7446 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7447
+FAILED bra 23_7447 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7448
+FAILED bra 23_7448 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7449
+FAILED bra 23_7449 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7450
+FAILED bra 23_7450 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7451
+FAILED bra 23_7451 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7452
+FAILED bra 23_7452 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7453
+FAILED bra 23_7453 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7454
+FAILED bra 23_7454 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7455
+FAILED bra 23_7455 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7456
+FAILED bra 23_7456 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7457
+FAILED bra 23_7457 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7458
+FAILED bra 23_7458 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7459
+FAILED bra 23_7459 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7460
+FAILED bra 23_7460 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7461
+FAILED bra 23_7461 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7462
+FAILED bra 23_7462 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7463
+FAILED bra 23_7463 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7464
+FAILED bra 23_7464 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7465
+FAILED bra 23_7465 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7466
+FAILED bra 23_7466 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7467
+FAILED bra 23_7467 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7468
+FAILED bra 23_7468 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7469
+FAILED bra 23_7469 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7470
+FAILED bra 23_7470 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7471
+FAILED bra 23_7471 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7472
+FAILED bra 23_7472 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7473
+FAILED bra 23_7473 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7474
+FAILED bra 23_7474 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7475
+FAILED bra 23_7475 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7476
+FAILED bra 23_7476 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7477
+FAILED bra 23_7477 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7478
+FAILED bra 23_7478 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7479
+FAILED bra 23_7479 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7480
+FAILED bra 23_7480 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7481
+FAILED bra 23_7481 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7482
+FAILED bra 23_7482 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7483
+FAILED bra 23_7483 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7484
+FAILED bra 23_7484 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7485
+FAILED bra 23_7485 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7486
+FAILED bra 23_7486 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7487
+FAILED bra 23_7487 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7488
+FAILED bra 23_7488 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7489
+FAILED bra 23_7489 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7490
+FAILED bra 23_7490 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7491
+FAILED bra 23_7491 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7492
+FAILED bra 23_7492 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7093
+FAILED bra 23_7093 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7094
+FAILED bra 23_7094 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7095
+FAILED bra 23_7095 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7096
+FAILED bra 23_7096 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7097
+FAILED bra 23_7097 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7098
+FAILED bra 23_7098 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7099
+FAILED bra 23_7099 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7100
+FAILED bra 23_7100 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7101
+FAILED bra 23_7101 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7102
+FAILED bra 23_7102 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7103
+FAILED bra 23_7103 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7104
+FAILED bra 23_7104 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7105
+FAILED bra 23_7105 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7106
+FAILED bra 23_7106 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7107
+FAILED bra 23_7107 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7108
+FAILED bra 23_7108 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7109
+FAILED bra 23_7109 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7110
+FAILED bra 23_7110 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7111
+FAILED bra 23_7111 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7112
+FAILED bra 23_7112 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7113
+FAILED bra 23_7113 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7114
+FAILED bra 23_7114 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7115
+FAILED bra 23_7115 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7116
+FAILED bra 23_7116 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7117
+FAILED bra 23_7117 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7118
+FAILED bra 23_7118 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7119
+FAILED bra 23_7119 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7120
+FAILED bra 23_7120 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7121
+FAILED bra 23_7121 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7122
+FAILED bra 23_7122 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7123
+FAILED bra 23_7123 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7124
+FAILED bra 23_7124 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7125
+FAILED bra 23_7125 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7126
+FAILED bra 23_7126 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7127
+FAILED bra 23_7127 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7128
+FAILED bra 23_7128 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7129
+FAILED bra 23_7129 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7130
+FAILED bra 23_7130 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7131
+FAILED bra 23_7131 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7132
+FAILED bra 23_7132 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7133
+FAILED bra 23_7133 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7134
+FAILED bra 23_7134 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7135
+FAILED bra 23_7135 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7136
+FAILED bra 23_7136 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7137
+FAILED bra 23_7137 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7138
+FAILED bra 23_7138 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7139
+FAILED bra 23_7139 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7140
+FAILED bra 23_7140 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7141
+FAILED bra 23_7141 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7142
+FAILED bra 23_7142 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6793
+FAILED bra 23_6793 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6794
+FAILED bra 23_6794 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6795
+FAILED bra 23_6795 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6796
+FAILED bra 23_6796 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6797
+FAILED bra 23_6797 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6798
+FAILED bra 23_6798 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6799
+FAILED bra 23_6799 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6800
+FAILED bra 23_6800 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6801
+FAILED bra 23_6801 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6802
+FAILED bra 23_6802 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6803
+FAILED bra 23_6803 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6804
+FAILED bra 23_6804 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6805
+FAILED bra 23_6805 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6806
+FAILED bra 23_6806 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6807
+FAILED bra 23_6807 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6808
+FAILED bra 23_6808 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6809
+FAILED bra 23_6809 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6810
+FAILED bra 23_6810 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6811
+FAILED bra 23_6811 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6812
+FAILED bra 23_6812 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6813
+FAILED bra 23_6813 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6814
+FAILED bra 23_6814 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6815
+FAILED bra 23_6815 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6816
+FAILED bra 23_6816 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6817
+FAILED bra 23_6817 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6818
+FAILED bra 23_6818 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6819
+FAILED bra 23_6819 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6820
+FAILED bra 23_6820 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6821
+FAILED bra 23_6821 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6822
+FAILED bra 23_6822 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6823
+FAILED bra 23_6823 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6824
+FAILED bra 23_6824 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6825
+FAILED bra 23_6825 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6826
+FAILED bra 23_6826 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6827
+FAILED bra 23_6827 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6828
+FAILED bra 23_6828 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6829
+FAILED bra 23_6829 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6830
+FAILED bra 23_6830 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6831
+FAILED bra 23_6831 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6832
+FAILED bra 23_6832 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6833
+FAILED bra 23_6833 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6834
+FAILED bra 23_6834 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6835
+FAILED bra 23_6835 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6836
+FAILED bra 23_6836 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6837
+FAILED bra 23_6837 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6838
+FAILED bra 23_6838 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6839
+FAILED bra 23_6839 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6840
+FAILED bra 23_6840 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6841
+FAILED bra 23_6841 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6842
+FAILED bra 23_6842 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6443
+FAILED bra 23_6443 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6444
+FAILED bra 23_6444 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6445
+FAILED bra 23_6445 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6446
+FAILED bra 23_6446 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6447
+FAILED bra 23_6447 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6448
+FAILED bra 23_6448 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6449
+FAILED bra 23_6449 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6450
+FAILED bra 23_6450 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6451
+FAILED bra 23_6451 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6452
+FAILED bra 23_6452 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6453
+FAILED bra 23_6453 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6454
+FAILED bra 23_6454 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6455
+FAILED bra 23_6455 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6456
+FAILED bra 23_6456 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6457
+FAILED bra 23_6457 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6458
+FAILED bra 23_6458 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6459
+FAILED bra 23_6459 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6460
+FAILED bra 23_6460 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6461
+FAILED bra 23_6461 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6462
+FAILED bra 23_6462 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6463
+FAILED bra 23_6463 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6464
+FAILED bra 23_6464 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6465
+FAILED bra 23_6465 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6466
+FAILED bra 23_6466 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6467
+FAILED bra 23_6467 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6468
+FAILED bra 23_6468 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6469
+FAILED bra 23_6469 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6470
+FAILED bra 23_6470 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6471
+FAILED bra 23_6471 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6472
+FAILED bra 23_6472 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6473
+FAILED bra 23_6473 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6474
+FAILED bra 23_6474 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6475
+FAILED bra 23_6475 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6476
+FAILED bra 23_6476 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6477
+FAILED bra 23_6477 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6478
+FAILED bra 23_6478 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6479
+FAILED bra 23_6479 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6480
+FAILED bra 23_6480 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6481
+FAILED bra 23_6481 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6482
+FAILED bra 23_6482 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6483
+FAILED bra 23_6483 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6484
+FAILED bra 23_6484 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6485
+FAILED bra 23_6485 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6486
+FAILED bra 23_6486 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6487
+FAILED bra 23_6487 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6488
+FAILED bra 23_6488 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6489
+FAILED bra 23_6489 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6490
+FAILED bra 23_6490 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6491
+FAILED bra 23_6491 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6492
+FAILED bra 23_6492 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6993
+FAILED bra 23_6993 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6994
+FAILED bra 23_6994 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6995
+FAILED bra 23_6995 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6996
+FAILED bra 23_6996 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6997
+FAILED bra 23_6997 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6998
+FAILED bra 23_6998 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6999
+FAILED bra 23_6999 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7000
+FAILED bra 23_7000 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7001
+FAILED bra 23_7001 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7002
+FAILED bra 23_7002 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7003
+FAILED bra 23_7003 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7004
+FAILED bra 23_7004 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7005
+FAILED bra 23_7005 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7006
+FAILED bra 23_7006 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7007
+FAILED bra 23_7007 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7008
+FAILED bra 23_7008 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7009
+FAILED bra 23_7009 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7010
+FAILED bra 23_7010 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7011
+FAILED bra 23_7011 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7012
+FAILED bra 23_7012 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7013
+FAILED bra 23_7013 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7014
+FAILED bra 23_7014 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7015
+FAILED bra 23_7015 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7016
+FAILED bra 23_7016 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7017
+FAILED bra 23_7017 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7018
+FAILED bra 23_7018 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7019
+FAILED bra 23_7019 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7020
+FAILED bra 23_7020 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7021
+FAILED bra 23_7021 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7022
+FAILED bra 23_7022 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7023
+FAILED bra 23_7023 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7024
+FAILED bra 23_7024 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7025
+FAILED bra 23_7025 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7026
+FAILED bra 23_7026 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7027
+FAILED bra 23_7027 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7028
+FAILED bra 23_7028 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7029
+FAILED bra 23_7029 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7030
+FAILED bra 23_7030 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7031
+FAILED bra 23_7031 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7032
+FAILED bra 23_7032 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7033
+FAILED bra 23_7033 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7034
+FAILED bra 23_7034 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7035
+FAILED bra 23_7035 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7036
+FAILED bra 23_7036 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7037
+FAILED bra 23_7037 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7038
+FAILED bra 23_7038 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7039
+FAILED bra 23_7039 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7040
+FAILED bra 23_7040 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7041
+FAILED bra 23_7041 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7042
+FAILED bra 23_7042 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6743
+FAILED bra 23_6743 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6744
+FAILED bra 23_6744 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6745
+FAILED bra 23_6745 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6746
+FAILED bra 23_6746 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6747
+FAILED bra 23_6747 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6748
+FAILED bra 23_6748 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6749
+FAILED bra 23_6749 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6750
+FAILED bra 23_6750 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6751
+FAILED bra 23_6751 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6752
+FAILED bra 23_6752 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6753
+FAILED bra 23_6753 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6754
+FAILED bra 23_6754 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6755
+FAILED bra 23_6755 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6756
+FAILED bra 23_6756 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6757
+FAILED bra 23_6757 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6758
+FAILED bra 23_6758 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6759
+FAILED bra 23_6759 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6760
+FAILED bra 23_6760 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6761
+FAILED bra 23_6761 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6762
+FAILED bra 23_6762 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6763
+FAILED bra 23_6763 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6764
+FAILED bra 23_6764 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6765
+FAILED bra 23_6765 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6766
+FAILED bra 23_6766 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6767
+FAILED bra 23_6767 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6768
+FAILED bra 23_6768 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6769
+FAILED bra 23_6769 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6770
+FAILED bra 23_6770 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6771
+FAILED bra 23_6771 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6772
+FAILED bra 23_6772 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6773
+FAILED bra 23_6773 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6774
+FAILED bra 23_6774 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6775
+FAILED bra 23_6775 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6776
+FAILED bra 23_6776 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6777
+FAILED bra 23_6777 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6778
+FAILED bra 23_6778 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6779
+FAILED bra 23_6779 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6780
+FAILED bra 23_6780 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6781
+FAILED bra 23_6781 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6782
+FAILED bra 23_6782 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6783
+FAILED bra 23_6783 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6784
+FAILED bra 23_6784 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6785
+FAILED bra 23_6785 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6786
+FAILED bra 23_6786 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6787
+FAILED bra 23_6787 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6788
+FAILED bra 23_6788 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6789
+FAILED bra 23_6789 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6790
+FAILED bra 23_6790 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6791
+FAILED bra 23_6791 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6792
+FAILED bra 23_6792 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7393
+FAILED bra 23_7393 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7394
+FAILED bra 23_7394 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7395
+FAILED bra 23_7395 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7396
+FAILED bra 23_7396 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7397
+FAILED bra 23_7397 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7398
+FAILED bra 23_7398 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7399
+FAILED bra 23_7399 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7400
+FAILED bra 23_7400 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7401
+FAILED bra 23_7401 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7402
+FAILED bra 23_7402 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7403
+FAILED bra 23_7403 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7404
+FAILED bra 23_7404 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7405
+FAILED bra 23_7405 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7406
+FAILED bra 23_7406 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7407
+FAILED bra 23_7407 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7408
+FAILED bra 23_7408 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7409
+FAILED bra 23_7409 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7410
+FAILED bra 23_7410 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7411
+FAILED bra 23_7411 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7412
+FAILED bra 23_7412 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7413
+FAILED bra 23_7413 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7414
+FAILED bra 23_7414 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7415
+FAILED bra 23_7415 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7416
+FAILED bra 23_7416 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7417
+FAILED bra 23_7417 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7418
+FAILED bra 23_7418 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7419
+FAILED bra 23_7419 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7420
+FAILED bra 23_7420 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7421
+FAILED bra 23_7421 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7422
+FAILED bra 23_7422 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7423
+FAILED bra 23_7423 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7424
+FAILED bra 23_7424 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7425
+FAILED bra 23_7425 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7426
+FAILED bra 23_7426 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7427
+FAILED bra 23_7427 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7428
+FAILED bra 23_7428 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7429
+FAILED bra 23_7429 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7430
+FAILED bra 23_7430 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7431
+FAILED bra 23_7431 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7432
+FAILED bra 23_7432 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7433
+FAILED bra 23_7433 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7434
+FAILED bra 23_7434 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7435
+FAILED bra 23_7435 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7436
+FAILED bra 23_7436 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7437
+FAILED bra 23_7437 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7438
+FAILED bra 23_7438 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7439
+FAILED bra 23_7439 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7440
+FAILED bra 23_7440 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7441
+FAILED bra 23_7441 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7442
+FAILED bra 23_7442 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6593
+FAILED bra 23_6593 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6594
+FAILED bra 23_6594 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6595
+FAILED bra 23_6595 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6596
+FAILED bra 23_6596 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6597
+FAILED bra 23_6597 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6598
+FAILED bra 23_6598 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6599
+FAILED bra 23_6599 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6600
+FAILED bra 23_6600 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6601
+FAILED bra 23_6601 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6602
+FAILED bra 23_6602 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6603
+FAILED bra 23_6603 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6604
+FAILED bra 23_6604 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6605
+FAILED bra 23_6605 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6606
+FAILED bra 23_6606 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6607
+FAILED bra 23_6607 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6608
+FAILED bra 23_6608 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6609
+FAILED bra 23_6609 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6610
+FAILED bra 23_6610 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6611
+FAILED bra 23_6611 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6612
+FAILED bra 23_6612 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6613
+FAILED bra 23_6613 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6614
+FAILED bra 23_6614 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6615
+FAILED bra 23_6615 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6616
+FAILED bra 23_6616 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6617
+FAILED bra 23_6617 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6618
+FAILED bra 23_6618 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6619
+FAILED bra 23_6619 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6620
+FAILED bra 23_6620 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6621
+FAILED bra 23_6621 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6622
+FAILED bra 23_6622 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6623
+FAILED bra 23_6623 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6624
+FAILED bra 23_6624 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6625
+FAILED bra 23_6625 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6626
+FAILED bra 23_6626 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6627
+FAILED bra 23_6627 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6628
+FAILED bra 23_6628 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6629
+FAILED bra 23_6629 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6630
+FAILED bra 23_6630 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6631
+FAILED bra 23_6631 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6632
+FAILED bra 23_6632 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6633
+FAILED bra 23_6633 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6634
+FAILED bra 23_6634 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6635
+FAILED bra 23_6635 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6636
+FAILED bra 23_6636 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6637
+FAILED bra 23_6637 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6638
+FAILED bra 23_6638 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6639
+FAILED bra 23_6639 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6640
+FAILED bra 23_6640 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6641
+FAILED bra 23_6641 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6642
+FAILED bra 23_6642 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6693
+FAILED bra 23_6693 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6694
+FAILED bra 23_6694 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6695
+FAILED bra 23_6695 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6696
+FAILED bra 23_6696 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6697
+FAILED bra 23_6697 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6698
+FAILED bra 23_6698 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6699
+FAILED bra 23_6699 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6700
+FAILED bra 23_6700 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6701
+FAILED bra 23_6701 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6702
+FAILED bra 23_6702 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6703
+FAILED bra 23_6703 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6704
+FAILED bra 23_6704 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6705
+FAILED bra 23_6705 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6706
+FAILED bra 23_6706 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6707
+FAILED bra 23_6707 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6708
+FAILED bra 23_6708 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6709
+FAILED bra 23_6709 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6710
+FAILED bra 23_6710 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6711
+FAILED bra 23_6711 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6712
+FAILED bra 23_6712 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6713
+FAILED bra 23_6713 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6714
+FAILED bra 23_6714 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6715
+FAILED bra 23_6715 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6716
+FAILED bra 23_6716 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6717
+FAILED bra 23_6717 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6718
+FAILED bra 23_6718 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6719
+FAILED bra 23_6719 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6720
+FAILED bra 23_6720 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6721
+FAILED bra 23_6721 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6722
+FAILED bra 23_6722 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6723
+FAILED bra 23_6723 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6724
+FAILED bra 23_6724 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6725
+FAILED bra 23_6725 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6726
+FAILED bra 23_6726 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6727
+FAILED bra 23_6727 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6728
+FAILED bra 23_6728 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6729
+FAILED bra 23_6729 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6730
+FAILED bra 23_6730 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6731
+FAILED bra 23_6731 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6732
+FAILED bra 23_6732 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6733
+FAILED bra 23_6733 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6734
+FAILED bra 23_6734 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6735
+FAILED bra 23_6735 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6736
+FAILED bra 23_6736 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6737
+FAILED bra 23_6737 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6738
+FAILED bra 23_6738 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6739
+FAILED bra 23_6739 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6740
+FAILED bra 23_6740 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6741
+FAILED bra 23_6741 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6742
+FAILED bra 23_6742 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7043
+FAILED bra 23_7043 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7044
+FAILED bra 23_7044 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7045
+FAILED bra 23_7045 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7046
+FAILED bra 23_7046 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7047
+FAILED bra 23_7047 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7048
+FAILED bra 23_7048 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7049
+FAILED bra 23_7049 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7050
+FAILED bra 23_7050 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7051
+FAILED bra 23_7051 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7052
+FAILED bra 23_7052 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7053
+FAILED bra 23_7053 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7054
+FAILED bra 23_7054 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7055
+FAILED bra 23_7055 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7056
+FAILED bra 23_7056 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7057
+FAILED bra 23_7057 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7058
+FAILED bra 23_7058 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7059
+FAILED bra 23_7059 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7060
+FAILED bra 23_7060 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7061
+FAILED bra 23_7061 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7062
+FAILED bra 23_7062 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7063
+FAILED bra 23_7063 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7064
+FAILED bra 23_7064 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7065
+FAILED bra 23_7065 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7066
+FAILED bra 23_7066 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7067
+FAILED bra 23_7067 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7068
+FAILED bra 23_7068 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7069
+FAILED bra 23_7069 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7070
+FAILED bra 23_7070 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7071
+FAILED bra 23_7071 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7072
+FAILED bra 23_7072 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7073
+FAILED bra 23_7073 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7074
+FAILED bra 23_7074 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7075
+FAILED bra 23_7075 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7076
+FAILED bra 23_7076 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7077
+FAILED bra 23_7077 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7078
+FAILED bra 23_7078 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7079
+FAILED bra 23_7079 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7080
+FAILED bra 23_7080 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7081
+FAILED bra 23_7081 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7082
+FAILED bra 23_7082 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7083
+FAILED bra 23_7083 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7084
+FAILED bra 23_7084 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7085
+FAILED bra 23_7085 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7086
+FAILED bra 23_7086 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7087
+FAILED bra 23_7087 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7088
+FAILED bra 23_7088 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7089
+FAILED bra 23_7089 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7090
+FAILED bra 23_7090 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7091
+FAILED bra 23_7091 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7092
+FAILED bra 23_7092 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6843
+FAILED bra 23_6843 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6844
+FAILED bra 23_6844 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6845
+FAILED bra 23_6845 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6846
+FAILED bra 23_6846 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6847
+FAILED bra 23_6847 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6848
+FAILED bra 23_6848 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6849
+FAILED bra 23_6849 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6850
+FAILED bra 23_6850 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6851
+FAILED bra 23_6851 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6852
+FAILED bra 23_6852 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6853
+FAILED bra 23_6853 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6854
+FAILED bra 23_6854 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6855
+FAILED bra 23_6855 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6856
+FAILED bra 23_6856 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6857
+FAILED bra 23_6857 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6858
+FAILED bra 23_6858 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6859
+FAILED bra 23_6859 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6860
+FAILED bra 23_6860 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6861
+FAILED bra 23_6861 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6862
+FAILED bra 23_6862 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6863
+FAILED bra 23_6863 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6864
+FAILED bra 23_6864 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6865
+FAILED bra 23_6865 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6866
+FAILED bra 23_6866 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6867
+FAILED bra 23_6867 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6868
+FAILED bra 23_6868 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6869
+FAILED bra 23_6869 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6870
+FAILED bra 23_6870 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6871
+FAILED bra 23_6871 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6872
+FAILED bra 23_6872 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6873
+FAILED bra 23_6873 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6874
+FAILED bra 23_6874 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6875
+FAILED bra 23_6875 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6876
+FAILED bra 23_6876 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6877
+FAILED bra 23_6877 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6878
+FAILED bra 23_6878 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6879
+FAILED bra 23_6879 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6880
+FAILED bra 23_6880 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6881
+FAILED bra 23_6881 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6882
+FAILED bra 23_6882 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6883
+FAILED bra 23_6883 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6884
+FAILED bra 23_6884 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6885
+FAILED bra 23_6885 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6886
+FAILED bra 23_6886 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6887
+FAILED bra 23_6887 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6888
+FAILED bra 23_6888 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6889
+FAILED bra 23_6889 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6890
+FAILED bra 23_6890 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6891
+FAILED bra 23_6891 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6892
+FAILED bra 23_6892 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6643
+FAILED bra 23_6643 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6644
+FAILED bra 23_6644 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6645
+FAILED bra 23_6645 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6646
+FAILED bra 23_6646 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6647
+FAILED bra 23_6647 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6648
+FAILED bra 23_6648 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6649
+FAILED bra 23_6649 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6650
+FAILED bra 23_6650 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6651
+FAILED bra 23_6651 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6652
+FAILED bra 23_6652 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6653
+FAILED bra 23_6653 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6654
+FAILED bra 23_6654 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6655
+FAILED bra 23_6655 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6656
+FAILED bra 23_6656 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6657
+FAILED bra 23_6657 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6658
+FAILED bra 23_6658 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6659
+FAILED bra 23_6659 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6660
+FAILED bra 23_6660 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6661
+FAILED bra 23_6661 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6662
+FAILED bra 23_6662 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6663
+FAILED bra 23_6663 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6664
+FAILED bra 23_6664 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6665
+FAILED bra 23_6665 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6666
+FAILED bra 23_6666 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6667
+FAILED bra 23_6667 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6668
+FAILED bra 23_6668 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6669
+FAILED bra 23_6669 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6670
+FAILED bra 23_6670 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6671
+FAILED bra 23_6671 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6672
+FAILED bra 23_6672 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6673
+FAILED bra 23_6673 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6674
+FAILED bra 23_6674 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6675
+FAILED bra 23_6675 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6676
+FAILED bra 23_6676 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6677
+FAILED bra 23_6677 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6678
+FAILED bra 23_6678 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6679
+FAILED bra 23_6679 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6680
+FAILED bra 23_6680 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6681
+FAILED bra 23_6681 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6682
+FAILED bra 23_6682 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6683
+FAILED bra 23_6683 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6684
+FAILED bra 23_6684 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6685
+FAILED bra 23_6685 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6686
+FAILED bra 23_6686 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6687
+FAILED bra 23_6687 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6688
+FAILED bra 23_6688 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6689
+FAILED bra 23_6689 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6690
+FAILED bra 23_6690 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6691
+FAILED bra 23_6691 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6692
+FAILED bra 23_6692 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6493
+FAILED bra 23_6493 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6494
+FAILED bra 23_6494 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6495
+FAILED bra 23_6495 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6496
+FAILED bra 23_6496 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6497
+FAILED bra 23_6497 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6498
+FAILED bra 23_6498 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6499
+FAILED bra 23_6499 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6500
+FAILED bra 23_6500 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6501
+FAILED bra 23_6501 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6502
+FAILED bra 23_6502 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6503
+FAILED bra 23_6503 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6504
+FAILED bra 23_6504 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6505
+FAILED bra 23_6505 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6506
+FAILED bra 23_6506 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6507
+FAILED bra 23_6507 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6508
+FAILED bra 23_6508 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6509
+FAILED bra 23_6509 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6510
+FAILED bra 23_6510 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6511
+FAILED bra 23_6511 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6512
+FAILED bra 23_6512 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6513
+FAILED bra 23_6513 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6514
+FAILED bra 23_6514 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6515
+FAILED bra 23_6515 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6516
+FAILED bra 23_6516 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6517
+FAILED bra 23_6517 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6518
+FAILED bra 23_6518 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6519
+FAILED bra 23_6519 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6520
+FAILED bra 23_6520 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6521
+FAILED bra 23_6521 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6522
+FAILED bra 23_6522 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6523
+FAILED bra 23_6523 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6524
+FAILED bra 23_6524 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6525
+FAILED bra 23_6525 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6526
+FAILED bra 23_6526 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6527
+FAILED bra 23_6527 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6528
+FAILED bra 23_6528 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6529
+FAILED bra 23_6529 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6530
+FAILED bra 23_6530 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6531
+FAILED bra 23_6531 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6532
+FAILED bra 23_6532 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6533
+FAILED bra 23_6533 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6534
+FAILED bra 23_6534 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6535
+FAILED bra 23_6535 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6536
+FAILED bra 23_6536 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6537
+FAILED bra 23_6537 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6538
+FAILED bra 23_6538 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6539
+FAILED bra 23_6539 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6540
+FAILED bra 23_6540 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6541
+FAILED bra 23_6541 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6542
+FAILED bra 23_6542 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6893
+FAILED bra 23_6893 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6894
+FAILED bra 23_6894 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6895
+FAILED bra 23_6895 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6896
+FAILED bra 23_6896 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6897
+FAILED bra 23_6897 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6898
+FAILED bra 23_6898 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6899
+FAILED bra 23_6899 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6900
+FAILED bra 23_6900 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6901
+FAILED bra 23_6901 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6902
+FAILED bra 23_6902 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6903
+FAILED bra 23_6903 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6904
+FAILED bra 23_6904 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6905
+FAILED bra 23_6905 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6906
+FAILED bra 23_6906 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6907
+FAILED bra 23_6907 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6908
+FAILED bra 23_6908 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6909
+FAILED bra 23_6909 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6910
+FAILED bra 23_6910 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6911
+FAILED bra 23_6911 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6912
+FAILED bra 23_6912 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6913
+FAILED bra 23_6913 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6914
+FAILED bra 23_6914 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6915
+FAILED bra 23_6915 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6916
+FAILED bra 23_6916 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6917
+FAILED bra 23_6917 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6918
+FAILED bra 23_6918 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6919
+FAILED bra 23_6919 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6920
+FAILED bra 23_6920 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6921
+FAILED bra 23_6921 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6922
+FAILED bra 23_6922 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6923
+FAILED bra 23_6923 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6924
+FAILED bra 23_6924 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6925
+FAILED bra 23_6925 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6926
+FAILED bra 23_6926 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6927
+FAILED bra 23_6927 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6928
+FAILED bra 23_6928 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6929
+FAILED bra 23_6929 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6930
+FAILED bra 23_6930 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6931
+FAILED bra 23_6931 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6932
+FAILED bra 23_6932 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6933
+FAILED bra 23_6933 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6934
+FAILED bra 23_6934 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6935
+FAILED bra 23_6935 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6936
+FAILED bra 23_6936 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6937
+FAILED bra 23_6937 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6938
+FAILED bra 23_6938 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6939
+FAILED bra 23_6939 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6940
+FAILED bra 23_6940 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6941
+FAILED bra 23_6941 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6942
+FAILED bra 23_6942 'NoneType' object has no attribute 'GetGeoTransform'
+ED bra 23_5392 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5393
+FAILED bra 23_5393 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5394
+FAILED bra 23_5394 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5395
+FAILED bra 23_5395 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5396
+FAILED bra 23_5396 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5397
+FAILED bra 23_5397 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5398
+FAILED bra 23_5398 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5399
+FAILED bra 23_5399 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5400
+FAILED bra 23_5400 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5401
+FAILED bra 23_5401 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5402
+FAILED bra 23_5402 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5403
+FAILED bra 23_5403 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5404
+FAILED bra 23_5404 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5405
+FAILED bra 23_5405 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5406
+FAILED bra 23_5406 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5407
+FAILED bra 23_5407 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5408
+FAILED bra 23_5408 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5409
+FAILED bra 23_5409 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5410
+FAILED bra 23_5410 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5411
+FAILED bra 23_5411 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5412
+FAILED bra 23_5412 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5413
+FAILED bra 23_5413 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5414
+FAILED bra 23_5414 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5415
+FAILED bra 23_5415 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5416
+FAILED bra 23_5416 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5417
+FAILED bra 23_5417 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5418
+FAILED bra 23_5418 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5419
+FAILED bra 23_5419 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5420
+FAILED bra 23_5420 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5421
+FAILED bra 23_5421 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5422
+FAILED bra 23_5422 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5423
+FAILED bra 23_5423 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5424
+FAILED bra 23_5424 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5425
+FAILED bra 23_5425 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5426
+FAILED bra 23_5426 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5427
+FAILED bra 23_5427 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5428
+FAILED bra 23_5428 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5429
+FAILED bra 23_5429 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5430
+FAILED bra 23_5430 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5431
+FAILED bra 23_5431 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5432
+FAILED bra 23_5432 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5433
+FAILED bra 23_5433 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5434
+FAILED bra 23_5434 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5435
+FAILED bra 23_5435 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5436
+FAILED bra 23_5436 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5437
+FAILED bra 23_5437 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5438
+FAILED bra 23_5438 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5439
+FAILED bra 23_5439 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5440
+FAILED bra 23_5440 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5441
+FAILED bra 23_5441 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5442
+FAILED bra 23_5442 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5443
+FAILED bra 23_5443 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5444
+FAILED bra 23_5444 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5445
+FAILED bra 23_5445 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5446
+FAILED bra 23_5446 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5447
+FAILED bra 23_5447 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5448
+FAILED bra 23_5448 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5449
+FAILED bra 23_5449 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5450
+FAILED bra 23_5450 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5451
+FAILED bra 23_5451 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5452
+FAILED bra 23_5452 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5453
+FAILED bra 23_5453 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5454
+FAILED bra 23_5454 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5455
+FAILED bra 23_5455 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5456
+FAILED bra 23_5456 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5457
+FAILED bra 23_5457 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5458
+FAILED bra 23_5458 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5459
+FAILED bra 23_5459 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5460
+FAILED bra 23_5460 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5461
+FAILED bra 23_5461 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5462
+FAILED bra 23_5462 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5463
+FAILED bra 23_5463 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5464
+FAILED bra 23_5464 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5465
+FAILED bra 23_5465 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5466
+FAILED bra 23_5466 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5467
+FAILED bra 23_5467 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5468
+FAILED bra 23_5468 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5469
+FAILED bra 23_5469 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5470
+FAILED bra 23_5470 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5471
+FAILED bra 23_5471 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5472
+FAILED bra 23_5472 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5473
+FAILED bra 23_5473 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5474
+FAILED bra 23_5474 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5475
+FAILED bra 23_5475 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5476
+FAILED bra 23_5476 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5477
+FAILED bra 23_5477 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5478
+FAILED bra 23_5478 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5479
+FAILED bra 23_5479 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5480
+FAILED bra 23_5480 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5481
+FAILED bra 23_5481 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5482
+FAILED bra 23_5482 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5483
+FAILED bra 23_5483 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5484
+FAILED bra 23_5484 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5485
+FAILED bra 23_5485 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5486
+FAILED bra 23_5486 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5487
+FAILED bra 23_5487 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5488
+FAILED bra 23_5488 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5489
+FAILED bra 23_5489 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5490
+FAILED bra 23_5490 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5491
+FAILED bra 23_5491 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5492
+FAILED bra 23_5492 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5493
+FAILED bra 23_5493 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5494
+FAILED bra 23_5494 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5495
+FAILED bra 23_5495 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5496
+FAILED bra 23_5496 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5497
+FAILED bra 23_5497 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5498
+FAILED bra 23_5498 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5499
+FAILED bra 23_5499 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5500
+FAILED bra 23_5500 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5501
+FAILED bra 23_5501 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5502
+FAILED bra 23_5502 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5503
+FAILED bra 23_5503 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5504
+FAILED bra 23_5504 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5505
+FAILED bra 23_5505 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5506
+FAILED bra 23_5506 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5507
+FAILED bra 23_5507 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5508
+FAILED bra 23_5508 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5509
+FAILED bra 23_5509 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5510
+FAILED bra 23_5510 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5511
+FAILED bra 23_5511 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5512
+FAILED bra 23_5512 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5513
+FAILED bra 23_5513 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5514
+FAILED bra 23_5514 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5515
+FAILED bra 23_5515 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5516
+FAILED bra 23_5516 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5517
+FAILED bra 23_5517 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5518
+FAILED bra 23_5518 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5519
+FAILED bra 23_5519 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5520
+FAILED bra 23_5520 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5521
+FAILED bra 23_5521 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5522
+FAILED bra 23_5522 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5523
+FAILED bra 23_5523 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5524
+FAILED bra 23_5524 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5525
+FAILED bra 23_5525 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5526
+FAILED bra 23_5526 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5527
+FAILED bra 23_5527 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5528
+FAILED bra 23_5528 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5529
+FAILED bra 23_5529 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5530
+FAILED bra 23_5530 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5531
+FAILED bra 23_5531 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5532
+FAILED bra 23_5532 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5533
+FAILED bra 23_5533 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5534
+FAILED bra 23_5534 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5535
+FAILED bra 23_5535 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5536
+FAILED bra 23_5536 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5537
+FAILED bra 23_5537 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5538
+FAILED bra 23_5538 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5539
+FAILED bra 23_5539 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5540
+FAILED bra 23_5540 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5541
+FAILED bra 23_5541 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1038
+FAILED bra 30_1038 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1039
+FAILED bra 30_1039 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1040
+FAILED bra 30_1040 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1041
+FAILED bra 30_1041 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1042
+FAILED bra 30_1042 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1043
+FAILED bra 30_1043 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1044
+FAILED bra 30_1044 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1045
+FAILED bra 30_1045 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1046
+FAILED bra 30_1046 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1047
+FAILED bra 30_1047 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1048
+FAILED bra 30_1048 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1049
+FAILED bra 30_1049 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1050
+FAILED bra 30_1050 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1051
+FAILED bra 30_1051 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1052
+FAILED bra 30_1052 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1053
+FAILED bra 30_1053 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1054
+FAILED bra 30_1054 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1055
+FAILED bra 30_1055 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1056
+FAILED bra 30_1056 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1057
+FAILED bra 30_1057 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1058
+FAILED bra 30_1058 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1059
+FAILED bra 30_1059 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1060
+FAILED bra 30_1060 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1061
+FAILED bra 30_1061 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1062
+FAILED bra 30_1062 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1063
+FAILED bra 30_1063 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1064
+FAILED bra 30_1064 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1065
+FAILED bra 30_1065 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1066
+FAILED bra 30_1066 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1067
+FAILED bra 30_1067 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1068
+FAILED bra 30_1068 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1069
+FAILED bra 30_1069 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1070
+FAILED bra 30_1070 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1071
+FAILED bra 30_1071 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1072
+FAILED bra 30_1072 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1073
+FAILED bra 30_1073 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1074
+FAILED bra 30_1074 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1075
+FAILED bra 30_1075 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1076
+FAILED bra 30_1076 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1077
+FAILED bra 30_1077 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1078
+FAILED bra 30_1078 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1079
+FAILED bra 30_1079 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1080
+FAILED bra 30_1080 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1081
+FAILED bra 30_1081 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1082
+FAILED bra 30_1082 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1083
+FAILED bra 30_1083 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1084
+FAILED bra 30_1084 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1085
+FAILED bra 30_1085 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_1086
+FAILED bra 30_1086 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5391
+FAILED bra 23_5391 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_738
+FAILED bra 30_738 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_739
+FAILED bra 30_739 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_740
+FAILED bra 30_740 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_741
+FAILED bra 30_741 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_742
+FAILED bra 30_742 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_743
+FAILED bra 30_743 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_744
+FAILED bra 30_744 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_745
+FAILED bra 30_745 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_746
+FAILED bra 30_746 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_747
+FAILED bra 30_747 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_748
+FAILED bra 30_748 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_749
+FAILED bra 30_749 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_750
+FAILED bra 30_750 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_751
+FAILED bra 30_751 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_752
+FAILED bra 30_752 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_753
+FAILED bra 30_753 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_754
+FAILED bra 30_754 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_755
+FAILED bra 30_755 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_756
+FAILED bra 30_756 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_757
+FAILED bra 30_757 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_758
+FAILED bra 30_758 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_759
+FAILED bra 30_759 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_760
+FAILED bra 30_760 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_761
+FAILED bra 30_761 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_762
+FAILED bra 30_762 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_763
+FAILED bra 30_763 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_764
+FAILED bra 30_764 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_765
+FAILED bra 30_765 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_766
+FAILED bra 30_766 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_767
+FAILED bra 30_767 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_768
+FAILED bra 30_768 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_769
+FAILED bra 30_769 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_770
+FAILED bra 30_770 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_771
+FAILED bra 30_771 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_772
+FAILED bra 30_772 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_773
+FAILED bra 30_773 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_774
+FAILED bra 30_774 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_775
+FAILED bra 30_775 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_776
+FAILED bra 30_776 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_777
+FAILED bra 30_777 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_778
+FAILED bra 30_778 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_779
+FAILED bra 30_779 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_780
+FAILED bra 30_780 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_781
+FAILED bra 30_781 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_782
+FAILED bra 30_782 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_783
+FAILED bra 30_783 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_784
+FAILED bra 30_784 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_785
+FAILED bra 30_785 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_786
+FAILED bra 30_786 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 30_787
+FAILED bra 30_787 'NoneType' object has no attribute 'GetGeoTransform'
+[2026-05-18T13:25:21.775] error: *** JOB 9375825 ON acn135 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+[2026-05-18T13:25:21.776] error: *** JOB 9375826 ON acn135 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+as no attribute 'GetGeoTransform'
+running bra 22_1297
+FAILED bra 22_1297 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1298
+FAILED bra 22_1298 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1299
+FAILED bra 22_1299 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1300
+FAILED bra 22_1300 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1301
+FAILED bra 22_1301 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1302
+FAILED bra 22_1302 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1303
+FAILED bra 22_1303 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1304
+FAILED bra 22_1304 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1305
+FAILED bra 22_1305 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1306
+FAILED bra 22_1306 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1307
+FAILED bra 22_1307 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1308
+FAILED bra 22_1308 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1309
+FAILED bra 22_1309 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1310
+FAILED bra 22_1310 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1311
+FAILED bra 22_1311 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1312
+FAILED bra 22_1312 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1313
+FAILED bra 22_1313 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1314
+FAILED bra 22_1314 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1315
+FAILED bra 22_1315 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1316
+FAILED bra 22_1316 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1317
+FAILED bra 22_1317 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1318
+FAILED bra 22_1318 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1319
+FAILED bra 22_1319 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1320
+FAILED bra 22_1320 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1321
+FAILED bra 22_1321 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1322
+FAILED bra 22_1322 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1323
+FAILED bra 22_1323 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1324
+FAILED bra 22_1324 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1325
+FAILED bra 22_1325 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1326
+FAILED bra 22_1326 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 22_1327
+FAILED bra 22_1327 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7493
+FAILED bra 23_7493 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7494
+FAILED bra 23_7494 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7495
+FAILED bra 23_7495 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7496
+FAILED bra 23_7496 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7497
+FAILED bra 23_7497 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7498
+FAILED bra 23_7498 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7499
+FAILED bra 23_7499 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7500
+FAILED bra 23_7500 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7501
+FAILED bra 23_7501 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7502
+FAILED bra 23_7502 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7503
+FAILED bra 23_7503 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7504
+FAILED bra 23_7504 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7505
+FAILED bra 23_7505 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7506
+FAILED bra 23_7506 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7507
+FAILED bra 23_7507 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7508
+FAILED bra 23_7508 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7509
+FAILED bra 23_7509 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7510
+FAILED bra 23_7510 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7511
+FAILED bra 23_7511 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7512
+FAILED bra 23_7512 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7513
+FAILED bra 23_7513 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7514
+FAILED bra 23_7514 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7515
+FAILED bra 23_7515 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7516
+FAILED bra 23_7516 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7517
+FAILED bra 23_7517 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7518
+FAILED bra 23_7518 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7519
+FAILED bra 23_7519 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7520
+FAILED bra 23_7520 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7521
+FAILED bra 23_7521 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7522
+FAILED bra 23_7522 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7523
+FAILED bra 23_7523 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7524
+FAILED bra 23_7524 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7525
+FAILED bra 23_7525 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7526
+FAILED bra 23_7526 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7527
+FAILED bra 23_7527 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7528
+FAILED bra 23_7528 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7529
+FAILED bra 23_7529 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7530
+FAILED bra 23_7530 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7531
+FAILED bra 23_7531 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7532
+FAILED bra 23_7532 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7533
+FAILED bra 23_7533 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7534
+FAILED bra 23_7534 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7535
+FAILED bra 23_7535 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7536
+FAILED bra 23_7536 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7537
+FAILED bra 23_7537 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7538
+FAILED bra 23_7538 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7539
+FAILED bra 23_7539 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7540
+FAILED bra 23_7540 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7541
+FAILED bra 23_7541 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_7542
+FAILED bra 23_7542 'NoneType' object has no attribute 'GetGeoTransform'
+[2026-05-18T13:25:21.777] error: *** JOB 9375844 ON acn205 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+a 23_6244 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6245
+FAILED bra 23_6245 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6246
+FAILED bra 23_6246 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6247
+FAILED bra 23_6247 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6248
+FAILED bra 23_6248 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6249
+FAILED bra 23_6249 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6250
+FAILED bra 23_6250 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6251
+FAILED bra 23_6251 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6252
+FAILED bra 23_6252 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6253
+FAILED bra 23_6253 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6254
+FAILED bra 23_6254 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6255
+FAILED bra 23_6255 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6256
+FAILED bra 23_6256 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6257
+FAILED bra 23_6257 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6258
+FAILED bra 23_6258 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6259
+FAILED bra 23_6259 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6260
+FAILED bra 23_6260 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6261
+FAILED bra 23_6261 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6262
+FAILED bra 23_6262 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6263
+FAILED bra 23_6263 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6264
+FAILED bra 23_6264 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6265
+FAILED bra 23_6265 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6266
+FAILED bra 23_6266 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6267
+FAILED bra 23_6267 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6268
+FAILED bra 23_6268 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6269
+FAILED bra 23_6269 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6270
+FAILED bra 23_6270 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6271
+FAILED bra 23_6271 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6272
+FAILED bra 23_6272 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6273
+FAILED bra 23_6273 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6274
+FAILED bra 23_6274 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6275
+FAILED bra 23_6275 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6276
+FAILED bra 23_6276 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6277
+FAILED bra 23_6277 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6278
+FAILED bra 23_6278 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6279
+FAILED bra 23_6279 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6280
+FAILED bra 23_6280 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6281
+FAILED bra 23_6281 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6282
+FAILED bra 23_6282 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6283
+FAILED bra 23_6283 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6284
+FAILED bra 23_6284 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6285
+FAILED bra 23_6285 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6286
+FAILED bra 23_6286 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6287
+FAILED bra 23_6287 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6288
+FAILED bra 23_6288 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6289
+FAILED bra 23_6289 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6290
+FAILED bra 23_6290 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6291
+FAILED bra 23_6291 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6292
+FAILED bra 23_6292 'NoneType' object has no attribute 'GetGeoTransform'
+[2026-05-18T13:25:21.777] error: *** JOB 9375832 ON acn209 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+a 23_6194 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6195
+FAILED bra 23_6195 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6196
+FAILED bra 23_6196 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6197
+FAILED bra 23_6197 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6198
+FAILED bra 23_6198 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6199
+FAILED bra 23_6199 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6200
+FAILED bra 23_6200 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6201
+FAILED bra 23_6201 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6202
+FAILED bra 23_6202 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6203
+FAILED bra 23_6203 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6204
+FAILED bra 23_6204 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6205
+FAILED bra 23_6205 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6206
+FAILED bra 23_6206 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6207
+FAILED bra 23_6207 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6208
+FAILED bra 23_6208 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6209
+FAILED bra 23_6209 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6210
+FAILED bra 23_6210 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6211
+FAILED bra 23_6211 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6212
+FAILED bra 23_6212 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6213
+FAILED bra 23_6213 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6214
+FAILED bra 23_6214 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6215
+FAILED bra 23_6215 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6216
+FAILED bra 23_6216 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6217
+FAILED bra 23_6217 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6218
+FAILED bra 23_6218 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6219
+FAILED bra 23_6219 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6220
+FAILED bra 23_6220 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6221
+FAILED bra 23_6221 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6222
+FAILED bra 23_6222 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6223
+FAILED bra 23_6223 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6224
+FAILED bra 23_6224 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6225
+FAILED bra 23_6225 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6226
+FAILED bra 23_6226 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6227
+FAILED bra 23_6227 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6228
+FAILED bra 23_6228 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6229
+FAILED bra 23_6229 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6230
+FAILED bra 23_6230 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6231
+FAILED bra 23_6231 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6232
+FAILED bra 23_6232 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6233
+FAILED bra 23_6233 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6234
+FAILED bra 23_6234 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6235
+FAILED bra 23_6235 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6236
+FAILED bra 23_6236 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6237
+FAILED bra 23_6237 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6238
+FAILED bra 23_6238 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6239
+FAILED bra 23_6239 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6240
+FAILED bra 23_6240 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6241
+FAILED bra 23_6241 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6242
+FAILED bra 23_6242 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5643
+FAILED bra 23_5643 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5644
+FAILED bra 23_5644 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5645
+FAILED bra 23_5645 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5646
+FAILED bra 23_5646 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5647
+FAILED bra 23_5647 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5648
+FAILED bra 23_5648 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5649
+FAILED bra 23_5649 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5650
+FAILED bra 23_5650 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5651
+FAILED bra 23_5651 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5652
+FAILED bra 23_5652 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5653
+FAILED bra 23_5653 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5654
+FAILED bra 23_5654 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5655
+FAILED bra 23_5655 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5656
+FAILED bra 23_5656 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5657
+FAILED bra 23_5657 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5658
+FAILED bra 23_5658 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5659
+FAILED bra 23_5659 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5660
+FAILED bra 23_5660 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5661
+FAILED bra 23_5661 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5662
+FAILED bra 23_5662 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5663
+FAILED bra 23_5663 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5664
+FAILED bra 23_5664 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5665
+FAILED bra 23_5665 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5666
+FAILED bra 23_5666 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5667
+FAILED bra 23_5667 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5668
+FAILED bra 23_5668 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5669
+FAILED bra 23_5669 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5670
+FAILED bra 23_5670 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5671
+FAILED bra 23_5671 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5672
+FAILED bra 23_5672 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5673
+FAILED bra 23_5673 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5674
+FAILED bra 23_5674 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5675
+FAILED bra 23_5675 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5676
+FAILED bra 23_5676 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5677
+FAILED bra 23_5677 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5678
+FAILED bra 23_5678 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5679
+FAILED bra 23_5679 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5680
+FAILED bra 23_5680 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5681
+FAILED bra 23_5681 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5682
+FAILED bra 23_5682 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5683
+FAILED bra 23_5683 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5684
+FAILED bra 23_5684 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5685
+FAILED bra 23_5685 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5686
+FAILED bra 23_5686 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5687
+FAILED bra 23_5687 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5688
+FAILED bra 23_5688 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5689
+FAILED bra 23_5689 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5690
+FAILED bra 23_5690 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5691
+FAILED bra 23_5691 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5692
+FAILED bra 23_5692 'NoneType' object has no attribute 'GetGeoTransform'
+[2026-05-18T13:25:21.779] error: *** JOB 9375847 ON acn19 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+ra 23_5744 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5745
+FAILED bra 23_5745 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5746
+FAILED bra 23_5746 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5747
+FAILED bra 23_5747 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5748
+FAILED bra 23_5748 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5749
+FAILED bra 23_5749 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5750
+FAILED bra 23_5750 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5751
+FAILED bra 23_5751 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5752
+FAILED bra 23_5752 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5753
+FAILED bra 23_5753 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5754
+FAILED bra 23_5754 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5755
+FAILED bra 23_5755 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5756
+FAILED bra 23_5756 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5757
+FAILED bra 23_5757 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5758
+FAILED bra 23_5758 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5759
+FAILED bra 23_5759 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5760
+FAILED bra 23_5760 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5761
+FAILED bra 23_5761 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5762
+FAILED bra 23_5762 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5763
+FAILED bra 23_5763 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5764
+FAILED bra 23_5764 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5765
+FAILED bra 23_5765 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5766
+FAILED bra 23_5766 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5767
+FAILED bra 23_5767 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5768
+FAILED bra 23_5768 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5769
+FAILED bra 23_5769 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5770
+FAILED bra 23_5770 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5771
+FAILED bra 23_5771 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5772
+FAILED bra 23_5772 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5773
+FAILED bra 23_5773 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5774
+FAILED bra 23_5774 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5775
+FAILED bra 23_5775 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5776
+FAILED bra 23_5776 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5777
+FAILED bra 23_5777 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5778
+FAILED bra 23_5778 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5779
+FAILED bra 23_5779 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5780
+FAILED bra 23_5780 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5781
+FAILED bra 23_5781 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5782
+FAILED bra 23_5782 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5783
+FAILED bra 23_5783 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5784
+FAILED bra 23_5784 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5785
+FAILED bra 23_5785 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5786
+FAILED bra 23_5786 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5787
+FAILED bra 23_5787 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5788
+FAILED bra 23_5788 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5789
+FAILED bra 23_5789 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5790
+FAILED bra 23_5790 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5791
+FAILED bra 23_5791 'NoneType' object has no attribute 'GetGeoTrarunning bra 23_6043
+FAILED bra 23_6043 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6044
+FAILED bra 23_6044 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6045
+FAILED bra 23_6045 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6046
+FAILED bra 23_6046 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6047
+FAILED bra 23_6047 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6048
+FAILED bra 23_6048 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6049
+FAILED bra 23_6049 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6050
+FAILED bra 23_6050 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6051
+FAILED bra 23_6051 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6052
+FAILED bra 23_6052 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6053
+FAILED bra 23_6053 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6054
+FAILED bra 23_6054 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6055
+FAILED bra 23_6055 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6056
+FAILED bra 23_6056 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6057
+FAILED bra 23_6057 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6058
+FAILED bra 23_6058 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6059
+FAILED bra 23_6059 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6060
+FAILED bra 23_6060 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6061
+FAILED bra 23_6061 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6062
+FAILED bra 23_6062 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6063
+FAILED bra 23_6063 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6064
+FAILED bra 23_6064 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6065
+FAILED bra 23_6065 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6066
+FAILED bra 23_6066 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6067
+FAILED bra 23_6067 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6068
+FAILED bra 23_6068 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6069
+FAILED bra 23_6069 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6070
+FAILED bra 23_6070 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6071
+FAILED bra 23_6071 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6072
+FAILED bra 23_6072 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6073
+FAILED bra 23_6073 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6074
+FAILED bra 23_6074 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6075
+FAILED bra 23_6075 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6076
+FAILED bra 23_6076 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6077
+FAILED bra 23_6077 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6078
+FAILED bra 23_6078 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6079
+FAILED bra 23_6079 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6080
+FAILED bra 23_6080 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6081
+FAILED bra 23_6081 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6082
+FAILED bra 23_6082 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6083
+FAILED bra 23_6083 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6084
+FAILED bra 23_6084 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6085
+FAILED bra 23_6085 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6086
+FAILED bra 23_6086 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6087
+FAILED bra 23_6087 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6088
+FAILED bra 23_6088 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6089
+FAILED bra 23_6089 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6090
+FAILED bra 23_6090 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6091
+FAILED bra 23_6091 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6092
+FAILED bra 23_6092 'NoneType' object has no attribute 'GetGeoTransform'
+[2026-05-18T13:25:21.780] error: *** JOB 9375866 ON acn100 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+[2026-05-18T13:25:21.781] error: *** JOB 9375868 ON acn100 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+as no attribute 'GetGeoTransform'
+running bra 23_5996
+FAILED bra 23_5996 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5997
+FAILED bra 23_5997 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5998
+FAILED bra 23_5998 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5999
+FAILED bra 23_5999 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6000
+FAILED bra 23_6000 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6001
+FAILED bra 23_6001 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6002
+FAILED bra 23_6002 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6003
+FAILED bra 23_6003 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6004
+FAILED bra 23_6004 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6005
+FAILED bra 23_6005 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6006
+FAILED bra 23_6006 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6007
+FAILED bra 23_6007 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6008
+FAILED bra 23_6008 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6009
+FAILED bra 23_6009 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6010
+FAILED bra 23_6010 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6011
+FAILED bra 23_6011 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6012
+FAILED bra 23_6012 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6013
+FAILED bra 23_6013 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6014
+FAILED bra 23_6014 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6015
+FAILED bra 23_6015 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6016
+FAILED bra 23_6016 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6017
+FAILED bra 23_6017 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6018
+FAILED bra 23_6018 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6019
+FAILED bra 23_6019 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6020
+FAILED bra 23_6020 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6021
+FAILED bra 23_6021 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6022
+FAILED bra 23_6022 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6023
+FAILED bra 23_6023 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6024
+FAILED bra 23_6024 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6025
+FAILED bra 23_6025 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6026
+FAILED bra 23_6026 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6027
+FAILED bra 23_6027 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6028
+FAILED bra 23_6028 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6029
+FAILED bra 23_6029 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6030
+FAILED bra 23_6030 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6031
+FAILED bra 23_6031 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6032
+FAILED bra 23_6032 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6033
+FAILED bra 23_6033 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6034
+FAILED bra 23_6034 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6035
+FAILED bra 23_6035 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6036
+FAILED bra 23_6036 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6037
+FAILED bra 23_6037 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6038
+FAILED bra 23_6038 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6039
+FAILED bra 23_6039 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6040
+FAILED bra 23_6040 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6041
+FAILED bra 23_6041 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_6042
+FAILED bra 23_6042 'NoneType' object has no attribute 'GetGeoTransform'
+[2026-05-18T13:25:21.788] error: *** JOB 9375824 ON acn135 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+2026-05-18T13:25:21.778] error: *** JOB 9375849 ON acn20 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+running bra 23_5943
+FAILED bra 23_5943 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5944
+FAILED bra 23_5944 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5945
+FAILED bra 23_5945 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5946
+FAILED bra 23_5946 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5947
+FAILED bra 23_5947 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5948
+FAILED bra 23_5948 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5949
+FAILED bra 23_5949 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5950
+FAILED bra 23_5950 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5951
+FAILED bra 23_5951 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5952
+FAILED bra 23_5952 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5953
+FAILED bra 23_5953 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5954
+FAILED bra 23_5954 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5955
+FAILED bra 23_5955 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5956
+FAILED bra 23_5956 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5957
+FAILED bra 23_5957 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5958
+FAILED bra 23_5958 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5959
+FAILED bra 23_5959 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5960
+FAILED bra 23_5960 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5961
+FAILED bra 23_5961 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5962
+FAILED bra 23_5962 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5963
+FAILED bra 23_5963 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5964
+FAILED bra 23_5964 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5965
+FAILED bra 23_5965 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5966
+FAILED bra 23_5966 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5967
+FAILED bra 23_5967 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5968
+FAILED bra 23_5968 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5969
+FAILED bra 23_5969 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5970
+FAILED bra 23_5970 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5971
+FAILED bra 23_5971 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5972
+FAILED bra 23_5972 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5973
+FAILED bra 23_5973 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5974
+FAILED bra 23_5974 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5975
+FAILED bra 23_5975 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5976
+FAILED bra 23_5976 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5977
+FAILED bra 23_5977 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5978
+FAILED bra 23_5978 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5979
+FAILED bra 23_5979 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5980
+FAILED bra 23_5980 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5981
+FAILED bra 23_5981 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5982
+FAILED bra 23_5982 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5983
+FAILED bra 23_5983 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5984
+FAILED bra 23_5984 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5985
+FAILED bra 23_5985 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5986
+FAILED bra 23_5986 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5987
+FAILED bra 23_5987 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5988
+FAILED bra 23_5988 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5989
+FAILED bra 23_5989 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5990
+FAILED bra 23_5990 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5991
+FAILED bra 23_5991 'NoneType' object has no attribute 'GetGeoTransform'
+running bra 23_5992
+FAILED bra 23_5992 'NoneType' object has no attribute 'GetGeoTransform'
+[2026-05-18T13:25:21.784] error: *** JOB 9375838 ON acn198 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+[2026-05-18T13:25:21.776] error: *** JOB 9375837 ON acn198 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***
+[2026-05-18T13:25:21.776] error: *** JOB 9375839 ON acn198 CANCELLED AT 2026-05-18T13:25:21 DUE to SIGNAL Terminated ***

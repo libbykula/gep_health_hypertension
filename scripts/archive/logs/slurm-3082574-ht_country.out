@@ -1,0 +1,91 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+ last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+['run_chunk_both.py', 'col', '23_26901,23_26902,23_26903,23_26904,23_26905,23_26906,23_26907,23_26908,23_26909,23_26910,23_26911,23_26912,23_26913,23_26914,23_26915,23_26916,23_26917,23_26918,23_26919,23_26920,23_26921,23_26922,23_26923,23_26924,23_26925,23_26926,23_26927,23_26928,23_26929,23_26930,23_26931,23_26932,23_26933,23_26934,23_26935,23_26936,23_26937,23_26938,23_26939,23_26940,23_26941,23_26942,23_26943,23_26944,23_26945,23_26946,23_26947,23_26948,23_26949,23_26950']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+['run_chunk_both.py', 'col', '30_3362,30_3363,30_3364,30_3365,30_3366,30_3367,30_3368,30_3369,30_3370,30_3371,30_3372,30_3373,30_3374,30_3375,30_3376,30_3377,30_3378,30_3379,30_3380,30_3381,30_3382,30_3383,30_3384,30_3385,30_3386,30_3387,30_3388,30_3389,30_3390,30_3391,30_3392,30_3393,30_3394,30_3395,30_3396,30_3397,30_3398,30_3399,30_3400,30_3401,30_3402,30_3403,23_26893,23_26894,23_26895,23_26896,23_26897,23_26898,23_26899,23_26900']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+['run_chunk_both.py', 'col', '23_26951,23_26952,23_26953,23_26954,23_26955,23_26956,23_26957,23_26958,23_26959,23_26960,23_26961,23_26962,23_26963,23_26964,23_26965,23_26966,23_26967,23_26968,23_26969,23_26970,23_26971,23_26972,23_26973,23_26974,23_26975,23_26976,23_26977,23_26978,23_26979,23_26980,23_26981,23_26982,23_26983,23_26984,23_26985,23_26986,23_26987,23_26988,23_26989,23_26990,23_26991,23_26992,23_26993,23_26994,23_26995,23_26996,23_26997,23_26998,23_26999,23_27000']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+['run_chunk_both.py', 'col', '23_27151,23_27152,23_27153,23_27154,23_27155,23_27156,23_27157,23_27158,23_27159,23_27160,23_27161,23_27162,23_27163,23_27164,23_27165,23_27166,23_27167,23_27168,23_27169,23_27170,23_27171,23_27172,23_27173,23_27174,23_27175,23_27176,23_27177,23_27178,23_27179,23_27180,23_27181,23_27182,23_27183,23_27184,23_27185,23_27186,23_27187,23_27188,23_27189,23_27190,23_27191,23_27192,23_27193,23_27194,23_27195,23_27196,23_27197,23_27198,23_27199,23_27200']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+    perc_adults = pop_30_79 / total_pop
+    perc_adults = pop_30_79 / total_pop
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+                  ~~~~~~~~~~^~~~~~~~~~~
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+['run_chunk_both.py', 'col', '23_27051,23_27052,23_27053,23_27054,23_27055,23_27056,23_27057,23_27058,23_27059,23_27060,23_27061,23_27062,23_27063,23_27064,23_27065,23_27066,23_27067,23_27068,23_27069,23_27070,23_27071,23_27072,23_27073,23_27074,23_27075,23_27076,23_27077,23_27078,23_27079,23_27080,23_27081,23_27082,23_27083,23_27084,23_27085,23_27086,23_27087,23_27088,23_27089,23_27090,23_27091,23_27092,23_27093,23_27094,23_27095,23_27096,23_27097,23_27098,23_27099,23_27100']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+['run_chunk_both.py', 'col', '23_27201,23_27202,23_27203,23_27204,23_27205,23_27206,23_27207,23_27208,23_27209,23_27210,23_27211,23_27212,23_27213,23_27214,23_27215,23_27216,23_27217,23_27218,23_27219,23_27220,23_27221,23_27222,23_27223,23_27224,23_27225,23_27226,23_27227,23_27228,23_27229,23_27230,23_27231,23_27232,23_27233,23_27234,23_27235,23_27236,23_27237,23_27238,23_27239,23_27240,23_27241,23_27242,23_27243,23_27244,23_27245,23_27246,23_27247,23_27248,23_27249,23_27250']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+['run_chunk_both.py', 'col', '23_27101,23_27102,23_27103,23_27104,23_27105,23_27106,23_27107,23_27108,23_27109,23_27110,23_27111,23_27112,23_27113,23_27114,23_27115,23_27116,23_27117,23_27118,23_27119,23_27120,23_27121,23_27122,23_27123,23_27124,23_27125,23_27126,23_27127,23_27128,23_27129,23_27130,23_27131,23_27132,23_27133,23_27134,23_27135,23_27136,23_27137,23_27138,23_27139,23_27140,23_27141,23_27142,23_27143,23_27144,23_27145,23_27146,23_27147,23_27148,23_27149,23_27150']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+    perc_adults = pop_30_79 / total_pop
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+3_27031,23_27032,23_27033,23_27034,23_27035,23_27036,23_27037,23_27038,23_27039,23_27040,23_27041,23_27042,23_27043,23_27044,23_27045,23_27046,23_27047,23_27048,23_27049,23_27050']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+['run_chunk_both.py', 'col', '23_27351,23_27352,23_27353,23_27354,23_27355,23_27356,23_27357,23_27358,23_27359,23_27360,23_27361,23_27362,23_27363,23_27364,23_27365,23_27366,23_27367,23_27368,23_27369,23_27370,23_27371,23_27372,23_27373,23_27374,23_27375,23_27376,23_27377,23_27378,23_27379,23_27380,23_27381,23_27382,23_27383,23_27384,23_27385,23_27386,23_27387,23_27388,23_27389,23_27390,23_27391,23_27392,23_27393,23_27394,23_27395,23_27396,23_27397,23_27398,23_27399,23_27400']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+rs/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+    perc_adults = pop_30_79 / total_pop
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+['run_chunk_both.py', 'col', '23_27451,23_27452,23_27453,23_27454,23_27455,23_27456,23_27457,23_27458,23_27459,23_27460,23_27461,23_27462,23_27463,23_27464,23_27465,23_27466,23_27467,23_27468,23_27469,23_27470,23_27471,23_27472,23_27473,23_27474,23_27475,23_27476,23_27477,23_27478,23_27479,23_27480,23_27481,23_27482,23_27483,23_27484,23_27485,23_27486,23_27487,23_27488,23_27489,23_27490,23_27491,23_27492,23_27493,23_27494,23_27495,23_27496,23_27497,23_27498,23_27499,23_27500']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+7618,23_27619,23_27620,23_27621,23_27622,23_27623,23_27624,23_27625,23_27626,23_27627,23_27628,23_27629,23_27630,23_27631,23_27632,23_27633,23_27634,23_27635,23_27636,23_27637,23_27638,23_27639,23_27640,23_27641,23_27642,23_27643,23_27644,23_27645,23_27646,23_27647,23_27648,23_27649,23_27650']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 59, in <module>
+    perc_adults = pop_30_79 / total_pop
+                  ~~~~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'

@@ -1,0 +1,238 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+,23_27281,23_27282,23_27283,23_27284,23_27285,23_27286,23_27287,23_27288,23_27289,23_27290,23_27291,23_27292,23_27293,23_27294,23_27295,23_27296,23_27297,23_27298,23_27299,23_27300']
+['run_chunk_both.py', 'col', '23_27351,23_27352,23_27353,23_27354,23_27355,23_27356,23_27357,23_27358,23_27359,23_27360,23_27361,23_27362,23_27363,23_27364,23_27365,23_27366,23_27367,23_27368,23_27369,23_27370,23_27371,23_27372,23_27373,23_27374,23_27375,23_27376,23_27377,23_27378,23_27379,23_27380,23_27381,23_27382,23_27383,23_27384,23_27385,23_27386,23_27387,23_27388,23_27389,23_27390,23_27391,23_27392,23_27393,23_27394,23_27395,23_27396,23_27397,23_27398,23_27399,23_27400']
+['run_chunk_both.py', 'col', '23_27151,23_27152,23_27153,23_27154,23_27155,23_27156,23_27157,23_27158,23_27159,23_27160,23_27161,23_27162,23_27163,23_27164,23_27165,23_27166,23_27167,23_27168,23_27169,23_27170,23_27171,23_27172,23_27173,23_27174,23_27175,23_27176,23_27177,23_27178,23_27179,23_27180,23_27181,23_27182,23_27183,23_27184,23_27185,23_27186,23_27187,23_27188,23_27189,23_27190,23_27191,23_27192,23_27193,23_27194,23_27195,23_27196,23_27197,23_27198,23_27199,23_27200']
+['run_chunk_both.py', 'col', '23_27401,23_27402,23_27403,23_27404,23_27405,23_27406,23_27407,23_27408,23_27409,23_27410,23_27411,23_27412,23_27413,23_27414,23_27415,23_27416,23_27417,23_27418,23_27419,23_27420,23_27421,23_27422,23_27423,23_27424,23_27425,23_27426,23_27427,23_27428,23_27429,23_27430,23_27431,23_27432,23_27433,23_27434,23_27435,23_27436,23_27437,23_27438,23_27439,23_27440,23_27441,23_27442,23_27443,23_27444,23_27445,23_27446,23_27447,23_27448,23_27449,23_27450']
+['run_chunk_both.py', 'col', '23_27651,23_27652,23_27653,23_27654,23_27655,23_27656,23_27657,22_5845,22_5846,22_5847,22_5848,22_5849,22_5850,22_5851,22_5852,22_5853,22_5854,22_5855,22_5856,22_5857,22_5858,22_5859,22_5860,22_5861,22_5862,22_5863,22_5864,22_5865,22_5866,22_5867,22_5868,22_5869']
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+['run_chunk_both.py', 'col', '23_27551,23_27552,23_27553,23_27554,23_27555,23_27556,23_27557,23_27558,23_27559,23_27560,23_27561,23_27562,23_27563,23_27564,23_27565,23_27566,23_27567,23_27568,23_27569,23_27570,23_27571,23_27572,23_27573,23_27574,23_27575,23_27576,23_27577,23_27578,23_27579,23_27580,23_27581,23_27582,23_27583,23_27584,23_27585,23_27586,23_27587,23_27588,23_27589,23_27590,23_27591,23_27592,23_27593,23_27594,23_27595,23_27596,23_27597,23_27598,23_27599,23_27600']
+['run_chunk_both.py', 'col', '23_27601,23_27602,23_27603,23_27604,23_27605,23_27606,23_27607,23_27608,23_27609,23_27610,23_27611,23_27612,23_27613,23_27614,23_27615,23_27616,23_27617,23_27618,23_27619,23_27620,23_27621,23_27622,23_27623,23_27624,23_27625,23_27626,23_27627,23_27628,23_27629,23_27630,23_27631,23_27632,23_27633,23_27634,23_27635,23_27636,23_27637,23_27638,23_27639,23_27640,23_27641,23_27642,23_27643,23_27644,23_27645,23_27646,23_27647,23_27648,23_27649,23_27650']
+['run_chunk_both.py', 'col', '23_27301,23_27302,23_27303,23_27304,23_27305,23_27306,23_27307,23_27308,23_27309,23_27310,23_27311,23_27312,23_27313,23_27314,23_27315,23_27316,23_27317,23_27318,23_27319,23_27320,23_27321,23_27322,23_27323,23_27324,23_27325,23_27326,23_27327,23_27328,23_27329,23_27330,23_27331,23_27332,23_27333,23_27334,23_27335,23_27336,23_27337,23_27338,23_27339,23_27340,23_27341,23_27342,23_27343,23_27344,23_27345,23_27346,23_27347,23_27348,23_27349,23_27350']
+['run_chunk_both.py', 'col', '23_27501,23_27502,23_27503,23_27504,23_27505,23_27506,23_27507,23_27508,23_27509,23_27510,23_27511,23_27512,23_27513,23_27514,23_27515,23_27516,23_27517,23_27518,23_27519,23_27520,23_27521,23_27522,23_27523,23_27524,23_27525,23_27526,23_27527,23_27528,23_27529,23_27530,23_27531,23_27532,23_27533,23_27534,23_27535,23_27536,23_27537,23_27538,23_27539,23_27540,23_27541,23_27542,23_27543,23_27544,23_27545,23_27546,23_27547,23_27548,23_27549,23_27550']
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    self._validate_integer(key, axis)
+    self._validate_integer(key, axis)
+    self._validate_integer(key, axis)
+    self._validate_integer(key, axis)
+    self._validate_integer(key, axis)
+    self._validate_integer(key, axis)
+    self._validate_integer(key, axis)
+    self._validate_integer(key, axis)
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+    raise IndexError("single positional indexer is out-of-bounds")
+    raise IndexError("single positional indexer is out-of-bounds")
+    raise IndexError("single positional indexer is out-of-bounds")
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+IndexError: single positional indexer is out-of-bounds
+IndexError: single positional indexer is out-of-bounds
+IndexError: single positional indexer is out-of-bounds
+    raise IndexError("single positional indexer is out-of-bounds")
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+    raise IndexError("single positional indexer is out-of-bounds")
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+IndexError: single positional indexer is out-of-bounds
+IndexError: single positional indexer is out-of-bounds
+['run_chunk_both.py', 'col', '23_27001,23_27002,23_27003,23_27004,23_27005,23_27006,23_27007,23_27008,23_27009,23_27010,23_27011,23_27012,23_27013,23_27014,23_27015,23_27016,23_27017,23_27018,23_27019,23_27020,23_27021,23_27022,23_27023,23_27024,23_27025,23_27026,23_27027,23_27028,23_27029,23_27030,23_27031,23_27032,23_27033,23_27034,23_27035,23_27036,23_27037,23_27038,23_27039,23_27040,23_27041,23_27042,23_27043,23_27044,23_27045,23_27046,23_27047,23_27048,23_27049,23_27050']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+['run_chunk_both.py', 'col', '23_26901,23_26902,23_26903,23_26904,23_26905,23_26906,23_26907,23_26908,23_26909,23_26910,23_26911,23_26912,23_26913,23_26914,23_26915,23_26916,23_26917,23_26918,23_26919,23_26920,23_26921,23_26922,23_26923,23_26924,23_26925,23_26926,23_26927,23_26928,23_26929,23_26930,23_26931,23_26932,23_26933,23_26934,23_26935,23_26936,23_26937,23_26938,23_26939,23_26940,23_26941,23_26942,23_26943,23_26944,23_26945,23_26946,23_26947,23_26948,23_26949,23_26950']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+['run_chunk_both.py', 'col', '30_3362,30_3363,30_3364,30_3365,30_3366,30_3367,30_3368,30_3369,30_3370,30_3371,30_3372,30_3373,30_3374,30_3375,30_3376,30_3377,30_3378,30_3379,30_3380,30_3381,30_3382,30_3383,30_3384,30_3385,30_3386,30_3387,30_3388,30_3389,30_3390,30_3391,30_3392,30_3393,30_3394,30_3395,30_3396,30_3397,30_3398,30_3399,30_3400,30_3401,30_3402,30_3403,23_26893,23_26894,23_26895,23_26896,23_26897,23_26898,23_26899,23_26900']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+['run_chunk_both.py', 'col', '23_26951,23_26952,23_26953,23_26954,23_26955,23_26956,23_26957,23_26958,23_26959,23_26960,23_26961,23_26962,23_26963,23_26964,23_26965,23_26966,23_26967,23_26968,23_26969,23_26970,23_26971,23_26972,23_26973,23_26974,23_26975,23_26976,23_26977,23_26978,23_26979,23_26980,23_26981,23_26982,23_26983,23_26984,23_26985,23_26986,23_26987,23_26988,23_26989,23_26990,23_26991,23_26992,23_26993,23_26994,23_26995,23_26996,23_26997,23_26998,23_26999,23_27000']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+['run_chunk_both.py', 'col', '30_3312,30_3313,30_3314,30_3315,30_3316,30_3317,30_3318,30_3319,30_3320,30_3321,30_3322,30_3323,30_3324,30_3325,30_3326,30_3327,30_3328,30_3329,30_3330,30_3331,30_3332,30_3333,30_3334,30_3335,30_3336,30_3337,30_3338,30_3339,30_3340,30_3341,30_3342,30_3343,30_3344,30_3345,30_3346,30_3347,30_3348,30_3349,30_3350,30_3351,30_3352,30_3353,30_3354,30_3355,30_3356,30_3357,30_3358,30_3359,30_3360,30_3361']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+['run_chunk_both.py', 'col', '23_27101,23_27102,23_27103,23_27104,23_27105,23_27106,23_27107,23_27108,23_27109,23_27110,23_27111,23_27112,23_27113,23_27114,23_27115,23_27116,23_27117,23_27118,23_27119,23_27120,23_27121,23_27122,23_27123,23_27124,23_27125,23_27126,23_27127,23_27128,23_27129,23_27130,23_27131,23_27132,23_27133,23_27134,23_27135,23_27136,23_27137,23_27138,23_27139,23_27140,23_27141,23_27142,23_27143,23_27144,23_27145,23_27146,23_27147,23_27148,23_27149,23_27150']
+['run_chunk_both.py', 'col', '23_27051,23_27052,23_27053,23_27054,23_27055,23_27056,23_27057,23_27058,23_27059,23_27060,23_27061,23_27062,23_27063,23_27064,23_27065,23_27066,23_27067,23_27068,23_27069,23_27070,23_27071,23_27072,23_27073,23_27074,23_27075,23_27076,23_27077,23_27078,23_27079,23_27080,23_27081,23_27082,23_27083,23_27084,23_27085,23_27086,23_27087,23_27088,23_27089,23_27090,23_27091,23_27092,23_27093,23_27094,23_27095,23_27096,23_27097,23_27098,23_27099,23_27100']
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 19, in <module>
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+    perc_adults = age_data.loc[age_data['iso3_r250_label'].str.lower()==country_label,'perc_adults'].iloc[0]
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1752, in _getitem_axis
+    self._validate_integer(key, axis)
+    self._validate_integer(key, axis)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/indexing.py", line 1685, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds

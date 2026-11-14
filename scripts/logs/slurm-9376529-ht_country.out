@@ -1,0 +1,1122 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+running gha 22_7817
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7817_hypertension_results_2019_linear.csv
+running gha 22_7818
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7818_hypertension_results_2019_linear.csv
+running gha 22_7819
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7819_hypertension_results_2019_linear.csv
+running gha 22_7820
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7820_hypertension_results_2019_linear.csv
+running gha 22_7821
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7821_hypertension_results_2019_linear.csv
+running gha 22_7822
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7822_hypertension_results_2019_linear.csv
+running gha 22_7823
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7823_hypertension_results_2019_linear.csv
+running gha 22_7824
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7824_hypertension_results_2019_linear.csv
+running gha 22_7825
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7825_hypertension_results_2019_linear.csv
+running gha 23_34415
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34415_hypertension_results_2019_linear.csv
+running gha 23_34416
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34416_hypertension_results_2019_linear.csv
+running gha 23_34417
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34417_hypertension_results_2019_linear.csv
+running gha 23_34418
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34418_hypertension_results_2019_linear.csv
+running gha 23_34419
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34419_hypertension_results_2019_linear.csv
+running gha 23_34420
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34420_hypertension_results_2019_linear.csv
+running gha 23_34421
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34421_hypertension_results_2019_linear.csv
+running gha 23_34422
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34422_hypertension_results_2019_linear.csv
+running gha 23_34423
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34423_hypertension_results_2019_linear.csv
+running gha 23_34424
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34424_hypertension_results_2019_linear.csv
+running gha 23_34425
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34425_hypertension_results_2019_linear.csv
+running gha 23_34426
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34426_hypertension_results_2019_linear.csv
+running gha 23_34427
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34427_hypertension_results_2019_linear.csv
+running gha 23_34428
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34428_hypertension_results_2019_linear.csv
+running gha 23_34429
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34429_hypertension_results_2019_linear.csv
+running gha 23_34430
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34430_hypertension_results_2019_linear.csv
+running gha 23_34431
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34431_hypertension_results_2019_linear.csv
+running gha 23_34432
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34432_hypertension_results_2019_linear.csv
+running gha 23_34433
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34433_hypertension_results_2019_linear.csv
+running gha 23_34434
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34434_hypertension_results_2019_linear.csv
+running gha 23_34435
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34435_hypertension_results_2019_linear.csv
+running gha 23_34436
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34436_hypertension_results_2019_linear.csv
+running gha 23_34437
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34437_hypertension_results_2019_linear.csv
+running gha 23_34438
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34438_hypertension_results_2019_linear.csv
+running gha 23_34439
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34439_hypertension_results_2019_linear.csv
+running gha 23_34440
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34440_hypertension_results_2019_linear.csv
+running gha 23_34441
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34441_hypertension_results_2019_linear.csv
+running gha 23_34442
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34442_hypertension_results_2019_linear.csv
+running gha 23_34443
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34443_hypertension_results_2019_linear.csv
+running gha 23_34444
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34444_hypertension_results_2019_linear.csv
+running gha 23_34445
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34445_hypertension_results_2019_linear.csv
+running gha 23_34446
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34446_hypertension_results_2019_linear.csv
+running gha 23_34447
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34447_hypertension_results_2019_linear.csv
+running gha 23_34448
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34448_hypertension_results_2019_linear.csv
+running gha 23_34449
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34449_hypertension_results_2019_linear.csv
+running gha 23_34450
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34450_hypertension_results_2019_linear.csv
+running gha 23_34451
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34451_hypertension_results_2019_linear.csv
+running gha 23_34452
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34452_hypertension_results_2019_linear.csv
+running gha 23_34453
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34453_hypertension_results_2019_linear.csv
+running gha 23_34454
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34454_hypertension_results_2019_linear.csv
+running gha 23_34455
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34455_hypertension_results_2019_linear.csv
+running gha 23_34456
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34456_hypertension_results_2019_linear.csv
+running gha 23_34457
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34457_hypertension_results_2019_linear.csv
+running gha 23_34458
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34458_hypertension_results_2019_linear.csv
+running gha 23_34459
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34459_hypertension_results_2019_linear.csv
+running gha 23_34460
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34460_hypertension_results_2019_linear.csv
+running gha 23_34461
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34461_hypertension_results_2019_linear.csv
+running gha 23_34462
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34462_hypertension_results_2019_linear.csv
+running gha 23_34463
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34463_hypertension_results_2019_linear.csv
+running gha 23_34464
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34464_hypertension_results_2019_linear.csv
+running gha 23_34365
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34365_hypertension_results_2019_linear.csv
+running gha 23_34366
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34366_hypertension_results_2019_linear.csv
+running gha 23_34367
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34367_hypertension_results_2019_linear.csv
+running gha 23_34368
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34368_hypertension_results_2019_linear.csv
+running gha 23_34369
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34369_hypertension_results_2019_linear.csv
+running gha 23_34370
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34370_hypertension_results_2019_linear.csv
+running gha 23_34371
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34371_hypertension_results_2019_linear.csv
+running gha 23_34372
+FAILED gha 23_34372 index 0 is out of bounds for axis 0 with size 0
+running gha 23_34373
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34373_hypertension_results_2019_linear.csv
+running gha 23_34374
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34374_hypertension_results_2019_linear.csv
+running gha 23_34375
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34375_hypertension_results_2019_linear.csv
+running gha 23_34376
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34376_hypertension_results_2019_linear.csv
+running gha 23_34377
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34377_hypertension_results_2019_linear.csv
+running gha 23_34378
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34378_hypertension_results_2019_linear.csv
+running gha 23_34379
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34379_hypertension_results_2019_linear.csv
+running gha 23_34380
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34380_hypertension_results_2019_linear.csv
+running gha 23_34381
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34381_hypertension_results_2019_linear.csv
+running gha 23_34382
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34382_hypertension_results_2019_linear.csv
+running gha 23_34383
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34383_hypertension_results_2019_linear.csv
+running gha 23_34384
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34384_hypertension_results_2019_linear.csv
+running gha 23_34385
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34385_hypertension_results_2019_linear.csv
+running gha 23_34386
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34386_hypertension_results_2019_linear.csv
+running gha 23_34387
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34387_hypertension_results_2019_linear.csv
+running gha 23_34388
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34388_hypertension_results_2019_linear.csv
+running gha 23_34389
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34389_hypertension_results_2019_linear.csv
+running gha 23_34390
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34390_hypertension_results_2019_linear.csv
+running gha 23_34391
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34391_hypertension_results_2019_linear.csv
+running gha 23_34392
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34392_hypertension_results_2019_linear.csv
+running gha 23_34393
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34393_hypertension_results_2019_linear.csv
+running gha 23_34394
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34394_hypertension_results_2019_linear.csv
+running gha 23_34395
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34395_hypertension_results_2019_linear.csv
+running gha 23_34396
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34396_hypertension_results_2019_linear.csv
+running gha 23_34397
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34397_hypertension_results_2019_linear.csv
+running gha 23_34398
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34398_hypertension_results_2019_linear.csv
+running gha 23_34399
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34399_hypertension_results_2019_linear.csv
+running gha 23_34400
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34400_hypertension_results_2019_linear.csv
+running gha 23_34401
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34401_hypertension_results_2019_linear.csv
+running gha 23_34402
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34402_hypertension_results_2019_linear.csv
+running gha 23_34403
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34403_hypertension_results_2019_linear.csv
+running gha 23_34404
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34404_hypertension_results_2019_linear.csv
+running gha 23_34405
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34405_hypertension_results_2019_linear.csv
+running gha 23_34406
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34406_hypertension_results_2019_linear.csv
+running gha 23_34407
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34407_hypertension_results_2019_linear.csv
+running gha 23_34408
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34408_hypertension_results_2019_linear.csv
+running gha 23_34409
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34409_hypertension_results_2019_linear.csv
+running gha 23_34410
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34410_hypertension_results_2019_linear.csv
+running gha 23_34411
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34411_hypertension_results_2019_linear.csv
+running gha 23_34412
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34412_hypertension_results_2019_linear.csv
+running gha 23_34413
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34413_hypertension_results_2019_linear.csv
+running gha 23_34414
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34414_hypertension_results_2019_linear.csv
+running gha 30_4805
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4805_hypertension_results_2019_linear.csv
+running gha 30_4806
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4806_hypertension_results_2019_linear.csv
+running gha 30_4807
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4807_hypertension_results_2019_linear.csv
+running gha 30_4808
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4808_hypertension_results_2019_linear.csv
+running gha 30_4809
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4809_hypertension_results_2019_linear.csv
+running gha 30_4810
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4810_hypertension_results_2019_linear.csv
+running gha 30_4811
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4811_hypertension_results_2019_linear.csv
+running gha 30_4812
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4812_hypertension_results_2019_linear.csv
+running gha 30_4813
+FAILED gha 30_4813 index 0 is out of bounds for axis 0 with size 0
+running gha 23_34324
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34324_hypertension_results_2019_linear.csv
+running gha 23_34325
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34325_hypertension_results_2019_linear.csv
+running gha 23_34326
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34326_hypertension_results_2019_linear.csv
+running gha 23_34327
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34327_hypertension_results_2019_linear.csv
+running gha 23_34328
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34328_hypertension_results_2019_linear.csv
+running gha 23_34329
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34329_hypertension_results_2019_linear.csv
+running gha 23_34330
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34330_hypertension_results_2019_linear.csv
+running gha 23_34331
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34331_hypertension_results_2019_linear.csv
+running gha 23_34332
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34332_hypertension_results_2019_linear.csv
+running gha 23_34333
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34333_hypertension_results_2019_linear.csv
+running gha 23_34334
+FAILED gha 23_34334 /users/3/kula0049/Files/base_data/NDVI/ndvi_2019_ave_scaled_cropped_23_34334.tiff: No such file or directory
+running gha 23_34335
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34335_hypertension_results_2019_linear.csv
+running gha 23_34336
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34336_hypertension_results_2019_linear.csv
+running gha 23_34337
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34337_hypertension_results_2019_linear.csv
+running gha 23_34338
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34338_hypertension_results_2019_linear.csv
+running gha 23_34339
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34339_hypertension_results_2019_linear.csv
+running gha 23_34340
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34340_hypertension_results_2019_linear.csv
+running gha 23_34341
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34341_hypertension_results_2019_linear.csv
+running gha 23_34342
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34342_hypertension_results_2019_linear.csv
+running gha 23_34343
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34343_hypertension_results_2019_linear.csv
+running gha 23_34344
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34344_hypertension_results_2019_linear.csv
+running gha 23_34345
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34345_hypertension_results_2019_linear.csv
+running gha 23_34346
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34346_hypertension_results_2019_linear.csv
+running gha 23_34347
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34347_hypertension_results_2019_linear.csv
+running gha 23_34348
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34348_hypertension_results_2019_linear.csv
+running gha 23_34349
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34349_hypertension_results_2019_linear.csv
+running gha 23_34350
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34350_hypertension_results_2019_linear.csv
+running gha 23_34351
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34351_hypertension_results_2019_linear.csv
+running gha 23_34352
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34352_hypertension_results_2019_linear.csv
+running gha 23_34353
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34353_hypertension_results_2019_linear.csv
+running gha 23_34354
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34354_hypertension_results_2019_linear.csv
+running gha 23_34355
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34355_hypertension_results_2019_linear.csv
+running gha 23_34356
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34356_hypertension_results_2019_linear.csv
+running gha 23_34357
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34357_hypertension_results_2019_linear.csv
+running gha 23_34358
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34358_hypertension_results_2019_linear.csv
+running gha 23_34359
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34359_hypertension_results_2019_linear.csv
+running gha 23_34360
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34360_hypertension_results_2019_linear.csv
+running gha 23_34361
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34361_hypertension_results_2019_linear.csv
+running gha 23_34362
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34362_hypertension_results_2019_linear.csv
+running gha 23_34363
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34363_hypertension_results_2019_linear.csv
+running gha 23_34364
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34364_hypertension_results_2019_linear.csv
+running gha 30_4755
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4755_hypertension_results_2019_linear.csv
+running gha 30_4756
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4756_hypertension_results_2019_linear.csv
+running gha 30_4757
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4757_hypertension_results_2019_linear.csv
+running gha 30_4758
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4758_hypertension_results_2019_linear.csv
+running gha 30_4759
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4759_hypertension_results_2019_linear.csv
+running gha 30_4760
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4760_hypertension_results_2019_linear.csv
+running gha 30_4761
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4761_hypertension_results_2019_linear.csv
+running gha 30_4762
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4762_hypertension_results_2019_linear.csv
+running gha 30_4763
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4763_hypertension_results_2019_linear.csv
+running gha 30_4764
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4764_hypertension_results_2019_linear.csv
+running gha 30_4765
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4765_hypertension_results_2019_linear.csv
+running gha 30_4766
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4766_hypertension_results_2019_linear.csv
+running gha 30_4767
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4767_hypertension_results_2019_linear.csv
+running gha 30_4768
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4768_hypertension_results_2019_linear.csv
+running gha 30_4769
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4769_hypertension_results_2019_linear.csv
+running gha 30_4770
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4770_hypertension_results_2019_linear.csv
+running gha 30_4771
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4771_hypertension_results_2019_linear.csv
+running gha 30_4772
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4772_hypertension_results_2019_linear.csv
+running gha 30_4773
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4773_hypertension_results_2019_linear.csv
+running gha 30_4774
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4774_hypertension_results_2019_linear.csv
+running gha 30_4775
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4775_hypertension_results_2019_linear.csv
+running gha 30_4776
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4776_hypertension_results_2019_linear.csv
+running gha 30_4777
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4777_hypertension_results_2019_linear.csv
+running gha 30_4778
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4778_hypertension_results_2019_linear.csv
+running gha 30_4779
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4779_hypertension_results_2019_linear.csv
+running gha 30_4780
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4780_hypertension_results_2019_linear.csv
+running gha 30_4781
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4781_hypertension_results_2019_linear.csv
+running gha 30_4782
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4782_hypertension_results_2019_linear.csv
+running gha 30_4783
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4783_hypertension_results_2019_linear.csv
+running gha 30_4784
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4784_hypertension_results_2019_linear.csv
+running gha 30_4785
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4785_hypertension_results_2019_linear.csv
+running gha 30_4786
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4786_hypertension_results_2019_linear.csv
+running gha 30_4787
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4787_hypertension_results_2019_linear.csv
+running gha 30_4788
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4788_hypertension_results_2019_linear.csv
+running gha 30_4789
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4789_hypertension_results_2019_linear.csv
+running gha 30_4790
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4790_hypertension_results_2019_linear.csv
+running gha 30_4791
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4791_hypertension_results_2019_linear.csv
+running gha 30_4792
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4792_hypertension_results_2019_linear.csv
+running gha 30_4793
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4793_hypertension_results_2019_linear.csv
+running gha 30_4794
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4794_hypertension_results_2019_linear.csv
+running gha 30_4795
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4795_hypertension_results_2019_linear.csv
+running gha 30_4796
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4796_hypertension_results_2019_linear.csv
+running gha 30_4797
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4797_hypertension_results_2019_linear.csv
+running gha 30_4798
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4798_hypertension_results_2019_linear.csv
+running gha 30_4799
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4799_hypertension_results_2019_linear.csv
+running gha 30_4800
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4800_hypertension_results_2019_linear.csv
+running gha 30_4801
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4801_hypertension_results_2019_linear.csv
+running gha 30_4802
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4802_hypertension_results_2019_linear.csv
+running gha 30_4803
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4803_hypertension_results_2019_linear.csv
+running gha 30_4804
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/30_4804_hypertension_results_2019_linear.csv
+running gha 23_34715
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34715_hypertension_results_2019_linear.csv
+running gha 23_34716
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34716_hypertension_results_2019_linear.csv
+running gha 23_34717
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34717_hypertension_results_2019_linear.csv
+running gha 23_34718
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34718_hypertension_results_2019_linear.csv
+running gha 23_34719
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34719_hypertension_results_2019_linear.csv
+running gha 23_34720
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34720_hypertension_results_2019_linear.csv
+running gha 23_34721
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34721_hypertension_results_2019_linear.csv
+running gha 23_34722
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34722_hypertension_results_2019_linear.csv
+running gha 23_34723
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34723_hypertension_results_2019_linear.csv
+running gha 23_34724
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34724_hypertension_results_2019_linear.csv
+running gha 23_34725
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34725_hypertension_results_2019_linear.csv
+running gha 23_34726
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34726_hypertension_results_2019_linear.csv
+running gha 23_34727
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34727_hypertension_results_2019_linear.csv
+running gha 23_34728
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34728_hypertension_results_2019_linear.csv
+running gha 23_34729
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34729_hypertension_results_2019_linear.csv
+running gha 23_34730
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34730_hypertension_results_2019_linear.csv
+running gha 23_34731
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34731_hypertension_results_2019_linear.csv
+running gha 23_34732
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34732_hypertension_results_2019_linear.csv
+running gha 23_34733
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34733_hypertension_results_2019_linear.csv
+running gha 23_34734
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34734_hypertension_results_2019_linear.csv
+running gha 23_34735
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34735_hypertension_results_2019_linear.csv
+running gha 23_34736
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34736_hypertension_results_2019_linear.csv
+running gha 23_34737
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34737_hypertension_results_2019_linear.csv
+running gha 23_34738
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34738_hypertension_results_2019_linear.csv
+running gha 23_34739
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34739_hypertension_results_2019_linear.csv
+running gha 23_34740
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34740_hypertension_results_2019_linear.csv
+running gha 23_34741
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34741_hypertension_results_2019_linear.csv
+running gha 23_34742
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34742_hypertension_results_2019_linear.csv
+running gha 23_34743
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34743_hypertension_results_2019_linear.csv
+running gha 23_34744
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34744_hypertension_results_2019_linear.csv
+running gha 23_34745
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34745_hypertension_results_2019_linear.csv
+running gha 23_34746
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34746_hypertension_results_2019_linear.csv
+running gha 23_34747
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34747_hypertension_results_2019_linear.csv
+running gha 22_7750
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7750_hypertension_results_2019_linear.csv
+running gha 22_7751
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7751_hypertension_results_2019_linear.csv
+running gha 22_7752
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7752_hypertension_results_2019_linear.csv
+running gha 22_7753
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7753_hypertension_results_2019_linear.csv
+running gha 22_7754
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7754_hypertension_results_2019_linear.csv
+running gha 22_7755
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7755_hypertension_results_2019_linear.csv
+running gha 22_7756
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7756_hypertension_results_2019_linear.csv
+running gha 22_7757
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7757_hypertension_results_2019_linear.csv
+running gha 22_7758
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7758_hypertension_results_2019_linear.csv
+running gha 22_7759
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7759_hypertension_results_2019_linear.csv
+running gha 22_7760
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7760_hypertension_results_2019_linear.csv
+running gha 22_7761
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7761_hypertension_results_2019_linear.csv
+running gha 22_7762
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7762_hypertension_results_2019_linear.csv
+running gha 22_7763
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7763_hypertension_results_2019_linear.csv
+running gha 22_7764
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7764_hypertension_results_2019_linear.csv
+running gha 22_7765
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7765_hypertension_results_2019_linear.csv
+running gha 22_7766
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7766_hypertension_results_2019_linear.csv
+running gha 23_34665
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34665_hypertension_results_2019_linear.csv
+running gha 23_34666
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34666_hypertension_results_2019_linear.csv
+running gha 23_34667
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34667_hypertension_results_2019_linear.csv
+running gha 23_34668
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34668_hypertension_results_2019_linear.csv
+running gha 23_34669
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34669_hypertension_results_2019_linear.csv
+running gha 23_34670
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34670_hypertension_results_2019_linear.csv
+running gha 23_34671
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34671_hypertension_results_2019_linear.csv
+running gha 23_34672
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34672_hypertension_results_2019_linear.csv
+running gha 23_34673
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34673_hypertension_results_2019_linear.csv
+running gha 23_34674
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34674_hypertension_results_2019_linear.csv
+running gha 23_34675
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34675_hypertension_results_2019_linear.csv
+running gha 23_34676
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34676_hypertension_results_2019_linear.csv
+running gha 23_34677
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34677_hypertension_results_2019_linear.csv
+running gha 23_34678
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34678_hypertension_results_2019_linear.csv
+running gha 23_34679
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34679_hypertension_results_2019_linear.csv
+running gha 23_34680
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34680_hypertension_results_2019_linear.csv
+running gha 23_34681
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34681_hypertension_results_2019_linear.csv
+running gha 23_34682
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34682_hypertension_results_2019_linear.csv
+running gha 23_34683
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34683_hypertension_results_2019_linear.csv
+running gha 23_34684
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34684_hypertension_results_2019_linear.csv
+running gha 23_34685
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34685_hypertension_results_2019_linear.csv
+running gha 23_34686
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34686_hypertension_results_2019_linear.csv
+running gha 23_34687
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34687_hypertension_results_2019_linear.csv
+running gha 23_34688
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34688_hypertension_results_2019_linear.csv
+running gha 23_34689
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34689_hypertension_results_2019_linear.csv
+running gha 23_34690
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34690_hypertension_results_2019_linear.csv
+running gha 23_34691
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34691_hypertension_results_2019_linear.csv
+running gha 23_34692
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34692_hypertension_results_2019_linear.csv
+running gha 23_34693
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34693_hypertension_results_2019_linear.csv
+running gha 23_34694
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34694_hypertension_results_2019_linear.csv
+running gha 23_34695
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34695_hypertension_results_2019_linear.csv
+running gha 23_34696
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34696_hypertension_results_2019_linear.csv
+running gha 23_34697
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34697_hypertension_results_2019_linear.csv
+running gha 23_34698
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34698_hypertension_results_2019_linear.csv
+running gha 23_34699
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34699_hypertension_results_2019_linear.csv
+running gha 23_34700
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34700_hypertension_results_2019_linear.csv
+running gha 23_34701
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34701_hypertension_results_2019_linear.csv
+running gha 23_34702
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34702_hypertension_results_2019_linear.csv
+running gha 23_34703
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34703_hypertension_results_2019_linear.csv
+running gha 23_34704
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34704_hypertension_results_2019_linear.csv
+running gha 23_34705
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34705_hypertension_results_2019_linear.csv
+running gha 23_34706
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34706_hypertension_results_2019_linear.csv
+running gha 23_34707
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34707_hypertension_results_2019_linear.csv
+running gha 23_34708
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34708_hypertension_results_2019_linear.csv
+running gha 23_34709
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34709_hypertension_results_2019_linear.csv
+running gha 23_34710
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34710_hypertension_results_2019_linear.csv
+running gha 23_34711
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34711_hypertension_results_2019_linear.csv
+running gha 23_34712
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34712_hypertension_results_2019_linear.csv
+running gha 23_34713
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34713_hypertension_results_2019_linear.csv
+running gha 23_34714
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34714_hypertension_results_2019_linear.csv
+running gha 22_7767
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7767_hypertension_results_2019_linear.csv
+running gha 22_7768
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7768_hypertension_results_2019_linear.csv
+running gha 22_7769
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7769_hypertension_results_2019_linear.csv
+running gha 22_7770
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7770_hypertension_results_2019_linear.csv
+running gha 22_7771
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7771_hypertension_results_2019_linear.csv
+running gha 22_7772
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7772_hypertension_results_2019_linear.csv
+running gha 22_7773
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7773_hypertension_results_2019_linear.csv
+running gha 22_7774
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7774_hypertension_results_2019_linear.csv
+running gha 22_7775
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7775_hypertension_results_2019_linear.csv
+running gha 22_7776
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7776_hypertension_results_2019_linear.csv
+running gha 22_7777
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7777_hypertension_results_2019_linear.csv
+running gha 22_7778
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7778_hypertension_results_2019_linear.csv
+running gha 22_7779
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7779_hypertension_results_2019_linear.csv
+running gha 22_7780
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7780_hypertension_results_2019_linear.csv
+running gha 22_7781
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7781_hypertension_results_2019_linear.csv
+running gha 22_7782
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7782_hypertension_results_2019_linear.csv
+running gha 22_7783
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7783_hypertension_results_2019_linear.csv
+running gha 22_7784
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7784_hypertension_results_2019_linear.csv
+running gha 22_7785
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7785_hypertension_results_2019_linear.csv
+running gha 22_7786
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7786_hypertension_results_2019_linear.csv
+running gha 22_7787
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7787_hypertension_results_2019_linear.csv
+running gha 22_7788
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7788_hypertension_results_2019_linear.csv
+running gha 22_7789
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7789_hypertension_results_2019_linear.csv
+running gha 22_7790
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7790_hypertension_results_2019_linear.csv
+running gha 22_7791
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7791_hypertension_results_2019_linear.csv
+running gha 22_7792
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7792_hypertension_results_2019_linear.csv
+running gha 22_7793
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7793_hypertension_results_2019_linear.csv
+running gha 22_7794
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7794_hypertension_results_2019_linear.csv
+running gha 22_7795
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7795_hypertension_results_2019_linear.csv
+running gha 22_7796
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7796_hypertension_results_2019_linear.csv
+running gha 22_7797
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7797_hypertension_results_2019_linear.csv
+running gha 22_7798
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7798_hypertension_results_2019_linear.csv
+running gha 22_7799
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7799_hypertension_results_2019_linear.csv
+running gha 22_7800
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7800_hypertension_results_2019_linear.csv
+running gha 22_7801
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7801_hypertension_results_2019_linear.csv
+running gha 22_7802
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7802_hypertension_results_2019_linear.csv
+running gha 22_7803
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7803_hypertension_results_2019_linear.csv
+running gha 22_7804
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7804_hypertension_results_2019_linear.csv
+running gha 22_7805
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7805_hypertension_results_2019_linear.csv
+running gha 22_7806
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7806_hypertension_results_2019_linear.csv
+running gha 22_7807
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7807_hypertension_results_2019_linear.csv
+running gha 22_7808
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7808_hypertension_results_2019_linear.csv
+running gha 22_7809
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7809_hypertension_results_2019_linear.csv
+running gha 22_7810
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7810_hypertension_results_2019_linear.csv
+running gha 22_7811
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7811_hypertension_results_2019_linear.csv
+running gha 22_7812
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7812_hypertension_results_2019_linear.csv
+running gha 22_7813
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7813_hypertension_results_2019_linear.csv
+running gha 22_7814
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7814_hypertension_results_2019_linear.csv
+running gha 22_7815
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7815_hypertension_results_2019_linear.csv
+running gha 22_7816
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_7816_hypertension_results_2019_linear.csv
+running gha 23_34465
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34465_hypertension_results_2019_linear.csv
+running gha 23_34466
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34466_hypertension_results_2019_linear.csv
+running gha 23_34467
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34467_hypertension_results_2019_linear.csv
+running gha 23_34468
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34468_hypertension_results_2019_linear.csv
+running gha 23_34469
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34469_hypertension_results_2019_linear.csv
+running gha 23_34470
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34470_hypertension_results_2019_linear.csv
+running gha 23_34471
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34471_hypertension_results_2019_linear.csv
+running gha 23_34472
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34472_hypertension_results_2019_linear.csv
+running gha 23_34473
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34473_hypertension_results_2019_linear.csv
+running gha 23_34474
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34474_hypertension_results_2019_linear.csv
+running gha 23_34475
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34475_hypertension_results_2019_linear.csv
+running gha 23_34476
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34476_hypertension_results_2019_linear.csv
+running gha 23_34477
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34477_hypertension_results_2019_linear.csv
+running gha 23_34478
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34478_hypertension_results_2019_linear.csv
+running gha 23_34479
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34479_hypertension_results_2019_linear.csv
+running gha 23_34480
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34480_hypertension_results_2019_linear.csv
+running gha 23_34481
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34481_hypertension_results_2019_linear.csv
+running gha 23_34482
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34482_hypertension_results_2019_linear.csv
+running gha 23_34483
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34483_hypertension_results_2019_linear.csv
+running gha 23_34484
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34484_hypertension_results_2019_linear.csv
+running gha 23_34485
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34485_hypertension_results_2019_linear.csv
+running gha 23_34486
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34486_hypertension_results_2019_linear.csv
+running gha 23_34487
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34487_hypertension_results_2019_linear.csv
+running gha 23_34488
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34488_hypertension_results_2019_linear.csv
+running gha 23_34489
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34489_hypertension_results_2019_linear.csv
+running gha 23_34490
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34490_hypertension_results_2019_linear.csv
+running gha 23_34491
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34491_hypertension_results_2019_linear.csv
+running gha 23_34492
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34492_hypertension_results_2019_linear.csv
+running gha 23_34493
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34493_hypertension_results_2019_linear.csv
+running gha 23_34494
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34494_hypertension_results_2019_linear.csv
+running gha 23_34495
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34495_hypertension_results_2019_linear.csv
+running gha 23_34496
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34496_hypertension_results_2019_linear.csv
+running gha 23_34497
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34497_hypertension_results_2019_linear.csv
+running gha 23_34498
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34498_hypertension_results_2019_linear.csv
+running gha 23_34499
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34499_hypertension_results_2019_linear.csv
+running gha 23_34500
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34500_hypertension_results_2019_linear.csv
+running gha 23_34501
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34501_hypertension_results_2019_linear.csv
+running gha 23_34502
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34502_hypertension_results_2019_linear.csv
+running gha 23_34503
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34503_hypertension_results_2019_linear.csv
+running gha 23_34504
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34504_hypertension_results_2019_linear.csv
+running gha 23_34505
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34505_hypertension_results_2019_linear.csv
+running gha 23_34506
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34506_hypertension_results_2019_linear.csv
+running gha 23_34507
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34507_hypertension_results_2019_linear.csv
+running gha 23_34508
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34508_hypertension_results_2019_linear.csv
+running gha 23_34509
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34509_hypertension_results_2019_linear.csv
+running gha 23_34510
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34510_hypertension_results_2019_linear.csv
+running gha 23_34511
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34511_hypertension_results_2019_linear.csv
+running gha 23_34512
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34512_hypertension_results_2019_linear.csv
+running gha 23_34513
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34513_hypertension_results_2019_linear.csv
+running gha 23_34514
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34514_hypertension_results_2019_linear.csv
+running gha 23_34515
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34515_hypertension_results_2019_linear.csv
+running gha 23_34516
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34516_hypertension_results_2019_linear.csv
+running gha 23_34517
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34517_hypertension_results_2019_linear.csv
+running gha 23_34518
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34518_hypertension_results_2019_linear.csv
+running gha 23_34519
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34519_hypertension_results_2019_linear.csv
+running gha 23_34520
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34520_hypertension_results_2019_linear.csv
+running gha 23_34521
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34521_hypertension_results_2019_linear.csv
+running gha 23_34522
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34522_hypertension_results_2019_linear.csv
+running gha 23_34523
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34523_hypertension_results_2019_linear.csv
+running gha 23_34524
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34524_hypertension_results_2019_linear.csv
+running gha 23_34525
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34525_hypertension_results_2019_linear.csv
+running gha 23_34526
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34526_hypertension_results_2019_linear.csv
+running gha 23_34527
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34527_hypertension_results_2019_linear.csv
+running gha 23_34528
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34528_hypertension_results_2019_linear.csv
+running gha 23_34529
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34529_hypertension_results_2019_linear.csv
+running gha 23_34530
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34530_hypertension_results_2019_linear.csv
+running gha 23_34531
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34531_hypertension_results_2019_linear.csv
+running gha 23_34532
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34532_hypertension_results_2019_linear.csv
+running gha 23_34533
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34533_hypertension_results_2019_linear.csv
+running gha 23_34534
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34534_hypertension_results_2019_linear.csv
+running gha 23_34535
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34535_hypertension_results_2019_linear.csv
+running gha 23_34536
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34536_hypertension_results_2019_linear.csv
+running gha 23_34537
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34537_hypertension_results_2019_linear.csv
+running gha 23_34538
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34538_hypertension_results_2019_linear.csv
+running gha 23_34539
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34539_hypertension_results_2019_linear.csv
+running gha 23_34540
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34540_hypertension_results_2019_linear.csv
+running gha 23_34541
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34541_hypertension_results_2019_linear.csv
+running gha 23_34542
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34542_hypertension_results_2019_linear.csv
+running gha 23_34543
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34543_hypertension_results_2019_linear.csv
+running gha 23_34544
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34544_hypertension_results_2019_linear.csv
+running gha 23_34545
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34545_hypertension_results_2019_linear.csv
+running gha 23_34546
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34546_hypertension_results_2019_linear.csv
+running gha 23_34547
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34547_hypertension_results_2019_linear.csv
+running gha 23_34548
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34548_hypertension_results_2019_linear.csv
+running gha 23_34549
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34549_hypertension_results_2019_linear.csv
+running gha 23_34550
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34550_hypertension_results_2019_linear.csv
+running gha 23_34551
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34551_hypertension_results_2019_linear.csv
+running gha 23_34552
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34552_hypertension_results_2019_linear.csv
+running gha 23_34553
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34553_hypertension_results_2019_linear.csv
+running gha 23_34554
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34554_hypertension_results_2019_linear.csv
+running gha 23_34555
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34555_hypertension_results_2019_linear.csv
+running gha 23_34556
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34556_hypertension_results_2019_linear.csv
+running gha 23_34557
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34557_hypertension_results_2019_linear.csv
+running gha 23_34558
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34558_hypertension_results_2019_linear.csv
+running gha 23_34559
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34559_hypertension_results_2019_linear.csv
+running gha 23_34560
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34560_hypertension_results_2019_linear.csv
+running gha 23_34561
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34561_hypertension_results_2019_linear.csv
+running gha 23_34562
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34562_hypertension_results_2019_linear.csv
+running gha 23_34563
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34563_hypertension_results_2019_linear.csv
+running gha 23_34564
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34564_hypertension_results_2019_linear.csv
+running gha 23_34565
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34565_hypertension_results_2019_linear.csv
+running gha 23_34566
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34566_hypertension_results_2019_linear.csv
+running gha 23_34567
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34567_hypertension_results_2019_linear.csv
+running gha 23_34568
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34568_hypertension_results_2019_linear.csv
+running gha 23_34569
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34569_hypertension_results_2019_linear.csv
+running gha 23_34570
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34570_hypertension_results_2019_linear.csv
+running gha 23_34571
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34571_hypertension_results_2019_linear.csv
+running gha 23_34572
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34572_hypertension_results_2019_linear.csv
+running gha 23_34573
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34573_hypertension_results_2019_linear.csv
+running gha 23_34574
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34574_hypertension_results_2019_linear.csv
+running gha 23_34575
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34575_hypertension_results_2019_linear.csv
+running gha 23_34576
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34576_hypertension_results_2019_linear.csv
+running gha 23_34577
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34577_hypertension_results_2019_linear.csv
+running gha 23_34578
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34578_hypertension_results_2019_linear.csv
+running gha 23_34579
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34579_hypertension_results_2019_linear.csv
+running gha 23_34580
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34580_hypertension_results_2019_linear.csv
+running gha 23_34581
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34581_hypertension_results_2019_linear.csv
+running gha 23_34582
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34582_hypertension_results_2019_linear.csv
+running gha 23_34583
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34583_hypertension_results_2019_linear.csv
+running gha 23_34584
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34584_hypertension_results_2019_linear.csv
+running gha 23_34585
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34585_hypertension_results_2019_linear.csv
+running gha 23_34586
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34586_hypertension_results_2019_linear.csv
+running gha 23_34587
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34587_hypertension_results_2019_linear.csv
+running gha 23_34588
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34588_hypertension_results_2019_linear.csv
+running gha 23_34589
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34589_hypertension_results_2019_linear.csv
+running gha 23_34590
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34590_hypertension_results_2019_linear.csv
+running gha 23_34591
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34591_hypertension_results_2019_linear.csv
+running gha 23_34592
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34592_hypertension_results_2019_linear.csv
+running gha 23_34593
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34593_hypertension_results_2019_linear.csv
+running gha 23_34594
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34594_hypertension_results_2019_linear.csv
+running gha 23_34595
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34595_hypertension_results_2019_linear.csv
+running gha 23_34596
+FAILED gha 23_34596 '/users/3/kula0049/urban-cooling/Data/urbanspatial-guppd-v1-gpkg/indiv/23_34596.gpkg' not recognized as being in a supported file format.; It might help to specify the correct driver explicitly by prefixing the file path with '<DRIVER>:', e.g. 'CSV:path'.
+running gha 23_34597
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34597_hypertension_results_2019_linear.csv
+running gha 23_34598
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34598_hypertension_results_2019_linear.csv
+running gha 23_34599
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34599_hypertension_results_2019_linear.csv
+running gha 23_34600
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34600_hypertension_results_2019_linear.csv
+running gha 23_34601
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34601_hypertension_results_2019_linear.csv
+running gha 23_34602
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34602_hypertension_results_2019_linear.csv
+running gha 23_34603
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34603_hypertension_results_2019_linear.csv
+running gha 23_34604
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34604_hypertension_results_2019_linear.csv
+running gha 23_34605
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34605_hypertension_results_2019_linear.csv
+running gha 23_34606
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34606_hypertension_results_2019_linear.csv
+running gha 23_34607
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34607_hypertension_results_2019_linear.csv
+running gha 23_34608
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34608_hypertension_results_2019_linear.csv
+running gha 23_34609
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34609_hypertension_results_2019_linear.csv
+running gha 23_34610
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34610_hypertension_results_2019_linear.csv
+running gha 23_34611
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34611_hypertension_results_2019_linear.csv
+running gha 23_34612
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34612_hypertension_results_2019_linear.csv
+running gha 23_34613
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34613_hypertension_results_2019_linear.csv
+running gha 23_34614
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34614_hypertension_results_2019_linear.csv
+running gha 23_34615
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34615_hypertension_results_2019_linear.csv
+running gha 23_34616
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34616_hypertension_results_2019_linear.csv
+running gha 23_34617
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34617_hypertension_results_2019_linear.csv
+running gha 23_34618
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34618_hypertension_results_2019_linear.csv
+running gha 23_34619
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34619_hypertension_results_2019_linear.csv
+running gha 23_34620
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34620_hypertension_results_2019_linear.csv
+running gha 23_34621
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34621_hypertension_results_2019_linear.csv
+running gha 23_34622
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34622_hypertension_results_2019_linear.csv
+running gha 23_34623
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34623_hypertension_results_2019_linear.csv
+running gha 23_34624
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34624_hypertension_results_2019_linear.csv
+running gha 23_34625
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34625_hypertension_results_2019_linear.csv
+running gha 23_34626
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34626_hypertension_results_2019_linear.csv
+running gha 23_34627
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34627_hypertension_results_2019_linear.csv
+running gha 23_34628
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34628_hypertension_results_2019_linear.csv
+running gha 23_34629
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34629_hypertension_results_2019_linear.csv
+running gha 23_34630
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34630_hypertension_results_2019_linear.csv
+running gha 23_34631
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34631_hypertension_results_2019_linear.csv
+running gha 23_34632
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34632_hypertension_results_2019_linear.csv
+running gha 23_34633
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34633_hypertension_results_2019_linear.csv
+running gha 23_34634
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34634_hypertension_results_2019_linear.csv
+running gha 23_34635
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34635_hypertension_results_2019_linear.csv
+running gha 23_34636
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34636_hypertension_results_2019_linear.csv
+running gha 23_34637
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34637_hypertension_results_2019_linear.csv
+running gha 23_34638
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34638_hypertension_results_2019_linear.csv
+running gha 23_34639
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34639_hypertension_results_2019_linear.csv
+running gha 23_34640
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34640_hypertension_results_2019_linear.csv
+running gha 23_34641
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34641_hypertension_results_2019_linear.csv
+running gha 23_34642
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34642_hypertension_results_2019_linear.csv
+running gha 23_34643
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34643_hypertension_results_2019_linear.csv
+running gha 23_34644
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34644_hypertension_results_2019_linear.csv
+running gha 23_34645
+FAILED gha 23_34645 '/users/3/kula0049/urban-cooling/Data/urbanspatial-guppd-v1-gpkg/indiv/23_34645.gpkg' not recognized as being in a supported file format.; It might help to specify the correct driver explicitly by prefixing the file path with '<DRIVER>:', e.g. 'CSV:path'.
+running gha 23_34646
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34646_hypertension_results_2019_linear.csv
+running gha 23_34647
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34647_hypertension_results_2019_linear.csv
+running gha 23_34648
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34648_hypertension_results_2019_linear.csv
+running gha 23_34649
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34649_hypertension_results_2019_linear.csv
+running gha 23_34650
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34650_hypertension_results_2019_linear.csv
+running gha 23_34651
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34651_hypertension_results_2019_linear.csv
+running gha 23_34652
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34652_hypertension_results_2019_linear.csv
+running gha 23_34653
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34653_hypertension_results_2019_linear.csv
+running gha 23_34654
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34654_hypertension_results_2019_linear.csv
+running gha 23_34655
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34655_hypertension_results_2019_linear.csv
+running gha 23_34656
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34656_hypertension_results_2019_linear.csv
+running gha 23_34657
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34657_hypertension_results_2019_linear.csv
+running gha 23_34658
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34658_hypertension_results_2019_linear.csv
+running gha 23_34659
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34659_hypertension_results_2019_linear.csv
+running gha 23_34660
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34660_hypertension_results_2019_linear.csv
+running gha 23_34661
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34661_hypertension_results_2019_linear.csv
+running gha 23_34662
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34662_hypertension_results_2019_linear.csv
+running gha 23_34663
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34663_hypertension_results_2019_linear.csv
+running gha 23_34664
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_34664_hypertension_results_2019_linear.csv

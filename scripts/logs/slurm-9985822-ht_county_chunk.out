@@ -1,0 +1,24 @@
+getting  public ndvi
+Aligning rasters for 13085
+running public 13085
+FAILED 13085 get_hypertension_gep() missing 1 required positional argument: 'scen'
+Deleting unneeded files
+Done with  13085
+getting  private ndvi
+Aligning rasters for 13085
+running private 13085
+FAILED 13085 get_hypertension_gep() missing 1 required positional argument: 'scen'
+Deleting unneeded files
+Done with  13085
+getting  public ndvi
+Aligning rasters for 13015
+running public 13015
+FAILED 13015 get_hypertension_gep() missing 1 required positional argument: 'scen'
+Deleting unneeded files
+Done with  13015
+getting  private ndvi
+Aligning rasters for 13015
+running private 13015
+FAILED 13015 get_hypertension_gep() missing 1 required positional argument: 'scen'
+Deleting unneeded files
+Done with  13015

@@ -1,0 +1,1006 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+running pol 23_76732
+FAILED pol 23_76732 could not convert string to float: '10,179.17'
+running pol 23_76733
+FAILED pol 23_76733 could not convert string to float: '10,179.17'
+running pol 23_76734
+FAILED pol 23_76734 could not convert string to float: '10,179.17'
+running pol 23_76735
+FAILED pol 23_76735 could not convert string to float: '10,179.17'
+running pol 23_76736
+FAILED pol 23_76736 could not convert string to float: '10,179.17'
+running pol 23_76737
+FAILED pol 23_76737 could not convert string to float: '10,179.17'
+running pol 23_76738
+FAILED pol 23_76738 could not convert string to float: '10,179.17'
+running pol 23_76739
+FAILED pol 23_76739 could not convert string to float: '10,179.17'
+running pol 23_76740
+FAILED pol 23_76740 could not convert string to float: '10,179.17'
+running pol 23_76741
+FAILED pol 23_76741 could not convert string to float: '10,179.17'
+running pol 23_76742
+FAILED pol 23_76742 could not convert string to float: '10,179.17'
+running pol 22_12420
+FAILED pol 22_12420 could not convert string to float: '10,179.17'
+running pol 22_12421
+FAILED pol 22_12421 could not convert string to float: '10,179.17'
+running pol 22_12422
+FAILED pol 22_12422 could not convert string to float: '10,179.17'
+running pol 22_12423
+FAILED pol 22_12423 could not convert string to float: '10,179.17'
+running pol 22_12424
+FAILED pol 22_12424 could not convert string to float: '10,179.17'
+running pol 22_12425
+FAILED pol 22_12425 could not convert string to float: '10,179.17'
+running pol 22_12426
+FAILED pol 22_12426 could not convert string to float: '10,179.17'
+running pol 22_12427
+FAILED pol 22_12427 could not convert string to float: '10,179.17'
+running pol 22_12428
+FAILED pol 22_12428 could not convert string to float: '10,179.17'
+running pol 22_12429
+FAILED pol 22_12429 could not convert string to float: '10,179.17'
+running pol 22_12430
+FAILED pol 22_12430 could not convert string to float: '10,179.17'
+running pol 22_12431
+FAILED pol 22_12431 could not convert string to float: '10,179.17'
+running pol 22_12432
+FAILED pol 22_12432 could not convert string to float: '10,179.17'
+running pol 22_12433
+FAILED pol 22_12433 could not convert string to float: '10,179.17'
+running pol 22_12434
+FAILED pol 22_12434 could not convert string to float: '10,179.17'
+running pol 22_12435
+FAILED pol 22_12435 could not convert string to float: '10,179.17'
+running pol 22_12436
+FAILED pol 22_12436 could not convert string to float: '10,179.17'
+running pol 22_12437
+FAILED pol 22_12437 could not convert string to float: '10,179.17'
+running pol 22_12438
+FAILED pol 22_12438 could not convert string to float: '10,179.17'
+running pol 22_12439
+FAILED pol 22_12439 could not convert string to float: '10,179.17'
+running pol 22_12440
+FAILED pol 22_12440 could not convert string to float: '10,179.17'
+running pol 22_12441
+FAILED pol 22_12441 could not convert string to float: '10,179.17'
+running pol 22_12442
+FAILED pol 22_12442 could not convert string to float: '10,179.17'
+running pol 22_12443
+FAILED pol 22_12443 could not convert string to float: '10,179.17'
+running pol 22_12444
+FAILED pol 22_12444 could not convert string to float: '10,179.17'
+running pol 22_12445
+FAILED pol 22_12445 could not convert string to float: '10,179.17'
+running pol 22_12446
+FAILED pol 22_12446 could not convert string to float: '10,179.17'
+running pol 22_12447
+FAILED pol 22_12447 could not convert string to float: '10,179.17'
+running pol 22_12448
+FAILED pol 22_12448 could not convert string to float: '10,179.17'
+running pol 22_12449
+FAILED pol 22_12449 could not convert string to float: '10,179.17'
+running pol 22_12450
+FAILED pol 22_12450 could not convert string to float: '10,179.17'
+running pol 22_12451
+FAILED pol 22_12451 could not convert string to float: '10,179.17'
+running pol 22_12452
+FAILED pol 22_12452 could not convert string to float: '10,179.17'
+running pol 22_12453
+FAILED pol 22_12453 could not convert string to float: '10,179.17'
+running pol 22_12454
+FAILED pol 22_12454 could not convert string to float: '10,179.17'
+running pol 22_12455
+FAILED pol 22_12455 could not convert string to float: '10,179.17'
+running pol 22_12456
+FAILED pol 22_12456 could not convert string to float: '10,179.17'
+running pol 22_12457
+FAILED pol 22_12457 could not convert string to float: '10,179.17'
+running pol 22_12458
+FAILED pol 22_12458 could not convert string to float: '10,179.17'
+running pol 23_76632
+FAILED pol 23_76632 could not convert string to float: '10,179.17'
+running pol 23_76633
+FAILED pol 23_76633 could not convert string to float: '10,179.17'
+running pol 23_76634
+FAILED pol 23_76634 could not convert string to float: '10,179.17'
+running pol 23_76635
+FAILED pol 23_76635 could not convert string to float: '10,179.17'
+running pol 23_76636
+FAILED pol 23_76636 could not convert string to float: '10,179.17'
+running pol 23_76637
+FAILED pol 23_76637 could not convert string to float: '10,179.17'
+running pol 23_76638
+FAILED pol 23_76638 could not convert string to float: '10,179.17'
+running pol 23_76639
+FAILED pol 23_76639 could not convert string to float: '10,179.17'
+running pol 23_76640
+FAILED pol 23_76640 could not convert string to float: '10,179.17'
+running pol 23_76641
+FAILED pol 23_76641 could not convert string to float: '10,179.17'
+running pol 23_76642
+FAILED pol 23_76642 could not convert string to float: '10,179.17'
+running pol 23_76643
+FAILED pol 23_76643 could not convert string to float: '10,179.17'
+running pol 23_76644
+FAILED pol 23_76644 could not convert string to float: '10,179.17'
+running pol 23_76645
+FAILED pol 23_76645 could not convert string to float: '10,179.17'
+running pol 23_76646
+FAILED pol 23_76646 could not convert string to float: '10,179.17'
+running pol 23_76647
+FAILED pol 23_76647 could not convert string to float: '10,179.17'
+running pol 23_76648
+FAILED pol 23_76648 could not convert string to float: '10,179.17'
+running pol 23_76649
+FAILED pol 23_76649 could not convert string to float: '10,179.17'
+running pol 23_76650
+FAILED pol 23_76650 could not convert string to float: '10,179.17'
+running pol 23_76651
+FAILED pol 23_76651 could not convert string to float: '10,179.17'
+running pol 23_76652
+FAILED pol 23_76652 could not convert string to float: '10,179.17'
+running pol 23_76653
+FAILED pol 23_76653 could not convert string to float: '10,179.17'
+running pol 23_76654
+FAILED pol 23_76654 could not convert string to float: '10,179.17'
+running pol 23_76655
+FAILED pol 23_76655 could not convert string to float: '10,179.17'
+running pol 23_76656
+FAILED pol 23_76656 could not convert string to float: '10,179.17'
+running pol 23_76657
+FAILED pol 23_76657 could not convert string to float: '10,179.17'
+running pol 23_76658
+FAILED pol 23_76658 could not convert string to float: '10,179.17'
+running pol 23_76659
+FAILED pol 23_76659 could not convert string to float: '10,179.17'
+running pol 23_76660
+FAILED pol 23_76660 could not convert string to float: '10,179.17'
+running pol 23_76661
+FAILED pol 23_76661 could not convert string to float: '10,179.17'
+running pol 23_76662
+FAILED pol 23_76662 could not convert string to float: '10,179.17'
+running pol 23_76663
+FAILED pol 23_76663 could not convert string to float: '10,179.17'
+running pol 23_76664
+FAILED pol 23_76664 could not convert string to float: '10,179.17'
+running pol 23_76665
+FAILED pol 23_76665 could not convert string to float: '10,179.17'
+running pol 23_76666
+FAILED pol 23_76666 could not convert string to float: '10,179.17'
+running pol 23_76667
+FAILED pol 23_76667 could not convert string to float: '10,179.17'
+running pol 23_76668
+FAILED pol 23_76668 could not convert string to float: '10,179.17'
+running pol 23_76669
+FAILED pol 23_76669 could not convert string to float: '10,179.17'
+running pol 23_76670
+FAILED pol 23_76670 could not convert string to float: '10,179.17'
+running pol 23_76671
+FAILED pol 23_76671 could not convert string to float: '10,179.17'
+running pol 23_76672
+FAILED pol 23_76672 could not convert string to float: '10,179.17'
+running pol 23_76673
+FAILED pol 23_76673 could not convert string to float: '10,179.17'
+running pol 23_76674
+FAILED pol 23_76674 could not convert string to float: '10,179.17'
+running pol 23_76675
+FAILED pol 23_76675 could not convert string to float: '10,179.17'
+running pol 23_76676
+FAILED pol 23_76676 could not convert string to float: '10,179.17'
+running pol 23_76677
+FAILED pol 23_76677 could not convert string to float: '10,179.17'
+running pol 23_76678
+FAILED pol 23_76678 could not convert string to float: '10,179.17'
+running pol 23_76679
+FAILED pol 23_76679 could not convert string to float: '10,179.17'
+running pol 23_76680
+FAILED pol 23_76680 could not convert string to float: '10,179.17'
+running pol 23_76681
+FAILED pol 23_76681 could not convert string to float: '10,179.17'
+running pol 22_12459
+FAILED pol 22_12459 could not convert string to float: '10,179.17'
+running pol 22_12460
+FAILED pol 22_12460 could not convert string to float: '10,179.17'
+running pol 22_12461
+FAILED pol 22_12461 could not convert string to float: '10,179.17'
+running pol 22_12462
+FAILED pol 22_12462 could not convert string to float: '10,179.17'
+running pol 22_12463
+FAILED pol 22_12463 could not convert string to float: '10,179.17'
+running pol 22_12464
+FAILED pol 22_12464 could not convert string to float: '10,179.17'
+running pol 22_12465
+FAILED pol 22_12465 could not convert string to float: '10,179.17'
+running pol 22_12466
+FAILED pol 22_12466 could not convert string to float: '10,179.17'
+running pol 22_12467
+FAILED pol 22_12467 could not convert string to float: '10,179.17'
+running pol 22_12468
+FAILED pol 22_12468 could not convert string to float: '10,179.17'
+running pol 22_12469
+FAILED pol 22_12469 could not convert string to float: '10,179.17'
+running pol 22_12470
+FAILED pol 22_12470 could not convert string to float: '10,179.17'
+running pol 22_12471
+FAILED pol 22_12471 could not convert string to float: '10,179.17'
+running pol 22_12472
+FAILED pol 22_12472 could not convert string to float: '10,179.17'
+running pol 22_12473
+FAILED pol 22_12473 could not convert string to float: '10,179.17'
+running pol 22_12474
+FAILED pol 22_12474 could not convert string to float: '10,179.17'
+running pol 22_12475
+FAILED pol 22_12475 could not convert string to float: '10,179.17'
+running pol 22_12476
+FAILED pol 22_12476 could not convert string to float: '10,179.17'
+running pol 22_12477
+FAILED pol 22_12477 could not convert string to float: '10,179.17'
+running pol 22_12478
+FAILED pol 22_12478 could not convert string to float: '10,179.17'
+running pol 22_12479
+FAILED pol 22_12479 could not convert string to float: '10,179.17'
+running pol 22_12480
+FAILED pol 22_12480 could not convert string to float: '10,179.17'
+running pol 22_12481
+FAILED pol 22_12481 could not convert string to float: '10,179.17'
+running pol 22_12482
+FAILED pol 22_12482 could not convert string to float: '10,179.17'
+running pol 22_12483
+FAILED pol 22_12483 could not convert string to float: '10,179.17'
+running pol 22_12484
+FAILED pol 22_12484 could not convert string to float: '10,179.17'
+running pol 22_12485
+FAILED pol 22_12485 could not convert string to float: '10,179.17'
+running pol 22_12486
+FAILED pol 22_12486 could not convert string to float: '10,179.17'
+running pol 22_12487
+FAILED pol 22_12487 could not convert string to float: '10,179.17'
+running pol 22_12488
+FAILED pol 22_12488 could not convert string to float: '10,179.17'
+running pol 22_12489
+FAILED pol 22_12489 could not convert string to float: '10,179.17'
+running pol 22_12490
+FAILED pol 22_12490 could not convert string to float: '10,179.17'
+running pol 22_12491
+FAILED pol 22_12491 could not convert string to float: '10,179.17'
+running pol 22_12492
+FAILED pol 22_12492 could not convert string to float: '10,179.17'
+running pol 22_12493
+FAILED pol 22_12493 could not convert string to float: '10,179.17'
+running pol 22_12494
+FAILED pol 22_12494 could not convert string to float: '10,179.17'
+running pol 22_12495
+FAILED pol 22_12495 could not convert string to float: '10,179.17'
+running pol 22_12496
+FAILED pol 22_12496 could not convert string to float: '10,179.17'
+running pol 22_12497
+FAILED pol 22_12497 could not convert string to float: '10,179.17'
+running pol 22_12498
+FAILED pol 22_12498 could not convert string to float: '10,179.17'
+running pol 22_12499
+FAILED pol 22_12499 could not convert string to float: '10,179.17'
+running pol 22_12500
+FAILED pol 22_12500 could not convert string to float: '10,179.17'
+running pol 22_12501
+FAILED pol 22_12501 could not convert string to float: '10,179.17'
+running pol 22_12502
+FAILED pol 22_12502 could not convert string to float: '10,179.17'
+running pol 22_12503
+FAILED pol 22_12503 could not convert string to float: '10,179.17'
+running pol 22_12504
+FAILED pol 22_12504 could not convert string to float: '10,179.17'
+running pol 22_12505
+FAILED pol 22_12505 could not convert string to float: '10,179.17'
+running pol 22_12506
+FAILED pol 22_12506 could not convert string to float: '10,179.17'
+running pol 22_12507
+FAILED pol 22_12507 could not convert string to float: '10,179.17'
+running pol 22_12508
+FAILED pol 22_12508 could not convert string to float: '10,179.17'
+running pol 23_76682
+FAILED pol 23_76682 could not convert string to float: '10,179.17'
+running pol 23_76683
+FAILED pol 23_76683 could not convert string to float: '10,179.17'
+running pol 23_76684
+FAILED pol 23_76684 could not convert string to float: '10,179.17'
+running pol 23_76685
+FAILED pol 23_76685 could not convert string to float: '10,179.17'
+running pol 23_76686
+FAILED pol 23_76686 could not convert string to float: '10,179.17'
+running pol 23_76687
+FAILED pol 23_76687 could not convert string to float: '10,179.17'
+running pol 23_76688
+FAILED pol 23_76688 could not convert string to float: '10,179.17'
+running pol 23_76689
+FAILED pol 23_76689 could not convert string to float: '10,179.17'
+running pol 23_76690
+FAILED pol 23_76690 could not convert string to float: '10,179.17'
+running pol 23_76691
+FAILED pol 23_76691 could not convert string to float: '10,179.17'
+running pol 23_76692
+FAILED pol 23_76692 could not convert string to float: '10,179.17'
+running pol 23_76693
+FAILED pol 23_76693 could not convert string to float: '10,179.17'
+running pol 23_76694
+FAILED pol 23_76694 could not convert string to float: '10,179.17'
+running pol 23_76695
+FAILED pol 23_76695 could not convert string to float: '10,179.17'
+running pol 23_76696
+FAILED pol 23_76696 could not convert string to float: '10,179.17'
+running pol 23_76697
+FAILED pol 23_76697 could not convert string to float: '10,179.17'
+running pol 23_76698
+FAILED pol 23_76698 could not convert string to float: '10,179.17'
+running pol 23_76699
+FAILED pol 23_76699 could not convert string to float: '10,179.17'
+running pol 23_76700
+FAILED pol 23_76700 could not convert string to float: '10,179.17'
+running pol 23_76701
+FAILED pol 23_76701 could not convert string to float: '10,179.17'
+running pol 23_76702
+FAILED pol 23_76702 could not convert string to float: '10,179.17'
+running pol 23_76703
+FAILED pol 23_76703 could not convert string to float: '10,179.17'
+running pol 23_76704
+FAILED pol 23_76704 could not convert string to float: '10,179.17'
+running pol 23_76705
+FAILED pol 23_76705 could not convert string to float: '10,179.17'
+running pol 23_76706
+FAILED pol 23_76706 could not convert string to float: '10,179.17'
+running pol 23_76707
+FAILED pol 23_76707 could not convert string to float: '10,179.17'
+running pol 23_76708
+FAILED pol 23_76708 could not convert string to float: '10,179.17'
+running pol 23_76709
+FAILED pol 23_76709 could not convert string to float: '10,179.17'
+running pol 23_76710
+FAILED pol 23_76710 could not convert string to float: '10,179.17'
+running pol 23_76711
+FAILED pol 23_76711 could not convert string to float: '10,179.17'
+running pol 23_76712
+FAILED pol 23_76712 could not convert string to float: '10,179.17'
+running pol 23_76713
+FAILED pol 23_76713 could not convert string to float: '10,179.17'
+running pol 23_76714
+FAILED pol 23_76714 could not convert string to float: '10,179.17'
+running pol 23_76715
+FAILED pol 23_76715 could not convert string to float: '10,179.17'
+running pol 23_76716
+FAILED pol 23_76716 could not convert string to float: '10,179.17'
+running pol 23_76717
+FAILED pol 23_76717 could not convert string to float: '10,179.17'
+running pol 23_76718
+FAILED pol 23_76718 could not convert string to float: '10,179.17'
+running pol 23_76719
+FAILED pol 23_76719 could not convert string to float: '10,179.17'
+running pol 23_76720
+FAILED pol 23_76720 could not convert string to float: '10,179.17'
+running pol 23_76721
+FAILED pol 23_76721 could not convert string to float: '10,179.17'
+running pol 23_76722
+FAILED pol 23_76722 could not convert string to float: '10,179.17'
+running pol 23_76723
+FAILED pol 23_76723 could not convert string to float: '10,179.17'
+running pol 23_76724
+FAILED pol 23_76724 could not convert string to float: '10,179.17'
+running pol 23_76725
+FAILED pol 23_76725 could not convert string to float: '10,179.17'
+running pol 23_76726
+FAILED pol 23_76726 could not convert string to float: '10,179.17'
+running pol 23_76727
+FAILED pol 23_76727 could not convert string to float: '10,179.17'
+running pol 23_76728
+FAILED pol 23_76728 could not convert string to float: '10,179.17'
+running pol 23_76729
+FAILED pol 23_76729 could not convert string to float: '10,179.17'
+running pol 23_76730
+FAILED pol 23_76730 could not convert string to float: '10,179.17'
+running pol 23_76731
+FAILED pol 23_76731 could not convert string to float: '10,179.17'
+running pol 23_76532
+FAILED pol 23_76532 could not convert string to float: '10,179.17'
+running pol 23_76533
+FAILED pol 23_76533 could not convert string to float: '10,179.17'
+running pol 23_76534
+FAILED pol 23_76534 could not convert string to float: '10,179.17'
+running pol 23_76535
+FAILED pol 23_76535 could not convert string to float: '10,179.17'
+running pol 23_76536
+FAILED pol 23_76536 could not convert string to float: '10,179.17'
+running pol 23_76537
+FAILED pol 23_76537 could not convert string to float: '10,179.17'
+running pol 23_76538
+FAILED pol 23_76538 could not convert string to float: '10,179.17'
+running pol 23_76539
+FAILED pol 23_76539 could not convert string to float: '10,179.17'
+running pol 23_76540
+FAILED pol 23_76540 could not convert string to float: '10,179.17'
+running pol 23_76541
+FAILED pol 23_76541 could not convert string to float: '10,179.17'
+running pol 23_76542
+FAILED pol 23_76542 could not convert string to float: '10,179.17'
+running pol 23_76543
+FAILED pol 23_76543 could not convert string to float: '10,179.17'
+running pol 23_76544
+FAILED pol 23_76544 could not convert string to float: '10,179.17'
+running pol 23_76545
+FAILED pol 23_76545 could not convert string to float: '10,179.17'
+running pol 23_76546
+FAILED pol 23_76546 could not convert string to float: '10,179.17'
+running pol 23_76547
+FAILED pol 23_76547 could not convert string to float: '10,179.17'
+running pol 23_76548
+FAILED pol 23_76548 could not convert string to float: '10,179.17'
+running pol 23_76549
+FAILED pol 23_76549 could not convert string to float: '10,179.17'
+running pol 23_76550
+FAILED pol 23_76550 could not convert string to float: '10,179.17'
+running pol 23_76551
+FAILED pol 23_76551 could not convert string to float: '10,179.17'
+running pol 23_76552
+FAILED pol 23_76552 could not convert string to float: '10,179.17'
+running pol 23_76553
+FAILED pol 23_76553 could not convert string to float: '10,179.17'
+running pol 23_76554
+FAILED pol 23_76554 could not convert string to float: '10,179.17'
+running pol 23_76555
+FAILED pol 23_76555 could not convert string to float: '10,179.17'
+running pol 23_76556
+FAILED pol 23_76556 could not convert string to float: '10,179.17'
+running pol 23_76557
+FAILED pol 23_76557 could not convert string to float: '10,179.17'
+running pol 23_76558
+FAILED pol 23_76558 could not convert string to float: '10,179.17'
+running pol 23_76559
+FAILED pol 23_76559 could not convert string to float: '10,179.17'
+running pol 23_76560
+FAILED pol 23_76560 could not convert string to float: '10,179.17'
+running pol 23_76561
+FAILED pol 23_76561 could not convert string to float: '10,179.17'
+running pol 23_76562
+FAILED pol 23_76562 could not convert string to float: '10,179.17'
+running pol 23_76563
+FAILED pol 23_76563 could not convert string to float: '10,179.17'
+running pol 23_76564
+FAILED pol 23_76564 could not convert string to float: '10,179.17'
+running pol 23_76565
+FAILED pol 23_76565 could not convert string to float: '10,179.17'
+running pol 23_76566
+FAILED pol 23_76566 could not convert string to float: '10,179.17'
+running pol 23_76567
+FAILED pol 23_76567 could not convert string to float: '10,179.17'
+running pol 23_76568
+FAILED pol 23_76568 could not convert string to float: '10,179.17'
+running pol 23_76569
+FAILED pol 23_76569 could not convert string to float: '10,179.17'
+running pol 23_76570
+FAILED pol 23_76570 could not convert string to float: '10,179.17'
+running pol 23_76571
+FAILED pol 23_76571 could not convert string to float: '10,179.17'
+running pol 23_76572
+FAILED pol 23_76572 could not convert string to float: '10,179.17'
+running pol 23_76573
+FAILED pol 23_76573 could not convert string to float: '10,179.17'
+running pol 23_76574
+FAILED pol 23_76574 could not convert string to float: '10,179.17'
+running pol 23_76575
+FAILED pol 23_76575 could not convert string to float: '10,179.17'
+running pol 23_76576
+FAILED pol 23_76576 could not convert string to float: '10,179.17'
+running pol 23_76577
+FAILED pol 23_76577 could not convert string to float: '10,179.17'
+running pol 23_76578
+FAILED pol 23_76578 could not convert string to float: '10,179.17'
+running pol 23_76579
+FAILED pol 23_76579 could not convert string to float: '10,179.17'
+running pol 23_76580
+FAILED pol 23_76580 could not convert string to float: '10,179.17'
+running pol 23_76581
+FAILED pol 23_76581 could not convert string to float: '10,179.17'
+running pol 23_76582
+FAILED pol 23_76582 could not convert string to float: '10,179.17'
+running pol 23_76583
+FAILED pol 23_76583 could not convert string to float: '10,179.17'
+running pol 23_76584
+FAILED pol 23_76584 could not convert string to float: '10,179.17'
+running pol 23_76585
+FAILED pol 23_76585 could not convert string to float: '10,179.17'
+running pol 23_76586
+FAILED pol 23_76586 could not convert string to float: '10,179.17'
+running pol 23_76587
+FAILED pol 23_76587 could not convert string to float: '10,179.17'
+running pol 23_76588
+FAILED pol 23_76588 could not convert string to float: '10,179.17'
+running pol 23_76589
+FAILED pol 23_76589 could not convert string to float: '10,179.17'
+running pol 23_76590
+FAILED pol 23_76590 could not convert string to float: '10,179.17'
+running pol 23_76591
+FAILED pol 23_76591 could not convert string to float: '10,179.17'
+running pol 23_76592
+FAILED pol 23_76592 could not convert string to float: '10,179.17'
+running pol 23_76593
+FAILED pol 23_76593 could not convert string to float: '10,179.17'
+running pol 23_76594
+FAILED pol 23_76594 could not convert string to float: '10,179.17'
+running pol 23_76595
+FAILED pol 23_76595 could not convert string to float: '10,179.17'
+running pol 23_76596
+FAILED pol 23_76596 could not convert string to float: '10,179.17'
+running pol 23_76597
+FAILED pol 23_76597 could not convert string to float: '10,179.17'
+running pol 23_76598
+FAILED pol 23_76598 could not convert string to float: '10,179.17'
+running pol 23_76599
+FAILED pol 23_76599 could not convert string to float: '10,179.17'
+running pol 23_76600
+FAILED pol 23_76600 could not convert string to float: '10,179.17'
+running pol 23_76601
+FAILED pol 23_76601 could not convert string to float: '10,179.17'
+running pol 23_76602
+FAILED pol 23_76602 could not convert string to float: '10,179.17'
+running pol 23_76603
+FAILED pol 23_76603 could not convert string to float: '10,179.17'
+running pol 23_76604
+FAILED pol 23_76604 could not convert string to float: '10,179.17'
+running pol 23_76605
+FAILED pol 23_76605 could not convert string to float: '10,179.17'
+running pol 23_76606
+FAILED pol 23_76606 could not convert string to float: '10,179.17'
+running pol 23_76607
+FAILED pol 23_76607 could not convert string to float: '10,179.17'
+running pol 23_76608
+FAILED pol 23_76608 could not convert string to float: '10,179.17'
+running pol 23_76609
+FAILED pol 23_76609 could not convert string to float: '10,179.17'
+running pol 23_76610
+FAILED pol 23_76610 could not convert string to float: '10,179.17'
+running pol 23_76611
+FAILED pol 23_76611 could not convert string to float: '10,179.17'
+running pol 23_76612
+FAILED pol 23_76612 could not convert string to float: '10,179.17'
+running pol 23_76613
+FAILED pol 23_76613 could not convert string to float: '10,179.17'
+running pol 23_76614
+FAILED pol 23_76614 could not convert string to float: '10,179.17'
+running pol 23_76615
+FAILED pol 23_76615 could not convert string to float: '10,179.17'
+running pol 23_76616
+FAILED pol 23_76616 could not convert string to float: '10,179.17'
+running pol 23_76617
+FAILED pol 23_76617 could not convert string to float: '10,179.17'
+running pol 23_76618
+FAILED pol 23_76618 could not convert string to float: '10,179.17'
+running pol 23_76619
+FAILED pol 23_76619 could not convert string to float: '10,179.17'
+running pol 23_76620
+FAILED pol 23_76620 could not convert string to float: '10,179.17'
+running pol 23_76621
+FAILED pol 23_76621 could not convert string to float: '10,179.17'
+running pol 23_76622
+FAILED pol 23_76622 could not convert string to float: '10,179.17'
+running pol 23_76623
+FAILED pol 23_76623 could not convert string to float: '10,179.17'
+running pol 23_76624
+FAILED pol 23_76624 could not convert string to float: '10,179.17'
+running pol 23_76625
+FAILED pol 23_76625 could not convert string to float: '10,179.17'
+running pol 23_76626
+FAILED pol 23_76626 could not convert string to float: '10,179.17'
+running pol 23_76627
+FAILED pol 23_76627 could not convert string to float: '10,179.17'
+running pol 23_76628
+FAILED pol 23_76628 could not convert string to float: '10,179.17'
+running pol 23_76629
+FAILED pol 23_76629 could not convert string to float: '10,179.17'
+running pol 23_76630
+FAILED pol 23_76630 could not convert string to float: '10,179.17'
+running pol 23_76631
+FAILED pol 23_76631 could not convert string to float: '10,179.17'
+running pol 23_76482
+FAILED pol 23_76482 could not convert string to float: '10,179.17'
+running pol 23_76483
+FAILED pol 23_76483 could not convert string to float: '10,179.17'
+running pol 23_76484
+FAILED pol 23_76484 could not convert string to float: '10,179.17'
+running pol 23_76485
+FAILED pol 23_76485 could not convert string to float: '10,179.17'
+running pol 23_76486
+FAILED pol 23_76486 could not convert string to float: '10,179.17'
+running pol 23_76487
+FAILED pol 23_76487 could not convert string to float: '10,179.17'
+running pol 23_76488
+FAILED pol 23_76488 could not convert string to float: '10,179.17'
+running pol 23_76489
+FAILED pol 23_76489 could not convert string to float: '10,179.17'
+running pol 23_76490
+FAILED pol 23_76490 could not convert string to float: '10,179.17'
+running pol 23_76491
+FAILED pol 23_76491 could not convert string to float: '10,179.17'
+running pol 23_76492
+FAILED pol 23_76492 could not convert string to float: '10,179.17'
+running pol 23_76493
+FAILED pol 23_76493 could not convert string to float: '10,179.17'
+running pol 23_76494
+FAILED pol 23_76494 could not convert string to float: '10,179.17'
+running pol 23_76495
+FAILED pol 23_76495 could not convert string to float: '10,179.17'
+running pol 23_76496
+FAILED pol 23_76496 could not convert string to float: '10,179.17'
+running pol 23_76497
+FAILED pol 23_76497 could not convert string to float: '10,179.17'
+running pol 23_76498
+FAILED pol 23_76498 could not convert string to float: '10,179.17'
+running pol 23_76499
+FAILED pol 23_76499 could not convert string to float: '10,179.17'
+running pol 23_76500
+FAILED pol 23_76500 could not convert string to float: '10,179.17'
+running pol 23_76501
+FAILED pol 23_76501 could not convert string to float: '10,179.17'
+running pol 23_76502
+FAILED pol 23_76502 could not convert string to float: '10,179.17'
+running pol 23_76503
+FAILED pol 23_76503 could not convert string to float: '10,179.17'
+running pol 23_76504
+FAILED pol 23_76504 could not convert string to float: '10,179.17'
+running pol 23_76505
+FAILED pol 23_76505 could not convert string to float: '10,179.17'
+running pol 23_76506
+FAILED pol 23_76506 could not convert string to float: '10,179.17'
+running pol 23_76507
+FAILED pol 23_76507 could not convert string to float: '10,179.17'
+running pol 23_76508
+FAILED pol 23_76508 could not convert string to float: '10,179.17'
+running pol 23_76509
+FAILED pol 23_76509 could not convert string to float: '10,179.17'
+running pol 23_76510
+FAILED pol 23_76510 could not convert string to float: '10,179.17'
+running pol 23_76511
+FAILED pol 23_76511 could not convert string to float: '10,179.17'
+running pol 23_76512
+FAILED pol 23_76512 could not convert string to float: '10,179.17'
+running pol 23_76513
+FAILED pol 23_76513 could not convert string to float: '10,179.17'
+running pol 23_76514
+FAILED pol 23_76514 could not convert string to float: '10,179.17'
+running pol 23_76515
+FAILED pol 23_76515 could not convert string to float: '10,179.17'
+running pol 23_76516
+FAILED pol 23_76516 could not convert string to float: '10,179.17'
+running pol 23_76517
+FAILED pol 23_76517 could not convert string to float: '10,179.17'
+running pol 23_76518
+FAILED pol 23_76518 could not convert string to float: '10,179.17'
+running pol 23_76519
+FAILED pol 23_76519 could not convert string to float: '10,179.17'
+running pol 23_76520
+FAILED pol 23_76520 could not convert string to float: '10,179.17'
+running pol 23_76521
+FAILED pol 23_76521 could not convert string to float: '10,179.17'
+running pol 23_76522
+FAILED pol 23_76522 could not convert string to float: '10,179.17'
+running pol 23_76523
+FAILED pol 23_76523 could not convert string to float: '10,179.17'
+running pol 23_76524
+FAILED pol 23_76524 could not convert string to float: '10,179.17'
+running pol 23_76525
+FAILED pol 23_76525 could not convert string to float: '10,179.17'
+running pol 23_76526
+FAILED pol 23_76526 could not convert string to float: '10,179.17'
+running pol 23_76527
+FAILED pol 23_76527 could not convert string to float: '10,179.17'
+running pol 23_76528
+FAILED pol 23_76528 could not convert string to float: '10,179.17'
+running pol 23_76529
+FAILED pol 23_76529 could not convert string to float: '10,179.17'
+running pol 23_76530
+FAILED pol 23_76530 could not convert string to float: '10,179.17'
+running pol 23_76531
+FAILED pol 23_76531 could not convert string to float: '10,179.17'
+running pol 22_12609
+FAILED pol 22_12609 could not convert string to float: '10,179.17'
+running pol 22_12610
+FAILED pol 22_12610 could not convert string to float: '10,179.17'
+running pol 22_12611
+FAILED pol 22_12611 could not convert string to float: '10,179.17'
+running pol 22_12612
+FAILED pol 22_12612 could not convert string to float: '10,179.17'
+running pol 22_12613
+FAILED pol 22_12613 could not convert string to float: '10,179.17'
+running pol 22_12614
+FAILED pol 22_12614 could not convert string to float: '10,179.17'
+running pol 22_12615
+FAILED pol 22_12615 could not convert string to float: '10,179.17'
+running pol 22_12616
+FAILED pol 22_12616 could not convert string to float: '10,179.17'
+running pol 22_12617
+FAILED pol 22_12617 could not convert string to float: '10,179.17'
+running pol 22_12618
+FAILED pol 22_12618 could not convert string to float: '10,179.17'
+running pol 22_12619
+FAILED pol 22_12619 could not convert string to float: '10,179.17'
+running pol 22_12620
+FAILED pol 22_12620 could not convert string to float: '10,179.17'
+running pol 22_12621
+FAILED pol 22_12621 could not convert string to float: '10,179.17'
+running pol 22_12622
+FAILED pol 22_12622 could not convert string to float: '10,179.17'
+running pol 22_12623
+FAILED pol 22_12623 could not convert string to float: '10,179.17'
+running pol 22_12624
+FAILED pol 22_12624 could not convert string to float: '10,179.17'
+running pol 22_12625
+FAILED pol 22_12625 could not convert string to float: '10,179.17'
+running pol 22_12626
+FAILED pol 22_12626 could not convert string to float: '10,179.17'
+running pol 22_12627
+FAILED pol 22_12627 could not convert string to float: '10,179.17'
+running pol 22_12628
+FAILED pol 22_12628 could not convert string to float: '10,179.17'
+running pol 22_12629
+FAILED pol 22_12629 could not convert string to float: '10,179.17'
+running pol 22_12630
+FAILED pol 22_12630 could not convert string to float: '10,179.17'
+running pol 22_12631
+FAILED pol 22_12631 could not convert string to float: '10,179.17'
+running pol 22_12632
+FAILED pol 22_12632 could not convert string to float: '10,179.17'
+running pol 22_12633
+FAILED pol 22_12633 could not convert string to float: '10,179.17'
+running pol 22_12634
+FAILED pol 22_12634 could not convert string to float: '10,179.17'
+running pol 22_12635
+FAILED pol 22_12635 could not convert string to float: '10,179.17'
+running pol 22_12636
+FAILED pol 22_12636 could not convert string to float: '10,179.17'
+running pol 22_12637
+FAILED pol 22_12637 could not convert string to float: '10,179.17'
+running pol 22_12638
+FAILED pol 22_12638 could not convert string to float: '10,179.17'
+running pol 22_12639
+FAILED pol 22_12639 could not convert string to float: '10,179.17'
+running pol 22_12640
+FAILED pol 22_12640 could not convert string to float: '10,179.17'
+running pol 22_12641
+FAILED pol 22_12641 could not convert string to float: '10,179.17'
+running pol 22_12642
+FAILED pol 22_12642 could not convert string to float: '10,179.17'
+running pol 22_12643
+FAILED pol 22_12643 could not convert string to float: '10,179.17'
+running pol 22_12644
+FAILED pol 22_12644 could not convert string to float: '10,179.17'
+running pol 22_12645
+FAILED pol 22_12645 could not convert string to float: '10,179.17'
+running pol 22_12646
+FAILED pol 22_12646 could not convert string to float: '10,179.17'
+running pol 23_76470
+FAILED pol 23_76470 could not convert string to float: '10,179.17'
+running pol 23_76471
+FAILED pol 23_76471 could not convert string to float: '10,179.17'
+running pol 23_76472
+FAILED pol 23_76472 could not convert string to float: '10,179.17'
+running pol 23_76473
+FAILED pol 23_76473 could not convert string to float: '10,179.17'
+running pol 23_76474
+FAILED pol 23_76474 could not convert string to float: '10,179.17'
+running pol 23_76475
+FAILED pol 23_76475 could not convert string to float: '10,179.17'
+running pol 23_76476
+FAILED pol 23_76476 could not convert string to float: '10,179.17'
+running pol 23_76477
+FAILED pol 23_76477 could not convert string to float: '10,179.17'
+running pol 23_76478
+FAILED pol 23_76478 could not convert string to float: '10,179.17'
+running pol 23_76479
+FAILED pol 23_76479 could not convert string to float: '10,179.17'
+running pol 23_76480
+FAILED pol 23_76480 could not convert string to float: '10,179.17'
+running pol 23_76481
+FAILED pol 23_76481 could not convert string to float: '10,179.17'
+running pol 22_12559
+FAILED pol 22_12559 could not convert string to float: '10,179.17'
+running pol 22_12560
+FAILED pol 22_12560 could not convert string to float: '10,179.17'
+running pol 22_12561
+FAILED pol 22_12561 could not convert string to float: '10,179.17'
+running pol 22_12562
+FAILED pol 22_12562 could not convert string to float: '10,179.17'
+running pol 22_12563
+FAILED pol 22_12563 could not convert string to float: '10,179.17'
+running pol 22_12564
+FAILED pol 22_12564 could not convert string to float: '10,179.17'
+running pol 22_12565
+FAILED pol 22_12565 could not convert string to float: '10,179.17'
+running pol 22_12566
+FAILED pol 22_12566 could not convert string to float: '10,179.17'
+running pol 22_12567
+FAILED pol 22_12567 could not convert string to float: '10,179.17'
+running pol 22_12568
+FAILED pol 22_12568 could not convert string to float: '10,179.17'
+running pol 22_12569
+FAILED pol 22_12569 could not convert string to float: '10,179.17'
+running pol 22_12570
+FAILED pol 22_12570 could not convert string to float: '10,179.17'
+running pol 22_12571
+FAILED pol 22_12571 could not convert string to float: '10,179.17'
+running pol 22_12572
+FAILED pol 22_12572 could not convert string to float: '10,179.17'
+running pol 22_12573
+FAILED pol 22_12573 could not convert string to float: '10,179.17'
+running pol 22_12574
+FAILED pol 22_12574 could not convert string to float: '10,179.17'
+running pol 22_12575
+FAILED pol 22_12575 could not convert string to float: '10,179.17'
+running pol 22_12576
+FAILED pol 22_12576 could not convert string to float: '10,179.17'
+running pol 22_12577
+FAILED pol 22_12577 could not convert string to float: '10,179.17'
+running pol 22_12578
+FAILED pol 22_12578 could not convert string to float: '10,179.17'
+running pol 22_12579
+FAILED pol 22_12579 could not convert string to float: '10,179.17'
+running pol 22_12580
+FAILED pol 22_12580 could not convert string to float: '10,179.17'
+running pol 22_12581
+FAILED pol 22_12581 could not convert string to float: '10,179.17'
+running pol 22_12582
+FAILED pol 22_12582 could not convert string to float: '10,179.17'
+running pol 22_12583
+FAILED pol 22_12583 could not convert string to float: '10,179.17'
+running pol 22_12584
+FAILED pol 22_12584 could not convert string to float: '10,179.17'
+running pol 22_12585
+FAILED pol 22_12585 could not convert string to float: '10,179.17'
+running pol 22_12586
+FAILED pol 22_12586 could not convert string to float: '10,179.17'
+running pol 22_12587
+FAILED pol 22_12587 could not convert string to float: '10,179.17'
+running pol 22_12588
+FAILED pol 22_12588 could not convert string to float: '10,179.17'
+running pol 22_12589
+FAILED pol 22_12589 could not convert string to float: '10,179.17'
+running pol 22_12590
+FAILED pol 22_12590 could not convert string to float: '10,179.17'
+running pol 22_12591
+FAILED pol 22_12591 could not convert string to float: '10,179.17'
+running pol 22_12592
+FAILED pol 22_12592 could not convert string to float: '10,179.17'
+running pol 22_12593
+FAILED pol 22_12593 could not convert string to float: '10,179.17'
+running pol 22_12594
+FAILED pol 22_12594 could not convert string to float: '10,179.17'
+running pol 22_12595
+FAILED pol 22_12595 could not convert string to float: '10,179.17'
+running pol 22_12596
+FAILED pol 22_12596 could not convert string to float: '10,179.17'
+running pol 22_12597
+FAILED pol 22_12597 could not convert string to float: '10,179.17'
+running pol 22_12598
+FAILED pol 22_12598 could not convert string to float: '10,179.17'
+running pol 22_12599
+FAILED pol 22_12599 could not convert string to float: '10,179.17'
+running pol 22_12600
+FAILED pol 22_12600 could not convert string to float: '10,179.17'
+running pol 22_12601
+FAILED pol 22_12601 could not convert string to float: '10,179.17'
+running pol 22_12602
+FAILED pol 22_12602 could not convert string to float: '10,179.17'
+running pol 22_12603
+FAILED pol 22_12603 could not convert string to float: '10,179.17'
+running pol 22_12604
+FAILED pol 22_12604 could not convert string to float: '10,179.17'
+running pol 22_12605
+FAILED pol 22_12605 could not convert string to float: '10,179.17'
+running pol 22_12606
+FAILED pol 22_12606 could not convert string to float: '10,179.17'
+running pol 22_12607
+FAILED pol 22_12607 could not convert string to float: '10,179.17'
+running pol 22_12608
+FAILED pol 22_12608 could not convert string to float: '10,179.17'
+running pol 22_12509
+FAILED pol 22_12509 could not convert string to float: '10,179.17'
+running pol 22_12510
+FAILED pol 22_12510 could not convert string to float: '10,179.17'
+running pol 22_12511
+FAILED pol 22_12511 could not convert string to float: '10,179.17'
+running pol 22_12512
+FAILED pol 22_12512 could not convert string to float: '10,179.17'
+running pol 22_12513
+FAILED pol 22_12513 could not convert string to float: '10,179.17'
+running pol 22_12514
+FAILED pol 22_12514 could not convert string to float: '10,179.17'
+running pol 22_12515
+FAILED pol 22_12515 could not convert string to float: '10,179.17'
+running pol 22_12516
+FAILED pol 22_12516 could not convert string to float: '10,179.17'
+running pol 22_12517
+FAILED pol 22_12517 could not convert string to float: '10,179.17'
+running pol 22_12518
+FAILED pol 22_12518 could not convert string to float: '10,179.17'
+running pol 22_12519
+FAILED pol 22_12519 could not convert string to float: '10,179.17'
+running pol 22_12520
+FAILED pol 22_12520 could not convert string to float: '10,179.17'
+running pol 22_12521
+FAILED pol 22_12521 could not convert string to float: '10,179.17'
+running pol 22_12522
+FAILED pol 22_12522 could not convert string to float: '10,179.17'
+running pol 22_12523
+FAILED pol 22_12523 could not convert string to float: '10,179.17'
+running pol 22_12524
+FAILED pol 22_12524 could not convert string to float: '10,179.17'
+running pol 22_12525
+FAILED pol 22_12525 could not convert string to float: '10,179.17'
+running pol 22_12526
+FAILED pol 22_12526 could not convert string to float: '10,179.17'
+running pol 22_12527
+FAILED pol 22_12527 could not convert string to float: '10,179.17'
+running pol 22_12528
+FAILED pol 22_12528 could not convert string to float: '10,179.17'
+running pol 22_12529
+FAILED pol 22_12529 could not convert string to float: '10,179.17'
+running pol 22_12530
+FAILED pol 22_12530 could not convert string to float: '10,179.17'
+running pol 22_12531
+FAILED pol 22_12531 could not convert string to float: '10,179.17'
+running pol 22_12532
+FAILED pol 22_12532 could not convert string to float: '10,179.17'
+running pol 22_12533
+FAILED pol 22_12533 could not convert string to float: '10,179.17'
+running pol 22_12534
+FAILED pol 22_12534 could not convert string to float: '10,179.17'
+running pol 22_12535
+FAILED pol 22_12535 could not convert string to float: '10,179.17'
+running pol 22_12536
+FAILED pol 22_12536 could not convert string to float: '10,179.17'
+running pol 22_12537
+FAILED pol 22_12537 could not convert string to float: '10,179.17'
+running pol 22_12538
+FAILED pol 22_12538 could not convert string to float: '10,179.17'
+running pol 22_12539
+FAILED pol 22_12539 could not convert string to float: '10,179.17'
+running pol 22_12540
+FAILED pol 22_12540 could not convert string to float: '10,179.17'
+running pol 22_12541
+FAILED pol 22_12541 could not convert string to float: '10,179.17'
+running pol 22_12542
+FAILED pol 22_12542 could not convert string to float: '10,179.17'
+running pol 22_12543
+FAILED pol 22_12543 could not convert string to float: '10,179.17'
+running pol 22_12544
+FAILED pol 22_12544 could not convert string to float: '10,179.17'
+running pol 22_12545
+FAILED pol 22_12545 could not convert string to float: '10,179.17'
+running pol 22_12546
+FAILED pol 22_12546 could not convert string to float: '10,179.17'
+running pol 22_12547
+FAILED pol 22_12547 /users/3/kula0049/Files/base_data/NDVI/ndvi_2019_ave_scaled_cropped_22_12547.tiff: No such file or directory
+running pol 22_12548
+FAILED pol 22_12548 could not convert string to float: '10,179.17'
+running pol 22_12549
+FAILED pol 22_12549 could not convert string to float: '10,179.17'
+running pol 22_12550
+FAILED pol 22_12550 could not convert string to float: '10,179.17'
+running pol 22_12551
+FAILED pol 22_12551 could not convert string to float: '10,179.17'
+running pol 22_12552
+FAILED pol 22_12552 could not convert string to float: '10,179.17'
+running pol 22_12553
+FAILED pol 22_12553 could not convert string to float: '10,179.17'
+running pol 22_12554
+FAILED pol 22_12554 could not convert string to float: '10,179.17'
+running pol 22_12555
+FAILED pol 22_12555 could not convert string to float: '10,179.17'
+running pol 22_12556
+FAILED pol 22_12556 could not convert string to float: '10,179.17'
+running pol 22_12557
+FAILED pol 22_12557 could not convert string to float: '10,179.17'
+running pol 22_12558
+FAILED pol 22_12558 could not convert string to float: '10,179.17'

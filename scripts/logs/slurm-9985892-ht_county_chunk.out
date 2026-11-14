@@ -1,0 +1,24 @@
+getting  public ndvi
+Aligning rasters for 13085
+running public 13085
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_29_26_public/13085_hypertension_results_2019_linear_county_prev.csv
+Deleting unneeded files
+Done with  13085
+getting  private ndvi
+Aligning rasters for 13085
+running private 13085
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_29_26_private/13085_hypertension_results_2019_linear_county_prev.csv
+Deleting unneeded files
+Done with  13085
+getting  public ndvi
+Aligning rasters for 13015
+running public 13015
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_29_26_public/13015_hypertension_results_2019_linear_county_prev.csv
+Deleting unneeded files
+Done with  13015
+getting  private ndvi
+Aligning rasters for 13015
+running private 13015
+Saved results to /users/3/kula0049/gep_health/output/linear_county_prev_5_29_26_private/13015_hypertension_results_2019_linear_county_prev.csv
+Deleting unneeded files
+Done with  13015

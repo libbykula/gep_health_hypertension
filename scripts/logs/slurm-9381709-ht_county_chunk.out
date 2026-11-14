@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear.py", line 62, in <module>
+    for county_id in county_ids:
+                     ^^^^^^^^^^
+NameError: name 'county_ids' is not defined

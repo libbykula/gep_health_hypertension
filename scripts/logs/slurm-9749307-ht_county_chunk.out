@@ -1,0 +1,38 @@
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 4, in <module>
+    import gep_hypertension_linear_county_prev_v04
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 37, in <module>
+    cost_data = pd.read_excel(os.path.join(base_dir, 'Price_Prevalence', 'MEPS_HC_Hypertension_CrossSectional.xlsx', 'Table Data'))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+         ^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/io/excel/_base.py", line 1550, in __init__
+    ext = inspect_excel_format(
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/io/excel/_base.py", line 1402, in inspect_excel_format
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+NotADirectoryError: [Errno 20] Not a directory: '/users/3/kula0049/Files/base_data/Price_Prevalence/MEPS_HC_Hypertension_CrossSectional.xlsx/Table Data'
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v02.py", line 4, in <module>
+    import gep_hypertension_linear_county_prev_v04
+  File "/users/3/kula0049/gep_health/scripts/gep_hypertension_linear_county_prev_v04.py", line 37, in <module>
+    cost_data = pd.read_excel(os.path.join(base_dir, 'Price_Prevalence', 'MEPS_HC_Hypertension_CrossSectional.xlsx', 'Table Data'))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/io/excel/_base.py", line 495, in read_excel
+    io = ExcelFile(
+         ^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/io/excel/_base.py", line 1550, in __init__
+    ext = inspect_excel_format(
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/io/excel/_base.py", line 1402, in inspect_excel_format
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/io/common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+NotADirectoryError: [Errno 20] Not a directory: '/users/3/kula0049/Files/base_data/Price_Prevalence/MEPS_HC_Hypertension_CrossSectional.xlsx/Table Data'

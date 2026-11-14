@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "rasterio/_base.pyx", line 310, in rasterio._base.DatasetBase.__init__
+  File "rasterio/_base.pyx", line 221, in rasterio._base.open_dataset
+  File "rasterio/_err.pyx", line 359, in rasterio._err.exc_wrap_pointer
+rasterio._err.CPLE_OpenFailedError: /users/3/kula0049/Files/base_data/snapp/public_lands_only_fixed_clipped_13317.tif: No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_county_prev_linear_v03.py", line 55, in <module>
+    snapp_public_ndvi_v01.reclassify_raster(county_geoid)
+  File "/users/3/kula0049/gep_health/scripts/snapp_public_ndvi_v01.py", line 88, in reclassify_raster
+    if not rasters_match(raster_path, clipped_public_path):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/gep_health/scripts/snapp_public_ndvi_v01.py", line 49, in rasters_match
+    with rasterio.open(r1) as src1, rasterio.open(r2) as src2:
+                                    ^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/rasterio/env.py", line 463, in wrapper
+    return f(*args, **kwds)
+           ^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/rasterio/__init__.py", line 356, in open
+    dataset = DatasetReader(path, driver=driver, sharing=sharing, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "rasterio/_base.pyx", line 312, in rasterio._base.DatasetBase.__init__
+rasterio.errors.RasterioIOError: /users/3/kula0049/Files/base_data/snapp/public_lands_only_fixed_clipped_13317.tif: No such file or directory
+Aligning rasters for 13085
+Aligning rasters for 13015

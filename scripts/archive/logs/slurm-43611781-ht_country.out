@@ -1,0 +1,16 @@
+running can 22_1501
+Saved results to /users/3/kula0049/gep_health/output/linear_11_17_25/22_1501_hypertension_results_2019_linear.csv
+running can 22_1502
+Saved results to /users/3/kula0049/gep_health/output/linear_11_17_25/22_1502_hypertension_results_2019_linear.csv
+running can 22_1503
+Saved results to /users/3/kula0049/gep_health/output/linear_11_17_25/22_1503_hypertension_results_2019_linear.csv
+running can 22_1504
+Saved results to /users/3/kula0049/gep_health/output/linear_11_17_25/22_1504_hypertension_results_2019_linear.csv
+slurmstepd: error: *** JOB 43611876 ON acn153 CANCELLED AT 2025-11-17T12:09:46 ***
+slurmstepd: error: *** JOB 43611877 ON acn153 CANCELLED AT 2025-11-17T12:09:46 ***
+slurmstepd: error: *** JOB 43611878 ON acn153 CANCELLED AT 2025-11-17T12:09:46 ***
+slurmstepd: error: *** JOB 43611871 ON acn153 CANCELLED AT 2025-11-17T12:09:48 ***
+slurmstepd: error: *** JOB 43611874 ON acn153 CANCELLED AT 2025-11-17T12:09:51 ***
+slurmstepd: error: *** JOB 43611872 ON acn153 CANCELLED AT 2025-11-17T12:09:51 ***
+slurmstepd: error: *** JOB 43611875 ON acn153 CANCELLED AT 2025-11-17T12:09:51 ***
+slurmstepd: error: *** JOB 43611873 ON acn153 CANCELLED AT 2025-11-17T12:09:51 ***

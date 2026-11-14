@@ -1,0 +1,80 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+3_70716,23_70717,23_70718,23_70719,23_70720,23_70721,23_70722,23_70723,23_70724,23_70725,23_70726,23_70727,23_70728,23_70729,23_70730,23_70731,23_70732,23_70733,23_70734,23_70735']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0
+['run_chunk_both.py', 'nga', '23_70536,23_70537,23_70538,23_70539,23_70540,23_70541,23_70542,23_70543,23_70544,23_70545,23_70546,23_70547,23_70548,23_70549,23_70550,23_70551,23_70552,23_70553,23_70554,23_70555,23_70556,23_70557,23_70558,23_70559,23_70560,23_70561,23_70562,23_70563,23_70564,23_70565,23_70566,23_70567,23_70568,23_70569,23_70570,23_70571,23_70572,23_70573,23_70574,23_70575,23_70576,23_70577,23_70578,23_70579,23_70580,23_70581,23_70582,23_70583,23_70584,23_70585']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0
+['run_chunk_both.py', 'nga', '23_70636,23_70637,23_70638,23_70639,23_70640,23_70641,23_70642,23_70643,23_70644,23_70645,23_70646,23_70647,23_70648,23_70649,23_70650,23_70651,23_70652,23_70653,23_70654,23_70655,23_70656,23_70657,23_70658,23_70659,23_70660,23_70661,23_70662,23_70663,23_70664,23_70665,23_70666,23_70667,23_70668,23_70669,23_70670,23_70671,23_70672,23_70673,23_70674,23_70675,23_70676,23_70677,23_70678,23_70679,23_70680,23_70681,23_70682,23_70683,23_70684,23_70685']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0
+['run_chunk_both.py', 'nga', '23_70586,23_70587,23_70588,23_70589,23_70590,23_70591,23_70592,23_70593,23_70594,23_70595,23_70596,23_70597,23_70598,23_70599,23_70600,23_70601,23_70602,23_70603,23_70604,23_70605,23_70606,23_70607,23_70608,23_70609,23_70610,23_70611,23_70612,23_70613,23_70614,23_70615,23_70616,23_70617,23_70618,23_70619,23_70620,23_70621,23_70622,23_70623,23_70624,23_70625,23_70626,23_70627,23_70628,23_70629,23_70630,23_70631,23_70632,23_70633,23_70634,23_70635']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+['run_chunk_both.py', 'nga', '22_11592,22_11593,22_11594,22_11595,22_11596,22_11597,22_11598,22_11599,22_11600,22_11601,22_11602,22_11603,22_11604,22_11605,22_11606,22_11607,22_11608,22_11609,22_11610,22_11611,22_11612,22_11613,22_11614,22_11615,22_11616,22_11617,22_11618,22_11619,22_11620,22_11621,22_11622,22_11623,22_11624,22_11625,22_11626,22_11627,22_11628,22_11629,22_11630,22_11631,22_11632,22_11633,22_11634,22_11635,22_11636,22_11637,22_11638,22_11639,22_11640,22_11641']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0
+['run_chunk_both.py', 'nga', '23_70837,23_70838,23_70839,23_70840,23_70841,23_70842,23_70843,23_70844,23_70845,23_70846,23_70847,23_70848,22_11554,22_11555,22_11556,22_11557,22_11558,22_11559,22_11560,22_11561,22_11562,22_11563,22_11564,22_11565,22_11566,22_11567,22_11568,22_11569,22_11570,22_11571,22_11572,22_11573,22_11574,22_11575,22_11576,22_11577,22_11578,22_11579,22_11580,22_11581,22_11582,22_11583,22_11584,22_11585,22_11586,22_11587,22_11588,22_11589,22_11590,22_11591']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0
+['run_chunk_both.py', 'nga', '23_70736,23_70737,23_70738,23_70739,23_70740,23_70741,23_70742,23_70743,23_70744,23_70745,23_70746,23_70747,23_70748,23_70749,23_70750,23_70751,23_70752,23_70753,23_70754,23_70755,23_70756,23_70757,23_70758,23_70759,23_70760,23_70761,23_70762,23_70763,23_70764,23_70765,23_70766,23_70767,23_70768,23_70769,23_70770,23_70771,23_70772,23_70773,23_70774,23_70775,23_70776,23_70777,23_70778,23_70779,23_70780,23_70781,23_70782,23_70783,23_70784,23_70785']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0
+['run_chunk_both.py', 'nga', '23_70786,23_70787,23_70789,23_70790,23_70791,23_70792,23_70793,23_70794,23_70795,23_70796,23_70797,23_70798,23_70799,23_70800,23_70801,23_70802,23_70803,23_70804,23_70805,23_70806,23_70807,23_70808,23_70809,23_70810,23_70811,23_70812,23_70813,23_70814,23_70815,23_70816,23_70817,23_70818,23_70819,23_70820,23_70821,23_70822,23_70823,23_70824,23_70825,23_70826,23_70827,23_70828,23_70829,23_70830,23_70831,23_70832,23_70833,23_70834,23_70835,23_70836']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0
+['run_chunk_both.py', 'nga', '22_11642,22_11643,22_11644,22_11645,22_11646,22_11647,22_11648,22_11649,22_11650,22_11651,22_11652,22_11653,22_11654,22_11655,22_11656,22_11657,22_11658,22_11659,22_11660,22_11661,22_11662,22_11663,22_11664,22_11665,22_11666,22_11667,22_11668,22_11669,22_11670,22_11671,22_11672,22_11673,22_11674,22_11675,22_11676,22_11677,22_11678,22_11679,22_11680,22_11681,22_11682,22_11683,22_11684']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0
+['run_chunk_both.py', 'nga', '23_70486,23_70487,23_70488,23_70489,23_70490,23_70491,23_70492,23_70493,23_70494,23_70495,23_70496,23_70497,23_70498,23_70499,23_70500,23_70501,23_70502,23_70503,23_70504,23_70505,23_70506,23_70507,23_70508,23_70509,23_70510,23_70511,23_70512,23_70513,23_70514,23_70515,23_70516,23_70517,23_70518,23_70519,23_70520,23_70521,23_70522,23_70523,23_70524,23_70525,23_70526,23_70527,23_70528,23_70529,23_70530,23_70531,23_70532,23_70533,23_70534,23_70535']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 17, in <module>
+    dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: index 0 is out of bounds for axis 0 with size 0

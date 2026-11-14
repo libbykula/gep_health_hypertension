@@ -1,0 +1,1802 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+menia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+['run_chunk_both.py', 'eth', '23_32985,23_32986,23_32987,23_32988,23_32989,23_32990,23_32991,23_32992,23_32993,23_32994,23_32995,23_32996,23_32997,23_32998,23_32999,23_33000,23_33001,23_33002,23_33003,23_33004,23_33005,23_33006,23_33007,23_33008,23_33009,23_33010,23_33011,23_33012,23_33013,23_33014,23_33015,23_33016,23_33017,23_33018,23_33019,23_33020,23_33021,23_33022,23_33023,23_33024,23_33025,23_33026,23_33027,23_33028,23_33029,23_33030,23_33031,23_33032,23_33033,23_33034']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+['run_chunk_both.py', 'eth', '23_32935,23_32936,23_32937,23_32938,23_32939,23_32940,23_32941,23_32942,23_32943,23_32944,23_32945,23_32946,23_32947,23_32948,23_32949,23_32950,23_32951,23_32952,23_32953,23_32954,23_32955,23_32956,23_32957,23_32958,23_32959,23_32960,23_32961,23_32962,23_32963,23_32964,23_32965,23_32966,23_32967,23_32968,23_32969,23_32970,23_32971,23_32972,23_32973,23_32974,23_32975,23_32976,23_32977,23_32978,23_32979,23_32980,23_32981,23_32982,23_32983,23_32984']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+['run_chunk_both.py', 'eth', '23_32885,23_32886,23_32887,23_32888,23_32889,23_32890,23_32891,23_32892,23_32893,23_32894,23_32895,23_32896,23_32897,23_32898,23_32899,23_32900,23_32901,23_32902,23_32903,23_32904,23_32905,23_32906,23_32907,23_32908,23_32909,23_32910,23_32911,23_32912,23_32913,23_32914,23_32915,23_32916,23_32917,23_32918,23_32919,23_32920,23_32921,23_32922,23_32923,23_32924,23_32925,23_32926,23_32927,23_32928,23_32929,23_32930,23_32931,23_32932,23_32933,23_32934']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+Traceback (most recent call last):
+['run_chunk_both.py', 'eth', '23_33035,23_33036,23_33037,23_33038,23_33039,23_33040,23_33041,23_33042,23_33043,23_33044,23_33045,23_33046,23_33047,23_33048,23_33049,23_33050,23_33051,23_33052,23_33053,23_33054,23_33055,23_33056,23_33057,23_33058,23_33059,23_33060,23_33061,23_33062,23_33063,23_33064,23_33065,23_33066,23_33067,23_33068,23_33069,23_33070,23_33071,23_33072,23_33073,23_33074,23_33075,23_33076,23_33077,23_33078,23_33079,23_33080,23_33081,23_33082,23_33083,23_33084']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+    return self.apply(
+    return self.apply(
+           ^^^^^^^^^^^
+    return self.apply(
+    return self.apply(
+           ^^^^^^^^^^^
+           ^^^^^^^^^^^
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+    applied = getattr(b, f)(**kwargs)
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    applied = getattr(b, f)(**kwargs)
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+['run_chunk_both.py', 'eth', '23_32685,23_32686,23_32687,23_32688,23_32689,23_32690,23_32691,23_32692,23_32693,23_32694,23_32695,23_32696,23_32697,23_32698,23_32699,23_32700,23_32701,23_32702,23_32703,23_32704,23_32705,23_32706,23_32707,23_32708,23_32709,23_32710,23_32711,23_32712,23_32713,23_32714,23_32715,23_32716,23_32717,23_32718,23_32719,23_32720,23_32721,23_32722,23_32723,23_32724,23_32725,23_32726,23_32727,23_32728,23_32729,23_32730,23_32731,23_32732,23_32733,23_32734']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+['run_chunk_both.py', 'eth', '23_32735,23_32736,23_32737,23_32738,23_32739,23_32740,23_32741,23_32742,23_32743,23_32744,23_32745,23_32746,23_32747,23_32748,23_32749,23_32750,23_32751,23_32752,23_32753,23_32754,23_32755,23_32756,23_32757,23_32758,23_32759,23_32760,23_32761,23_32762,23_32763,23_32764,23_32765,23_32766,23_32767,23_32768,23_32769,23_32770,23_32771,23_32772,23_32773,23_32774,23_32775,23_32776,23_32777,23_32778,23_32779,23_32780,23_32781,23_32782,23_32783,23_32784']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+    .astype(int)
+     ^^^^^^^^^^^
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+['run_chunk_both.py', 'eth', '23_33135,23_33136,23_33137,23_33138,23_33139,23_33140,23_33141,23_33142,23_33143,23_33144,23_33145,23_33146,23_33147,23_33148,23_33149,23_33150,23_33151']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+['run_chunk_both.py', 'eth', '23_32585,23_32586,23_32587,23_32588,23_32589,23_32590,23_32591,23_32592,23_32593,23_32594,23_32595,23_32596,23_32597,23_32598,23_32599,23_32600,23_32601,23_32602,23_32603,23_32604,23_32605,23_32606,23_32607,23_32608,23_32609,23_32610,23_32611,23_32612,23_32613,23_32614,23_32615,23_32616,23_32617,23_32618,23_32619,23_32620,23_32621,23_32622,23_32623,23_32624,23_32625,23_32626,23_32627,23_32628,23_32629,23_32630,23_32631,23_32632,23_32633,23_32634']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+['run_chunk_both.py', 'eth', '23_32635,23_32636,23_32637,23_32638,23_32639,23_32640,23_32641,23_32642,23_32643,23_32644,23_32645,23_32646,23_32647,23_32648,23_32649,23_32650,23_32651,23_32652,23_32653,23_32654,23_32655,23_32656,23_32657,23_32658,23_32659,23_32660,23_32661,23_32662,23_32663,23_32664,23_32665,23_32666,23_32667,23_32668,23_32669,23_32670,23_32671,23_32672,23_32673,23_32674,23_32675,23_32676,23_32677,23_32678,23_32679,23_32680,23_32681,23_32682,23_32683,23_32684']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+['run_chunk_both.py', 'eth', '23_33085,23_33086,23_33087,23_33088,23_33089,23_33090,23_33091,23_33092,23_33093,23_33094,23_33095,23_33096,23_33097,23_33098,23_33099,23_33100,23_33101,23_33102,23_33103,23_33104,23_33105,23_33106,23_33107,23_33108,23_33109,23_33110,23_33111,23_33112,23_33113,23_33114,23_33115,23_33116,23_33117,23_33118,23_33119,23_33120,23_33121,23_33122,23_33123,23_33124,23_33125,23_33126,23_33127,23_33128,23_33129,23_33130,23_33131,23_33132,23_33133,23_33134']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    .astype(int)
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    values = _astype_nansafe(values, dtype, copy=copy)
+    values = _astype_nansafe(values, dtype, copy=copy)
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    new_values = astype_array(values, dtype, copy=copy)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    return self.apply(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+           ^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+    values = _astype_nansafe(values, dtype, copy=copy)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+['run_chunk_both.py', 'eth', '23_32335,23_32336,23_32337,23_32338,23_32339,23_32340,23_32341,23_32342,23_32343,23_32344,23_32345,23_32346,23_32347,23_32348,23_32349,23_32350,23_32351,23_32352,23_32353,23_32354,23_32355,23_32356,23_32357,23_32358,23_32359,23_32360,23_32361,23_32362,23_32363,23_32364,23_32365,23_32366,23_32367,23_32368,23_32369,23_32370,23_32371,23_32372,23_32373,23_32374,23_32375,23_32376,23_32377,23_32378,23_32379,23_32380,23_32381,23_32382,23_32383,23_32384']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+['run_chunk_both.py', 'eth', '23_32385,23_32386,23_32387,23_32388,23_32389,23_32390,23_32391,23_32392,23_32393,23_32394,23_32395,23_32396,23_32397,23_32398,23_32399,23_32400,23_32401,23_32402,23_32403,23_32404,23_32405,23_32406,23_32407,23_32408,23_32409,23_32410,23_32411,23_32412,23_32413,23_32414,23_32415,23_32416,23_32417,23_32418,23_32419,23_32420,23_32421,23_32422,23_32423,23_32424,23_32425,23_32426,23_32427,23_32428,23_32429,23_32430,23_32431,23_32432,23_32433,23_32434']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    values = _astype_nansafe(values, dtype, copy=copy)
+    values = _astype_nansafe(values, dtype, copy=copy)
+Traceback (most recent call last):
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    values = _astype_nansafe(values, dtype, copy=copy)
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    return arr.astype(dtype, copy=True)
+    .astype(int)
+    return arr.astype(dtype, copy=True)
+    .astype(int)
+    applied = getattr(b, f)(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+ValueError: cannot convert float NaN to integer
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+              ^^^^^^^^^^^^^^^^^^^^^^^
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    return arr.astype(dtype, copy=True)
+    return arr.astype(dtype, copy=True)
+    values = _astype_nansafe(values, dtype, copy=copy)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+ValueError: cannot convert float NaN to integer
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return arr.astype(dtype, copy=True)
+    return arr.astype(dtype, copy=True)
+    return self.apply(
+           ^^^^^^^^^^^
+    new_values = astype_array(values, dtype, copy=copy)
+    return arr.astype(dtype, copy=True)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+ValueError: cannot convert float NaN to integer
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    return arr.astype(dtype, copy=True)
+    values = _astype_nansafe(values, dtype, copy=copy)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    return arr.astype(dtype, copy=True)
+    values = _astype_nansafe(values, dtype, copy=copy)
+    values = _astype_nansafe(values, dtype, copy=copy)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+['run_chunk_both.py', 'eth', '23_32235,23_32236,23_32237,23_32238,23_32239,23_32240,23_32241,23_32242,23_32243,23_32244,23_32245,23_32246,23_32247,23_32248,23_32249,23_32250,23_32251,23_32252,23_32253,23_32254,23_32255,23_32256,23_32257,23_32258,23_32259,23_32260,23_32261,23_32262,23_32263,23_32264,23_32265,23_32266,23_32267,23_32268,23_32269,23_32270,23_32271,23_32272,23_32273,23_32274,23_32275,23_32276,23_32277,23_32278,23_32279,23_32280,23_32281,23_32282,23_32283,23_32284']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+['run_chunk_both.py', 'eth', '23_32485,23_32486,23_32487,23_32488,23_32489,23_32490,23_32491,23_32492,23_32493,23_32494,23_32495,23_32496,23_32497,23_32498,23_32499,23_32500,23_32501,23_32502,23_32503,23_32504,23_32505,23_32506,23_32507,23_32508,23_32509,23_32510,23_32511,23_32512,23_32513,23_32514,23_32515,23_32516,23_32517,23_32518,23_32519,23_32520,23_32521,23_32522,23_32523,23_32524,23_32525,23_32526,23_32527,23_32528,23_32529,23_32530,23_32531,23_32532,23_32533,23_32534']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+['run_chunk_both.py', 'eth', '23_32435,23_32436,23_32437,23_32438,23_32439,23_32440,23_32441,23_32442,23_32443,23_32444,23_32445,23_32446,23_32447,23_32448,23_32449,23_32450,23_32451,23_32452,23_32453,23_32454,23_32455,23_32456,23_32457,23_32458,23_32459,23_32460,23_32461,23_32462,23_32463,23_32464,23_32465,23_32466,23_32467,23_32468,23_32469,23_32470,23_32471,23_32472,23_32473,23_32474,23_32475,23_32476,23_32477,23_32478,23_32479,23_32480,23_32481,23_32482,23_32483,23_32484']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    .astype(int)
+ValueError: cannot convert float NaN to integer
+    .astype(int)
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    return arr.astype(dtype, copy=True)
+    values = _astype_nansafe(values, dtype, copy=copy)
+    values = _astype_nansafe(values, dtype, copy=copy)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+['run_chunk_both.py', 'eth', '23_32535,23_32536,23_32537,23_32538,23_32539,23_32540,23_32541,23_32542,23_32543,23_32544,23_32545,23_32546,23_32547,23_32548,23_32549,23_32550,23_32551,23_32552,23_32553,23_32554,23_32555,23_32556,23_32557,23_32558,23_32559,23_32560,23_32561,23_32562,23_32563,23_32564,23_32565,23_32566,23_32567,23_32568,23_32569,23_32570,23_32571,23_32572,23_32573,23_32574,23_32575,23_32576,23_32577,23_32578,23_32579,23_32580,23_32581,23_32582,23_32583,23_32584']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+['run_chunk_both.py', 'eth', '23_32285,23_32286,23_32287,23_32288,23_32289,23_32290,23_32291,23_32292,23_32293,23_32294,23_32295,23_32296,23_32297,23_32298,23_32299,23_32300,23_32301,23_32302,23_32303,23_32304,23_32305,23_32306,23_32307,23_32308,23_32309,23_32310,23_32311,23_32312,23_32313,23_32314,23_32315,23_32316,23_32317,23_32318,23_32319,23_32320,23_32321,23_32322,23_32323,23_32324,23_32325,23_32326,23_32327,23_32328,23_32329,23_32330,23_32331,23_32332,23_32333,23_32334']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+    return arr.astype(dtype, copy=True)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+    applied = getattr(b, f)(**kwargs)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+    values = _astype_nansafe(values, dtype, copy=copy)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+['run_chunk_both.py', 'eth', '23_32835,23_32836,23_32837,23_32838,23_32839,23_32840,23_32841,23_32842,23_32843,23_32844,23_32845,23_32846,23_32847,23_32848,23_32849,23_32850,23_32851,23_32852,23_32853,23_32854,23_32855,23_32856,23_32857,23_32858,23_32859,23_32860,23_32861,23_32862,23_32863,23_32864,23_32865,23_32866,23_32867,23_32868,23_32869,23_32870,23_32871,23_32872,23_32873,23_32874,23_32875,23_32876,23_32877,23_32878,23_32879,23_32880,23_32881,23_32882,23_32883,23_32884']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+ritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+    return self.apply(
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+ValueError: cannot convert float NaN to integer
+['run_chunk_both.py', 'eth', '30_4517,30_4518,30_4519,30_4520,30_4521,30_4522,30_4523,23_31742,23_31743,23_31744,23_31745,23_31746,23_31747,23_31748,23_31749,23_31750,23_31751,23_31752,23_31753,23_31754,23_31755,23_31756,23_31757,23_31758,23_31759,23_31760,23_31761,23_31762,23_31763,23_31764,23_31765,23_31766,23_31767,23_31768,23_31769,23_31770,23_31771,23_31772,23_31773,23_31774,23_31775,23_31776,23_31777,23_31778,23_31779,23_31780,23_31781,23_31782,23_31783,23_31784']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+,30_4501,30_4502,30_4503,30_4504,30_4505,30_4506,30_4507,30_4508,30_4509,30_4510,30_4511,30_4512,30_4513,30_4514,30_4515,30_4516']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+['run_chunk_both.py', 'eth', '23_31885,23_31886,23_31887,23_31888,23_31889,23_31890,23_31891,23_31892,23_31893,23_31894,23_31895,23_31896,23_31897,23_31898,23_31899,23_31900,23_31901,23_31902,23_31903,23_31904,23_31905,23_31906,23_31907,23_31908,23_31909,23_31910,23_31911,23_31912,23_31913,23_31914,23_31915,23_31916,23_31917,23_31918,23_31919,23_31920,23_31921,23_31922,23_31923,23_31924,23_31925,23_31926,23_31927,23_31928,23_31929,23_31930,23_31931,23_31932,23_31933,23_31934']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+['run_chunk_both.py', 'eth', '23_32185,23_32186,23_32187,23_32188,23_32189,23_32190,23_32191,23_32192,23_32193,23_32194,23_32195,23_32196,23_32197,23_32198,23_32199,23_32200,23_32201,23_32202,23_32203,23_32204,23_32205,23_32206,23_32207,23_32208,23_32209,23_32210,23_32211,23_32212,23_32213,23_32214,23_32215,23_32216,23_32217,23_32218,23_32219,23_32220,23_32221,23_32222,23_32223,23_32224,23_32225,23_32226,23_32227,23_32228,23_32229,23_32230,23_32231,23_32232,23_32233,23_32234']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+['run_chunk_both.py', 'eth', '30_4267,30_4268,30_4269,30_4270,30_4271,30_4272,30_4273,30_4274,30_4275,30_4276,30_4277,30_4278,30_4279,30_4280,30_4281,30_4282,30_4283,30_4284,30_4285,30_4286,30_4287,30_4288,30_4289,30_4290,30_4291,30_4292,30_4293,30_4294,30_4295,30_4296,30_4297,30_4298,30_4299,30_4300,30_4301,30_4302,30_4303,30_4304,30_4305,30_4306,30_4307,30_4308,30_4309,30_4310,30_4311,30_4312,30_4313,30_4314,30_4315,30_4316']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+['run_chunk_both.py', 'eth', '30_4117,30_4118,30_4119,30_4120,30_4121,30_4122,30_4123,30_4124,30_4125,30_4126,30_4127,30_4128,30_4129,30_4130,30_4131,30_4132,30_4133,30_4134,30_4135,30_4136,30_4137,30_4138,30_4139,30_4140,30_4141,30_4142,30_4143,30_4144,30_4145,30_4146,30_4147,30_4148,30_4149,30_4150,30_4151,30_4152,30_4153,30_4154,30_4155,30_4156,30_4157,30_4158,30_4159,30_4160,30_4161,30_4162,30_4163,30_4164,30_4165,30_4166']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values ['run_chunk_both.py', 'eth', '30_4417,30_4418,30_4419,30_4420,30_4421,30_4422,30_4423,30_4424,30_4425,30_4426,30_4427,30_4428,30_4429,30_4430,30_4431,30_4432,30_4433,30_4434,30_4435,30_4436,30_4437,30_4438,30_4439,30_4440,30_4441,30_4442,30_4443,30_4444,30_4445,30_4446,30_4447,30_4448,30_4449,30_4450,30_4451,30_4452,30_4453,30_4454,30_4455,30_4456,30_4457,30_4458,30_4459,30_4460,30_4461,30_4462,30_4463,30_4464,30_4465,30_4466']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+['run_chunk_both.py', 'eth', '30_4367,30_4368,30_4369,30_4370,30_4371,30_4372,30_4373,30_4374,30_4375,30_4376,30_4377,30_4378,30_4379,30_4380,30_4381,30_4382,30_4383,30_4384,30_4385,30_4386,30_4387,30_4388,30_4389,30_4390,30_4391,30_4392,30_4393,30_4394,30_4395,30_4396,30_4397,30_4398,30_4399,30_4400,30_4401,30_4402,30_4403,30_4404,30_4405,30_4406,30_4407,30_4408,30_4409,30_4410,30_4411,30_4412,30_4413,30_4414,30_4415,30_4416']
+['Afghanistan' 'Albania' 'Algeria' 'American Samoa' 'Andorra' 'Angola'
+ 'Anguilla' 'Antigua and Barbuda' 'Argentina' 'Armenia' 'Aruba'
+ 'Australia' 'Austria' 'Azerbaijan' 'Bahrain' 'Bangladesh' 'Barbados'
+ 'Belarus' 'Belgium' 'Belize' 'Benin' 'Bermuda' 'Bhutan' 'Bolivia'
+ 'Bosnia and Herzegovina' 'Botswana' 'Brazil' 'Brunei' 'Bulgaria'
+ 'Burkina Faso' 'Burundi' 'Cabo Verde' 'Cambodia' 'Cameroon' 'Canada'
+ 'Cayman Islands' 'Central African Republic' 'Chad' 'Chile' 'China'
+ 'Colombia' 'Comoros' 'Democratic Republic of the Congo' 'Cook Islands'
+ 'Costa Rica' 'Croatia' 'Cuba' 'Curaçao' 'Cyprus' 'Czechia' 'Denmark'
+ 'Djibouti' 'Dominica' 'Dominican Republic' 'Ecuador' 'Egypt'
+ 'El Salvador' 'Equatorial Guinea' 'Eritrea' 'Estonia' 'Ethiopia'
+ 'Faroe Islands' 'Fiji' 'Finland' 'France' 'French Polynesia' 'Gabon'
+ 'Georgia' 'Germany' 'Ghana' 'Gibraltar' 'Greece' 'Greenland' 'Grenada'
+ 'Guam' 'Guatemala' 'Guernsey' 'Guinea' 'Guinea-Bissau' 'Guyana' 'Haiti'
+ 'Honduras' 'Hungary' 'Iceland' 'India' 'Indonesia' 'Iran' 'Iraq'
+ 'Ireland' 'Isle of Man' 'Israel' 'Italy' 'Jamaica' 'Japan' 'Jersey'
+ 'Jordan' 'Kazakhstan' 'Kenya' 'Kiribati' 'Kuwait' 'Kyrgyzstan' 'Laos'
+ 'Latvia' 'Lebanon' 'Lesotho' 'Liberia' 'Libya' 'Liechtenstein'
+ 'Lithuania' 'Luxembourg' 'Madagascar' 'Malawi' 'Malaysia' 'Maldives'
+ 'Mali' 'Malta' 'Marshall Islands' 'Mauritania' 'Mauritius' 'Mexico'
+ 'Moldova' 'Monaco' 'Mongolia' 'Montenegro' 'Montserrat' 'Morocco'
+ 'Mozambique' 'Namibia' 'Nauru' 'Nepal' 'Netherlands' 'New Caledonia'
+ 'New Zealand' 'Nicaragua' 'Niger' 'Nigeria' 'North Macedonia'
+ 'Northern Mariana Islands' 'Norway' 'Oman' 'Pakistan' 'Palau' 'Panama'
+ 'Papua New Guinea' 'Paraguay' 'Peru' 'Philippines' 'Poland' 'Portugal'
+ 'Puerto Rico' 'Qatar' 'Romania' 'Russia' 'Rwanda' 'Saint Kitts and Nevis'
+ 'Saint Lucia' 'Saint Pierre and Miquelon'
+ 'Saint Vincent and the Grenadines' 'Samoa' 'San Marino' 'Saudi Arabia'
+ 'Senegal' 'Serbia' 'Seychelles' 'Sierra Leone' 'Singapore' 'Sint Maarten'
+ 'Slovakia' 'Slovenia' 'Solomon Islands' 'Somalia' 'South Africa'
+ 'South Sudan' 'Spain' 'Sri Lanka' 'Sudan' 'Suriname' 'Sweden'
+ 'Switzerland' 'Syria' 'Tajikistan' 'Tanzania' 'Thailand' 'Timor-Leste'
+ 'Togo' 'Tonga' 'Trinidad and Tobago' 'Tunisia' 'Turkey' 'Turkmenistan'
+ 'Turks and Caicos Islands' 'Tuvalu' 'Uganda' 'Ukraine'
+ 'United Arab Emirates' 'United Kingdom' 'United States' 'Uruguay'
+ 'Uzbekistan' 'Vanuatu' 'Venezuela' 'Vietnam' 'Virgin Islands, U.S.'
+ 'Wallis and Futuna' 'Yemen' 'Zambia' 'Zimbabwe' 'Taiwan']
+Traceback (most recent call last):
+  File "/users/3/kula0049/gep_health/scripts/run_chunk_both.py", line 46, in <module>
+    .astype(int)
+     ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/generic.py", line 6662, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 430, in astype
+    return self.apply(
+           ^^^^^^^^^^^
+    return self.apply(
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+           ^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    applied = getattr(b, f)(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/internals/blocks.py", line 784, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 237, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+    new_values = astype_array(values, dtype, copy=copy)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 182, in astype_array
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    values = _astype_nansafe(values, dtype, copy=copy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pandas/core/dtypes/astype.py", line 133, in _astype_nansafe
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer
+    return arr.astype(dtype, copy=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: cannot convert float NaN to integer

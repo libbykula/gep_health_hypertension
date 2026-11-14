@@ -1,0 +1,102 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+running can 30_1105
+FAILED can 30_1105 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1106
+FAILED can 30_1106 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1107
+FAILED can 30_1107 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1108
+FAILED can 30_1108 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1109
+FAILED can 30_1109 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1110
+FAILED can 30_1110 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1111
+FAILED can 30_1111 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1112
+FAILED can 30_1112 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1113
+FAILED can 30_1113 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1114
+FAILED can 30_1114 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1115
+FAILED can 30_1115 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1116
+FAILED can 30_1116 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1117
+FAILED can 30_1117 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1118
+FAILED can 30_1118 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1119
+FAILED can 30_1119 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1120
+FAILED can 30_1120 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1121
+FAILED can 30_1121 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1122
+FAILED can 30_1122 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1123
+FAILED can 30_1123 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1124
+FAILED can 30_1124 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1125
+FAILED can 30_1125 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1126
+FAILED can 30_1126 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1127
+FAILED can 30_1127 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1128
+FAILED can 30_1128 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1129
+FAILED can 30_1129 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1130
+FAILED can 30_1130 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1131
+FAILED can 30_1131 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1132
+FAILED can 30_1132 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1133
+FAILED can 30_1133 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1134
+FAILED can 30_1134 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1135
+FAILED can 30_1135 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1136
+FAILED can 30_1136 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1137
+FAILED can 30_1137 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1138
+FAILED can 30_1138 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1139
+FAILED can 30_1139 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1140
+FAILED can 30_1140 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1141
+FAILED can 30_1141 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1142
+FAILED can 30_1142 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1143
+FAILED can 30_1143 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1144
+FAILED can 30_1144 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1145
+FAILED can 30_1145 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1146
+FAILED can 30_1146 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1147
+FAILED can 30_1147 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1148
+FAILED can 30_1148 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1149
+FAILED can 30_1149 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1150
+FAILED can 30_1150 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1151
+FAILED can 30_1151 'NoneType' object has no attribute 'GetGeoTransform'
+running can 30_1152
+FAILED can 30_1152 'NoneType' object has no attribute 'GetGeoTransform'
+running can 23_7938
+FAILED can 23_7938 'NoneType' object has no attribute 'GetGeoTransform'
+running can 23_7939
+FAILED can 23_7939 'NoneType' object has no attribute 'GetGeoTransform'

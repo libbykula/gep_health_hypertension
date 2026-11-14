@@ -1,0 +1,2722 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+ch file or directory
+running chn 22_3214
+FAILED chn 22_3214 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3214.tif: No such file or directory
+running chn 22_3215
+FAILED chn 22_3215 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3215.tif: No such file or directory
+running chn 22_3216
+FAILED chn 22_3216 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3216.tif: No such file or directory
+running chn 22_3217
+FAILED chn 22_3217 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3217.tif: No such file or directory
+running chn 22_3218
+FAILED chn 22_3218 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3218.tif: No such file or directory
+running chn 22_3219
+FAILED chn 22_3219 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3219.tif: No such file or directory
+running chn 22_3220
+FAILED chn 22_3220 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3220.tif: No such file or directory
+running chn 22_3221
+FAILED chn 22_3221 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3221.tif: No such file or directory
+running chn 22_3222
+FAILED chn 22_3222 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3222.tif: No such file or directory
+running chn 22_3223
+FAILED chn 22_3223 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3223.tif: No such file or directory
+running chn 22_3224
+FAILED chn 22_3224 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3224.tif: No such file or directory
+running chn 22_3225
+FAILED chn 22_3225 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3225.tif: No such file or directory
+running chn 22_3226
+FAILED chn 22_3226 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3226.tif: No such file or directory
+running chn 22_3227
+FAILED chn 22_3227 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3227.tif: No such file or directory
+running chn 22_3228
+FAILED chn 22_3228 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3228.tif: No such file or directory
+running chn 22_3229
+FAILED chn 22_3229 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3229.tif: No such file or directory
+running chn 22_3230
+FAILED chn 22_3230 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3230.tif: No such file or directory
+running chn 22_3231
+FAILED chn 22_3231 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3231.tif: No such file or directory
+running chn 22_3232
+FAILED chn 22_3232 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3232.tif: No such file or directory
+running chn 22_3233
+FAILED chn 22_3233 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3233.tif: No such file or directory
+running chn 22_3234
+FAILED chn 22_3234 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3234.tif: No such file or directory
+running chn 22_3235
+FAILED chn 22_3235 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3235.tif: No such file or directory
+running chn 22_3236
+FAILED chn 22_3236 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3236.tif: No such file or directory
+running chn 22_3237
+FAILED chn 22_3237 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3237.tif: No such file or directory
+running chn 22_3238
+FAILED chn 22_3238 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3238.tif: No such file or directory
+running chn 22_3239
+FAILED chn 22_3239 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3239.tif: No such file or directory
+running chn 22_3240
+FAILED chn 22_3240 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3240.tif: No such file or directory
+running chn 22_3241
+FAILED chn 22_3241 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3241.tif: No such file or directory
+running chn 22_3242
+FAILED chn 22_3242 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3242.tif: No such file or directory
+running chn 22_3243
+FAILED chn 22_3243 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3243.tif: No such file or directory
+running chn 22_3244
+FAILED chn 22_3244 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3244.tif: No such file or directory
+running chn 22_3245
+FAILED chn 22_3245 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3245.tif: No such file or directory
+running chn 22_3246
+FAILED chn 22_3246 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3246.tif: No such file or directory
+running chn 22_3247
+FAILED chn 22_3247 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3247.tif: No such file or directory
+running chn 22_3248
+FAILED chn 22_3248 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3248.tif: No such file or directory
+running chn 22_3249
+FAILED chn 22_3249 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3249.tif: No such file or directory
+running chn 22_3250
+FAILED chn 22_3250 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3250.tif: No such file or directory
+running chn 22_3251
+FAILED chn 22_3251 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3251.tif: No such file or directory
+running chn 22_3252
+FAILED chn 22_3252 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3252.tif: No such file or directory
+running chn 22_3253
+FAILED chn 22_3253 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3253.tif: No such file or directory
+running chn 22_3254
+FAILED chn 22_3254 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3254.tif: No such file or directory
+running chn 22_3255
+FAILED chn 22_3255 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3255.tif: No such file or directory
+running chn 22_3256
+FAILED chn 22_3256 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3256.tif: No such file or directory
+running chn 22_3607
+FAILED chn 22_3607 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3607.tif: No such file or directory
+running chn 22_3608
+FAILED chn 22_3608 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3608.tif: No such file or directory
+running chn 22_3609
+FAILED chn 22_3609 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3609.tif: No such file or directory
+running chn 22_3610
+FAILED chn 22_3610 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3610.tif: No such file or directory
+running chn 22_3611
+FAILED chn 22_3611 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3611.tif: No such file or directory
+running chn 22_3612
+FAILED chn 22_3612 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3612.tif: No such file or directory
+running chn 22_3613
+FAILED chn 22_3613 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3613.tif: No such file or directory
+running chn 22_3614
+FAILED chn 22_3614 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3614.tif: No such file or directory
+running chn 22_3615
+FAILED chn 22_3615 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3615.tif: No such file or directory
+running chn 22_3616
+FAILED chn 22_3616 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3616.tif: No such file or directory
+running chn 22_3617
+FAILED chn 22_3617 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3617.tif: No such file or directory
+running chn 22_3618
+FAILED chn 22_3618 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3618.tif: No such file or directory
+running chn 22_3619
+FAILED chn 22_3619 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3619.tif: No such file or directory
+running chn 22_3620
+FAILED chn 22_3620 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3620.tif: No such file or directory
+running chn 22_3621
+FAILED chn 22_3621 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3621.tif: No such file or directory
+running chn 22_3622
+FAILED chn 22_3622 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3622.tif: No such file or directory
+running chn 22_3623
+FAILED chn 22_3623 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3623.tif: No such file or directory
+running chn 22_3624
+FAILED chn 22_3624 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3624.tif: No such file or directory
+running chn 22_3625
+FAILED chn 22_3625 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3625.tif: No such file or directory
+running chn 22_3626
+FAILED chn 22_3626 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3626.tif: No such file or directory
+running chn 22_3627
+FAILED chn 22_3627 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3627.tif: No such file or directory
+running chn 22_3628
+FAILED chn 22_3628 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3628.tif: No such file or directory
+running chn 22_3629
+FAILED chn 22_3629 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3629.tif: No such file or directory
+running chn 22_3630
+FAILED chn 22_3630 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3630.tif: No such file or directory
+running chn 22_3631
+FAILED chn 22_3631 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3631.tif: No such file or directory
+running chn 22_3632
+FAILED chn 22_3632 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3632.tif: No such file or directory
+running chn 22_3633
+FAILED chn 22_3633 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3633.tif: No such file or directory
+running chn 22_3634
+FAILED chn 22_3634 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3634.tif: No such file or directory
+running chn 22_3635
+FAILED chn 22_3635 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3635.tif: No such file or directory
+running chn 22_3636
+FAILED chn 22_3636 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3636.tif: No such file or directory
+running chn 22_3637
+FAILED chn 22_3637 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3637.tif: No such file or directory
+running chn 22_3638
+FAILED chn 22_3638 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3638.tif: No such file or directory
+running chn 22_3639
+FAILED chn 22_3639 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3639.tif: No such file or directory
+running chn 22_3640
+FAILED chn 22_3640 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3640.tif: No such file or directory
+running chn 22_3641
+FAILED chn 22_3641 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3641.tif: No such file or directory
+running chn 22_3642
+FAILED chn 22_3642 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3642.tif: No such file or directory
+running chn 22_3643
+FAILED chn 22_3643 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3643.tif: No such file or directory
+running chn 22_3644
+FAILED chn 22_3644 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3644.tif: No such file or directory
+running chn 22_3645
+FAILED chn 22_3645 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3645.tif: No such file or directory
+running chn 22_3646
+FAILED chn 22_3646 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3646.tif: No such file or directory
+running chn 22_3647
+FAILED chn 22_3647 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3647.tif: No such file or directory
+running chn 22_3648
+FAILED chn 22_3648 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3648.tif: No such file or directory
+running chn 22_3649
+FAILED chn 22_3649 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3649.tif: No such file or directory
+running chn 22_3650
+FAILED chn 22_3650 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3650.tif: No such file or directory
+running chn 22_3651
+FAILED chn 22_3651 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3651.tif: No such file or directory
+running chn 22_3652
+FAILED chn 22_3652 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3652.tif: No such file or directory
+running chn 22_3653
+FAILED chn 22_3653 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3653.tif: No such file or directory
+running chn 22_3654
+FAILED chn 22_3654 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3654.tif: No such file or directory
+running chn 22_3655
+FAILED chn 22_3655 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3655.tif: No such file or directory
+running chn 22_3656
+FAILED chn 22_3656 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3656.tif: No such file or directory
+running chn 22_3457
+FAILED chn 22_3457 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3457.tif: No such file or directory
+running chn 22_3458
+FAILED chn 22_3458 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3458.tif: No such file or directory
+running chn 22_3459
+FAILED chn 22_3459 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3459.tif: No such file or directory
+running chn 22_3460
+FAILED chn 22_3460 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3460.tif: No such file or directory
+running chn 22_3461
+FAILED chn 22_3461 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3461.tif: No such file or directory
+running chn 22_3462
+FAILED chn 22_3462 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3462.tif: No such file or directory
+running chn 22_3463
+FAILED chn 22_3463 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3463.tif: No such file or directory
+running chn 22_3464
+FAILED chn 22_3464 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3464.tif: No such file or directory
+running chn 22_3465
+FAILED chn 22_3465 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3465.tif: No such file or directory
+running chn 22_3466
+FAILED chn 22_3466 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3466.tif: No such file or directory
+running chn 22_3467
+FAILED chn 22_3467 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3467.tif: No such file or directory
+running chn 22_3468
+FAILED chn 22_3468 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3468.tif: No such file or directory
+running chn 22_3469
+FAILED chn 22_3469 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3469.tif: No such file or directory
+running chn 22_3470
+FAILED chn 22_3470 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3470.tif: No such file or directory
+running chn 22_3471
+FAILED chn 22_3471 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3471.tif: No such file or directory
+running chn 22_3472
+FAILED chn 22_3472 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3472.tif: No such file or directory
+running chn 22_3473
+FAILED chn 22_3473 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3473.tif: No such file or directory
+running chn 22_3474
+FAILED chn 22_3474 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3474.tif: No such file or directory
+running chn 22_3475
+FAILED chn 22_3475 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3475.tif: No such file or directory
+running chn 22_3476
+FAILED chn 22_3476 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3476.tif: No such file or directory
+running chn 22_3477
+FAILED chn 22_3477 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3477.tif: No such file or directory
+running chn 22_3478
+FAILED chn 22_3478 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3478.tif: No such file or directory
+running chn 22_3479
+FAILED chn 22_3479 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3479.tif: No such file or directory
+running chn 22_3480
+FAILED chn 22_3480 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3480.tif: No such file or directory
+running chn 22_3481
+FAILED chn 22_3481 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3481.tif: No such file or directory
+running chn 22_3482
+FAILED chn 22_3482 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3482.tif: No such file or directory
+running chn 22_3483
+FAILED chn 22_3483 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3483.tif: No such file or directory
+running chn 22_3484
+FAILED chn 22_3484 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3484.tif: No such file or directory
+running chn 22_3485
+FAILED chn 22_3485 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3485.tif: No such file or directory
+running chn 22_3486
+FAILED chn 22_3486 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3486.tif: No such file or directory
+running chn 22_3487
+FAILED chn 22_3487 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3487.tif: No such file or directory
+running chn 22_3488
+FAILED chn 22_3488 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3488.tif: No such file or directory
+running chn 22_3489
+FAILED chn 22_3489 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3489.tif: No such file or directory
+running chn 22_3490
+FAILED chn 22_3490 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3490.tif: No such file or directory
+running chn 22_3491
+FAILED chn 22_3491 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3491.tif: No such file or directory
+running chn 22_3492
+FAILED chn 22_3492 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3492.tif: No such file or directory
+running chn 22_3493
+FAILED chn 22_3493 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3493.tif: No such file or directory
+running chn 22_3494
+FAILED chn 22_3494 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3494.tif: No such file or directory
+running chn 22_3495
+FAILED chn 22_3495 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3495.tif: No such file or directory
+running chn 22_3496
+FAILED chn 22_3496 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3496.tif: No such file or directory
+running chn 22_3497
+FAILED chn 22_3497 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3497.tif: No such file or directory
+running chn 22_3498
+FAILED chn 22_3498 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3498.tif: No such file or directory
+running chn 22_3499
+FAILED chn 22_3499 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3499.tif: No such file or directory
+running chn 22_3500
+FAILED chn 22_3500 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3500.tif: No such file or directory
+running chn 22_3501
+FAILED chn 22_3501 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3501.tif: No such file or directory
+running chn 22_3502
+FAILED chn 22_3502 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3502.tif: No such file or directory
+running chn 22_3503
+FAILED chn 22_3503 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3503.tif: No such file or directory
+running chn 22_3504
+FAILED chn 22_3504 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3504.tif: No such file or directory
+running chn 22_3505
+FAILED chn 22_3505 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3505.tif: No such file or directory
+running chn 22_3506
+FAILED chn 22_3506 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3506.tif: No such file or directory
+ean_ndvi_500m_22_5195.tif: No such file or directory
+running chn 22_5196
+FAILED chn 22_5196 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5196.tif: No such file or directory
+running chn 22_5197
+FAILED chn 22_5197 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5197.tif: No such file or directory
+running chn 22_5198
+FAILED chn 22_5198 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5198.tif: No such file or directory
+running chn 22_5199
+FAILED chn 22_5199 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5199.tif: No such file or directory
+running chn 22_5200
+FAILED chn 22_5200 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5200.tif: No such file or directory
+running chn 22_5201
+FAILED chn 22_5201 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5201.tif: No such file or directory
+running chn 22_5202
+FAILED chn 22_5202 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5202.tif: No such file or directory
+running chn 22_5203
+FAILED chn 22_5203 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5203.tif: No such file or directory
+running chn 22_5204
+FAILED chn 22_5204 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5204.tif: No such file or directory
+running chn 22_5205
+FAILED chn 22_5205 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5205.tif: No such file or directory
+running chn 22_5206
+FAILED chn 22_5206 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5206.tif: No such file or directory
+running chn 22_5207
+FAILED chn 22_5207 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5207.tif: No such file or directory
+running chn 22_5208
+FAILED chn 22_5208 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5208.tif: No such file or directory
+running chn 22_5209
+FAILED chn 22_5209 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5209.tif: No such file or directory
+running chn 22_5210
+FAILED chn 22_5210 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5210.tif: No such file or directory
+running chn 22_5211
+FAILED chn 22_5211 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5211.tif: No such file or directory
+running chn 22_5212
+FAILED chn 22_5212 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5212.tif: No such file or directory
+running chn 22_5213
+FAILED chn 22_5213 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5213.tif: No such file or directory
+running chn 22_5214
+FAILED chn 22_5214 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5214.tif: No such file or directory
+running chn 22_5215
+FAILED chn 22_5215 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5215.tif: No such file or directory
+running chn 22_5216
+FAILED chn 22_5216 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5216.tif: No such file or directory
+running chn 22_5217
+FAILED chn 22_5217 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5217.tif: No such file or directory
+running chn 22_5218
+FAILED chn 22_5218 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5218.tif: No such file or directory
+running chn 22_5219
+FAILED chn 22_5219 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5219.tif: No such file or directory
+running chn 22_5220
+FAILED chn 22_5220 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5220.tif: No such file or directory
+running chn 22_5221
+FAILED chn 22_5221 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5221.tif: No such file or directory
+running chn 22_5222
+FAILED chn 22_5222 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5222.tif: No such file or directory
+running chn 22_5223
+FAILED chn 22_5223 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5223.tif: No such file or directory
+running chn 22_5224
+FAILED chn 22_5224 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5224.tif: No such file or directory
+running chn 22_5225
+FAILED chn 22_5225 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5225.tif: No such file or directory
+running chn 22_5226
+FAILED chn 22_5226 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5226.tif: No such file or directory
+running chn 22_5227
+FAILED chn 22_5227 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5227.tif: No such file or directory
+running chn 22_5228
+FAILED chn 22_5228 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5228.tif: No such file or directory
+running chn 22_5229
+FAILED chn 22_5229 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5229.tif: No such file or directory
+running chn 22_5230
+FAILED chn 22_5230 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5230.tif: No such file or directory
+running chn 22_5231
+FAILED chn 22_5231 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5231.tif: No such file or directory
+running chn 22_5232
+FAILED chn 22_5232 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5232.tif: No such file or directory
+running chn 22_5233
+FAILED chn 22_5233 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5233.tif: No such file or directory
+running chn 22_5234
+FAILED chn 22_5234 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5234.tif: No such file or directory
+running chn 22_5235
+FAILED chn 22_5235 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5235.tif: No such file or directory
+running chn 22_5236
+FAILED chn 22_5236 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5236.tif: No such file or directory
+running chn 22_5237
+FAILED chn 22_5237 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5237.tif: No such file or directory
+running chn 22_5238
+FAILED chn 22_5238 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5238.tif: No such file or directory
+running chn 22_5239
+FAILED chn 22_5239 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5239.tif: No such file or directory
+running chn 22_5240
+FAILED chn 22_5240 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5240.tif: No such file or directory
+running chn 22_5241
+FAILED chn 22_5241 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5241.tif: No such file or directory
+running chn 22_5242
+FAILED chn 22_5242 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5242.tif: No such file or directory
+running chn 22_5243
+FAILED chn 22_5243 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5243.tif: No such file or directory
+running chn 22_5244
+FAILED chn 22_5244 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5244.tif: No such file or directory
+running chn 22_5245
+FAILED chn 22_5245 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5245.tif: No such file or directory
+running chn 22_5246
+FAILED chn 22_5246 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5246.tif: No such file or directory
+running chn 22_5247
+FAILED chn 22_5247 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5247.tif: No such file or directory
+running chn 22_5248
+FAILED chn 22_5248 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5248.tif: No such file or directory
+running chn 22_5249
+FAILED chn 22_5249 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5249.tif: No such file or directory
+running chn 22_5250
+FAILED chn 22_5250 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5250.tif: No such file or directory
+running chn 22_5251
+FAILED chn 22_5251 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5251.tif: No such file or directory
+running chn 22_5252
+FAILED chn 22_5252 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5252.tif: No such file or directory
+running chn 22_5253
+FAILED chn 22_5253 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5253.tif: No such file or directory
+running chn 22_5254
+FAILED chn 22_5254 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5254.tif: No such file or directory
+running chn 22_5255
+FAILED chn 22_5255 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5255.tif: No such file or directory
+running chn 22_5256
+FAILED chn 22_5256 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5256.tif: No such file or directory
+running chn 22_3957
+FAILED chn 22_3957 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3957.tif: No such file or directory
+running chn 22_3958
+FAILED chn 22_3958 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3958.tif: No such file or directory
+running chn 22_3959
+FAILED chn 22_3959 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3959.tif: No such file or directory
+running chn 22_3960
+FAILED chn 22_3960 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3960.tif: No such file or directory
+running chn 22_3961
+FAILED chn 22_3961 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3961.tif: No such file or directory
+running chn 22_3962
+FAILED chn 22_3962 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3962.tif: No such file or directory
+running chn 22_3963
+FAILED chn 22_3963 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3963.tif: No such file or directory
+running chn 22_3964
+FAILED chn 22_3964 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3964.tif: No such file or directory
+running chn 22_3965
+FAILED chn 22_3965 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3965.tif: No such file or directory
+running chn 22_3966
+FAILED chn 22_3966 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3966.tif: No such file or directory
+running chn 22_3967
+FAILED chn 22_3967 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3967.tif: No such file or directory
+running chn 22_3968
+FAILED chn 22_3968 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3968.tif: No such file or directory
+running chn 22_3969
+FAILED chn 22_3969 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3969.tif: No such file or directory
+running chn 22_3970
+FAILED chn 22_3970 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3970.tif: No such file or directory
+running chn 22_3971
+FAILED chn 22_3971 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3971.tif: No such file or directory
+running chn 22_3972
+FAILED chn 22_3972 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3972.tif: No such file or directory
+running chn 22_3973
+FAILED chn 22_3973 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3973.tif: No such file or directory
+running chn 22_3974
+FAILED chn 22_3974 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3974.tif: No such file or directory
+running chn 22_3975
+FAILED chn 22_3975 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3975.tif: No such file or directory
+running chn 22_3976
+FAILED chn 22_3976 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3976.tif: No such file or directory
+running chn 22_3977
+FAILED chn 22_3977 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3977.tif: No such file or directory
+running chn 22_3978
+FAILED chn 22_3978 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3978.tif: No such file or directory
+running chn 22_3979
+FAILED chn 22_3979 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3979.tif: No such file or directory
+running chn 22_3980
+FAILED chn 22_3980 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3980.tif: No such file or directory
+running chn 22_3981
+FAILED chn 22_3981 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3981.tif: No such file or directory
+running chn 22_3982
+FAILED chn 22_3982 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3982.tif: No such file or directory
+running chn 22_3983
+FAILED chn 22_3983 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3983.tif: No such file or directory
+running chn 22_3984
+FAILED chn 22_3984 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3984.tif: No such file or directory
+running chn 22_3985
+FAILED chn 22_3985 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3985.tif: No such file or directory
+running chn 22_3986
+FAILED chn 22_3986 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3986.tif: No such file or directory
+running chn 22_3987
+FAILED chn 22_3987 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3987.tif: No such file or directory
+running chn 22_3988
+FAILED chn 22_3988 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3988.tif: No such file or directory
+running chn 22_3989
+FAILED chn 22_3989 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3989.tif: No such file or directory
+running chn 22_3990
+FAILED chn 22_3990 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3990.tif: No such file or directory
+running chn 22_3991
+FAILED chn 22_3991 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3991.tif: No such file or directory
+running chn 22_3992
+FAILED chn 22_3992 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3992.tif: No such file or directory
+running chn 22_3993
+FAILED chn 22_3993 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3993.tif: No such file or directory
+running chn 22_3994
+FAILED chn 22_3994 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3994.tif: No such file or directory
+running chn 22_3995
+FAILED chn 22_3995 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3995.tif: No such file or directory
+running chn 22_3996
+FAILED chn 22_3996 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3996.tif: No such file or directory
+running chn 22_3997
+FAILED chn 22_3997 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3997.tif: No such file or directory
+running chn 22_3998
+FAILED chn 22_3998 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3998.tif: No such file or directory
+running chn 22_3999
+FAILED chn 22_3999 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3999.tif: No such file or directory
+running chn 22_4000
+FAILED chn 22_4000 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4000.tif: No such file or directory
+running chn 22_4001
+FAILED chn 22_4001 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4001.tif: No such file or directory
+running chn 22_4002
+FAILED chn 22_4002 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4002.tif: No such file or directory
+running chn 22_4003
+FAILED chn 22_4003 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4003.tif: No such file or directory
+running chn 22_4004
+FAILED chn 22_4004 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4004.tif: No such file or directory
+running chn 22_4005
+FAILED chn 22_4005 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4005.tif: No such file or directory
+running chn 22_4006
+FAILED chn 22_4006 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4006.tif: No such file or directory
+running chn 22_5057
+FAILED chn 22_5057 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5057.tif: No such file or directory
+running chn 22_5058
+FAILED chn 22_5058 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5058.tif: No such file or directory
+running chn 22_5059
+FAILED chn 22_5059 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5059.tif: No such file or directory
+running chn 22_5060
+FAILED chn 22_5060 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5060.tif: No such file or directory
+running chn 22_5061
+FAILED chn 22_5061 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5061.tif: No such file or directory
+running chn 22_5062
+FAILED chn 22_5062 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5062.tif: No such file or directory
+running chn 22_5063
+FAILED chn 22_5063 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5063.tif: No such file or directory
+running chn 22_5064
+FAILED chn 22_5064 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5064.tif: No such file or directory
+running chn 22_5065
+FAILED chn 22_5065 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5065.tif: No such file or directory
+running chn 22_5066
+FAILED chn 22_5066 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5066.tif: No such file or directory
+running chn 22_5067
+FAILED chn 22_5067 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5067.tif: No such file or directory
+running chn 22_5068
+FAILED chn 22_5068 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5068.tif: No such file or directory
+running chn 22_5069
+FAILED chn 22_5069 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5069.tif: No such file or directory
+running chn 22_5070
+FAILED chn 22_5070 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5070.tif: No such file or directory
+running chn 22_5071
+FAILED chn 22_5071 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5071.tif: No such file or directory
+running chn 22_5072
+FAILED chn 22_5072 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5072.tif: No such file or directory
+running chn 22_5073
+FAILED chn 22_5073 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5073.tif: No such file or directory
+running chn 22_5074
+FAILED chn 22_5074 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5074.tif: No such file or directory
+running chn 22_5075
+FAILED chn 22_5075 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5075.tif: No such file or directory
+running chn 22_5076
+FAILED chn 22_5076 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5076.tif: No such file or directory
+running chn 22_5077
+FAILED chn 22_5077 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5077.tif: No such file or directory
+running chn 22_5078
+FAILED chn 22_5078 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5078.tif: No such file or directory
+running chn 22_5079
+FAILED chn 22_5079 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5079.tif: No such file or directory
+running chn 22_5080
+FAILED chn 22_5080 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5080.tif: No such file or directory
+running chn 22_5081
+FAILED chn 22_5081 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5081.tif: No such file or directory
+running chn 22_5082
+FAILED chn 22_5082 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5082.tif: No such file or directory
+running chn 22_5083
+FAILED chn 22_5083 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5083.tif: No such file or directory
+running chn 22_5084
+FAILED chn 22_5084 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5084.tif: No such file or directory
+running chn 22_5085
+FAILED chn 22_5085 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5085.tif: No such file or directory
+running chn 22_5086
+FAILED chn 22_5086 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5086.tif: No such file or directory
+running chn 22_5087
+FAILED chn 22_5087 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5087.tif: No such file or directory
+running chn 22_5088
+FAILED chn 22_5088 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5088.tif: No such file or directory
+running chn 22_5089
+FAILED chn 22_5089 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5089.tif: No such file or directory
+running chn 22_5090
+FAILED chn 22_5090 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5090.tif: No such file or directory
+running chn 22_5091
+FAILED chn 22_5091 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5091.tif: No such file or directory
+running chn 22_5092
+FAILED chn 22_5092 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5092.tif: No such file or directory
+running chn 22_5093
+FAILED chn 22_5093 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5093.tif: No such file or directory
+running chn 22_5094
+FAILED chn 22_5094 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5094.tif: No such file or directory
+running chn 22_5095
+FAILED chn 22_5095 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5095.tif: No such file or directory
+running chn 22_5096
+FAILED chn 22_5096 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5096.tif: No such file or directory
+running chn 22_5097
+FAILED chn 22_5097 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5097.tif: No such file or directory
+running chn 22_5098
+FAILED chn 22_5098 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5098.tif: No such file or directory
+running chn 22_5099
+FAILED chn 22_5099 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5099.tif: No such file or directory
+running chn 22_5100
+FAILED chn 22_5100 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5100.tif: No such file or directory
+running chn 22_5101
+FAILED chn 22_5101 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5101.tif: No such file or directory
+running chn 22_5102
+FAILED chn 22_5102 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5102.tif: No such file or directory
+running chn 22_5103
+FAILED chn 22_5103 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5103.tif: No such file or directory
+running chn 22_5104
+FAILED chn 22_5104 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5104.tif: No such file or directory
+running chn 22_5105
+FAILED chn 22_5105 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5105.tif: No such file or directory
+running chn 22_5106
+FAILED chn 22_5106 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5106.tif: No such file or directory
+running chn 22_5007
+FAILED chn 22_5007 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5007.tif: No such file or directory
+running chn 22_5008
+FAILED chn 22_5008 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5008.tif: No such file or directory
+running chn 22_5009
+FAILED chn 22_5009 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5009.tif: No such file or directory
+running chn 22_5010
+FAILED chn 22_5010 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5010.tif: No such file or directory
+running chn 22_5011
+FAILED chn 22_5011 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5011.tif: No such file or directory
+running chn 22_5012
+FAILED chn 22_5012 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5012.tif: No such file or directory
+running chn 22_5013
+FAILED chn 22_5013 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5013.tif: No such file or directory
+running chn 22_5014
+FAILED chn 22_5014 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5014.tif: No such file or directory
+running chn 22_5015
+FAILED chn 22_5015 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5015.tif: No such file or directory
+running chn 22_5016
+FAILED chn 22_5016 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5016.tif: No such file or directory
+running chn 22_5017
+FAILED chn 22_5017 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5017.tif: No such file or directory
+running chn 22_5018
+FAILED chn 22_5018 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5018.tif: No such file or directory
+running chn 22_5019
+FAILED chn 22_5019 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5019.tif: No such file or directory
+running chn 22_5020
+FAILED chn 22_5020 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5020.tif: No such file or directory
+running chn 22_5021
+FAILED chn 22_5021 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5021.tif: No such file or directory
+running chn 22_5022
+FAILED chn 22_5022 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5022.tif: No such file or directory
+running chn 22_5023
+FAILED chn 22_5023 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5023.tif: No such file or directory
+running chn 22_5024
+FAILED chn 22_5024 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5024.tif: No such file or directory
+running chn 22_5025
+FAILED chn 22_5025 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5025.tif: No such file or directory
+running chn 22_5026
+FAILED chn 22_5026 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5026.tif: No such file or directory
+running chn 22_5027
+FAILED chn 22_5027 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5027.tif: No such file or directory
+running chn 22_5028
+FAILED chn 22_5028 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5028.tif: No such file or directory
+running chn 22_5029
+FAILED chn 22_5029 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5029.tif: No such file or directory
+running chn 22_5030
+FAILED chn 22_5030 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5030.tif: No such file or directory
+running chn 22_5031
+FAILED chn 22_5031 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5031.tif: No such file or directory
+running chn 22_5032
+FAILED chn 22_5032 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5032.tif: No such file or directory
+running chn 22_5033
+FAILED chn 22_5033 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5033.tif: No such file or directory
+running chn 22_5034
+FAILED chn 22_5034 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5034.tif: No such file or directory
+running chn 22_5035
+FAILED chn 22_5035 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5035.tif: No such file or directory
+running chn 22_5036
+FAILED chn 22_5036 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5036.tif: No such file or directory
+running chn 22_5037
+FAILED chn 22_5037 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5037.tif: No such file or directory
+running chn 22_5038
+FAILED chn 22_5038 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5038.tif: No such file or directory
+running chn 22_5039
+FAILED chn 22_5039 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5039.tif: No such file or directory
+running chn 22_5040
+FAILED chn 22_5040 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5040.tif: No such file or directory
+running chn 22_5041
+FAILED chn 22_5041 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5041.tif: No such file or directory
+running chn 22_5042
+FAILED chn 22_5042 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5042.tif: No such file or directory
+running chn 22_5043
+FAILED chn 22_5043 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5043.tif: No such file or directory
+running chn 22_5044
+FAILED chn 22_5044 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5044.tif: No such file or directory
+running chn 22_5045
+FAILED chn 22_5045 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5045.tif: No such file or directory
+running chn 22_5046
+FAILED chn 22_5046 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5046.tif: No such file or directory
+running chn 22_5047
+FAILED chn 22_5047 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5047.tif: No such file or directory
+running chn 22_5048
+FAILED chn 22_5048 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5048.tif: No such file or directory
+running chn 22_5049
+FAILED chn 22_5049 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5049.tif: No such file or directory
+running chn 22_5050
+FAILED chn 22_5050 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5050.tif: No such file or directory
+running chn 22_5051
+FAILED chn 22_5051 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5051.tif: No such file or directory
+running chn 22_5052
+FAILED chn 22_5052 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5052.tif: No such file or directory
+running chn 22_5053
+FAILED chn 22_5053 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5053.tif: No such file or directory
+running chn 22_5054
+FAILED chn 22_5054 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5054.tif: No such file or directory
+running chn 22_5055
+FAILED chn 22_5055 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5055.tif: No such file or directory
+running chn 22_5056
+FAILED chn 22_5056 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5056.tif: No such file or directory
+running chn 22_4857
+FAILED chn 22_4857 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4857.tif: No such file or directory
+running chn 22_4858
+FAILED chn 22_4858 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4858.tif: No such file or directory
+running chn 22_4859
+FAILED chn 22_4859 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4859.tif: No such file or directory
+running chn 22_4860
+FAILED chn 22_4860 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4860.tif: No such file or directory
+running chn 22_4861
+FAILED chn 22_4861 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4861.tif: No such file or directory
+running chn 22_4862
+FAILED chn 22_4862 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4862.tif: No such file or directory
+running chn 22_4863
+FAILED chn 22_4863 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4863.tif: No such file or directory
+running chn 22_4864
+FAILED chn 22_4864 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4864.tif: No such file or directory
+running chn 22_4865
+FAILED chn 22_4865 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4865.tif: No such file or directory
+running chn 22_4866
+FAILED chn 22_4866 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4866.tif: No such file or directory
+running chn 22_4867
+FAILED chn 22_4867 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4867.tif: No such file or directory
+running chn 22_4868
+FAILED chn 22_4868 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4868.tif: No such file or directory
+running chn 22_4869
+FAILED chn 22_4869 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4869.tif: No such file or directory
+running chn 22_4870
+FAILED chn 22_4870 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4870.tif: No such file or directory
+running chn 22_4871
+FAILED chn 22_4871 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4871.tif: No such file or directory
+running chn 22_4872
+FAILED chn 22_4872 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4872.tif: No such file or directory
+running chn 22_4873
+FAILED chn 22_4873 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4873.tif: No such file or directory
+running chn 22_4874
+FAILED chn 22_4874 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4874.tif: No such file or directory
+running chn 22_4875
+FAILED chn 22_4875 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4875.tif: No such file or directory
+running chn 22_4876
+FAILED chn 22_4876 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4876.tif: No such file or directory
+running chn 22_4877
+FAILED chn 22_4877 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4877.tif: No such file or directory
+running chn 22_4878
+FAILED chn 22_4878 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4878.tif: No such file or directory
+running chn 22_4879
+FAILED chn 22_4879 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4879.tif: No such file or directory
+running chn 22_4880
+FAILED chn 22_4880 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4880.tif: No such file or directory
+running chn 22_4881
+FAILED chn 22_4881 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4881.tif: No such file or directory
+running chn 22_4882
+FAILED chn 22_4882 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4882.tif: No such file or directory
+running chn 22_4883
+FAILED chn 22_4883 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4883.tif: No such file or directory
+running chn 22_4884
+FAILED chn 22_4884 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4884.tif: No such file or directory
+running chn 22_4885
+FAILED chn 22_4885 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4885.tif: No such file or directory
+running chn 22_4886
+FAILED chn 22_4886 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4886.tif: No such file or directory
+running chn 22_4887
+FAILED chn 22_4887 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4887.tif: No such file or directory
+running chn 22_4888
+FAILED chn 22_4888 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4888.tif: No such file or directory
+running chn 22_4889
+FAILED chn 22_4889 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4889.tif: No such file or directory
+running chn 22_4890
+FAILED chn 22_4890 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4890.tif: No such file or directory
+running chn 22_4891
+FAILED chn 22_4891 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4891.tif: No such file or directory
+running chn 22_4892
+FAILED chn 22_4892 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4892.tif: No such file or directory
+running chn 22_4893
+FAILED chn 22_4893 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4893.tif: No such file or directory
+running chn 22_4894
+FAILED chn 22_4894 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4894.tif: No such file or directory
+running chn 22_4895
+FAILED chn 22_4895 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4895.tif: No such file or directory
+running chn 22_4896
+FAILED chn 22_4896 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4896.tif: No such file or directory
+running chn 22_4897
+FAILED chn 22_4897 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4897.tif: No such file or directory
+running chn 22_4898
+FAILED chn 22_4898 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4898.tif: No such file or directory
+running chn 22_4899
+FAILED chn 22_4899 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4899.tif: No such file or directory
+running chn 22_4900
+FAILED chn 22_4900 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4900.tif: No such file or directory
+running chn 22_4901
+FAILED chn 22_4901 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4901.tif: No such file or directory
+running chn 22_4902
+FAILED chn 22_4902 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4902.tif: No such file or directory
+running chn 22_4903
+FAILED chn 22_4903 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4903.tif: No such file or directory
+running chn 22_4904
+FAILED chn 22_4904 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4904.tif: No such file or directory
+running chn 22_4905
+FAILED chn 22_4905 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4905.tif: No such file or directory
+running chn 22_4906
+FAILED chn 22_4906 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4906.tif: No such file or directory
+running chn 22_4907
+FAILED chn 22_4907 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4907.tif: No such file or directory
+running chn 22_4908
+FAILED chn 22_4908 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4908.tif: No such file or directory
+running chn 22_4909
+FAILED chn 22_4909 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4909.tif: No such file or directory
+running chn 22_4910
+FAILED chn 22_4910 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4910.tif: No such file or directory
+running chn 22_4911
+FAILED chn 22_4911 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4911.tif: No such file or directory
+running chn 22_4912
+FAILED chn 22_4912 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4912.tif: No such file or directory
+running chn 22_4913
+FAILED chn 22_4913 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4913.tif: No such file or directory
+running chn 22_4914
+FAILED chn 22_4914 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4914.tif: No such file or directory
+running chn 22_4915
+FAILED chn 22_4915 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4915.tif: No such file or directory
+running chn 22_4916
+FAILED chn 22_4916 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4916.tif: No such file or directory
+running chn 22_4917
+FAILED chn 22_4917 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4917.tif: No such file or directory
+running chn 22_4918
+FAILED chn 22_4918 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4918.tif: No such file or directory
+running chn 22_4919
+FAILED chn 22_4919 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4919.tif: No such file or directory
+running chn 22_4920
+FAILED chn 22_4920 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4920.tif: No such file or directory
+running chn 22_4921
+FAILED chn 22_4921 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4921.tif: No such file or directory
+running chn 22_4922
+FAILED chn 22_4922 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4922.tif: No such file or directory
+running chn 22_4923
+FAILED chn 22_4923 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4923.tif: No such file or directory
+running chn 22_4924
+FAILED chn 22_4924 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4924.tif: No such file or directory
+running chn 22_4925
+FAILED chn 22_4925 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4925.tif: No such file or directory
+running chn 22_4926
+FAILED chn 22_4926 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4926.tif: No such file or directory
+running chn 22_4927
+FAILED chn 22_4927 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4927.tif: No such file or directory
+running chn 22_5428
+FAILED chn 22_5428 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5428.tif: No such file or directory
+running chn 22_5429
+FAILED chn 22_5429 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5429.tif: No such file or directory
+running chn 22_5430
+FAILED chn 22_5430 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5430.tif: No such file or directory
+running chn 22_5431
+FAILED chn 22_5431 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5431.tif: No such file or directory
+running chn 22_5432
+FAILED chn 22_5432 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5432.tif: No such file or directory
+running chn 22_5433
+FAILED chn 22_5433 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5433.tif: No such file or directory
+running chn 22_5434
+FAILED chn 22_5434 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5434.tif: No such file or directory
+running chn 22_5435
+FAILED chn 22_5435 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5435.tif: No such file or directory
+running chn 22_5436
+FAILED chn 22_5436 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5436.tif: No such file or directory
+running chn 22_5437
+FAILED chn 22_5437 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5437.tif: No such file or directory
+running chn 22_5438
+FAILED chn 22_5438 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5438.tif: No such file or directory
+running chn 22_5439
+FAILED chn 22_5439 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5439.tif: No such file or directory
+running chn 22_5440
+FAILED chn 22_5440 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5440.tif: No such file or directory
+running chn 22_5441
+FAILED chn 22_5441 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5441.tif: No such file or directory
+running chn 22_5442
+FAILED chn 22_5442 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5442.tif: No such file or directory
+running chn 22_5443
+FAILED chn 22_5443 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5443.tif: No such file or directory
+running chn 22_5444
+FAILED chn 22_5444 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5444.tif: No such file or directory
+running chn 22_5445
+FAILED chn 22_5445 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5445.tif: No such file or directory
+running chn 22_5446
+FAILED chn 22_5446 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5446.tif: No such file or directory
+running chn 22_5447
+FAILED chn 22_5447 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5447.tif: No such file or directory
+running chn 22_5448
+FAILED chn 22_5448 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5448.tif: No such file or directory
+running chn 22_5449
+FAILED chn 22_5449 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5449.tif: No such file or directory
+running chn 22_5450
+FAILED chn 22_5450 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5450.tif: No such file or directory
+running chn 22_5451
+FAILED chn 22_5451 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5451.tif: No such file or directory
+running chn 22_5452
+FAILED chn 22_5452 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5452.tif: No such file or directory
+running chn 22_5453
+FAILED chn 22_5453 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5453.tif: No such file or directory
+running chn 22_5454
+FAILED chn 22_5454 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5454.tif: No such file or directory
+running chn 22_5455
+FAILED chn 22_5455 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5455.tif: No such file or directory
+running chn 22_5456
+FAILED chn 22_5456 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5456.tif: No such file or directory
+running chn 22_5357
+FAILED chn 22_5357 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5357.tif: No such file or directory
+running chn 22_5358
+FAILED chn 22_5358 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5358.tif: No such file or directory
+running chn 22_5359
+FAILED chn 22_5359 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5359.tif: No such file or directory
+running chn 22_5360
+FAILED chn 22_5360 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5360.tif: No such file or directory
+running chn 22_5361
+FAILED chn 22_5361 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5361.tif: No such file or directory
+running chn 22_5362
+FAILED chn 22_5362 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5362.tif: No such file or directory
+running chn 22_5363
+FAILED chn 22_5363 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5363.tif: No such file or directory
+running chn 22_5364
+FAILED chn 22_5364 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5364.tif: No such file or directory
+running chn 22_5365
+FAILED chn 22_5365 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5365.tif: No such file or directory
+running chn 22_5366
+FAILED chn 22_5366 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5366.tif: No such file or directory
+running chn 22_5367
+FAILED chn 22_5367 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5367.tif: No such file or directory
+running chn 22_5368
+FAILED chn 22_5368 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5368.tif: No such file or directory
+running chn 22_5369
+FAILED chn 22_5369 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5369.tif: No such file or directory
+running chn 22_5370
+FAILED chn 22_5370 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5370.tif: No such file or directory
+running chn 22_5371
+FAILED chn 22_5371 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5371.tif: No such file or directory
+running chn 22_5372
+FAILED chn 22_5372 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5372.tif: No such file or directory
+running chn 22_5373
+FAILED chn 22_5373 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5373.tif: No such file or directory
+running chn 22_5374
+FAILED chn 22_5374 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5374.tif: No such file or directory
+running chn 22_5375
+FAILED chn 22_5375 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5375.tif: No such file or directory
+running chn 22_5376
+FAILED chn 22_5376 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5376.tif: No such file or directory
+running chn 22_5377
+FAILED chn 22_5377 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5377.tif: No such file or directory
+running chn 22_5378
+FAILED chn 22_5378 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5378.tif: No such file or directory
+running chn 22_5379
+FAILED chn 22_5379 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5379.tif: No such file or directory
+running chn 22_5380
+FAILED chn 22_5380 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5380.tif: No such file or directory
+running chn 22_5381
+FAILED chn 22_5381 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5381.tif: No such file or directory
+running chn 22_5382
+FAILED chn 22_5382 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5382.tif: No such file or directory
+running chn 22_5383
+FAILED chn 22_5383 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5383.tif: No such file or directory
+running chn 22_5384
+FAILED chn 22_5384 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5384.tif: No such file or directory
+running chn 22_5385
+FAILED chn 22_5385 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5385.tif: No such file or directory
+running chn 22_5386
+FAILED chn 22_5386 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5386.tif: No such file or directory
+running chn 22_5387
+FAILED chn 22_5387 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5387.tif: No such file or directory
+running chn 22_5388
+FAILED chn 22_5388 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5388.tif: No such file or directory
+running chn 22_5389
+FAILED chn 22_5389 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5389.tif: No such file or directory
+running chn 22_5390
+FAILED chn 22_5390 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5390.tif: No such file or directory
+running chn 22_5391
+FAILED chn 22_5391 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5391.tif: No such file or directory
+running chn 22_5392
+FAILED chn 22_5392 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5392.tif: No such file or directory
+running chn 22_5393
+FAILED chn 22_5393 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5393.tif: No such file or directory
+running chn 22_5394
+FAILED chn 22_5394 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5394.tif: No such file or directory
+running chn 22_5395
+FAILED chn 22_5395 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5395.tif: No such file or directory
+running chn 22_5396
+FAILED chn 22_5396 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5396.tif: No such file or directory
+running chn 22_5397
+FAILED chn 22_5397 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5397.tif: No such file or directory
+running chn 22_5398
+FAILED chn 22_5398 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5398.tif: No such file or directory
+running chn 22_5399
+FAILED chn 22_5399 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5399.tif: No such file or directory
+running chn 22_5400
+FAILED chn 22_5400 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5400.tif: No such file or directory
+running chn 22_5401
+FAILED chn 22_5401 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5401.tif: No such file or directory
+running chn 22_5402
+FAILED chn 22_5402 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5402.tif: No such file or directory
+running chn 22_5403
+FAILED chn 22_5403 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5403.tif: No such file or directory
+running chn 22_5404
+FAILED chn 22_5404 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5404.tif: No such file or directory
+running chn 22_5405
+FAILED chn 22_5405 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5405.tif: No such file or directory
+running chn 22_5406
+FAILED chn 22_5406 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_5406.tif: No such file or directory
+running chn 22_3907
+FAILED chn 22_3907 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3907.tif: No such file or directory
+running chn 22_3908
+FAILED chn 22_3908 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3908.tif: No such file or directory
+running chn 22_3909
+FAILED chn 22_3909 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3909.tif: No such file or directory
+running chn 22_3910
+FAILED chn 22_3910 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3910.tif: No such file or directory
+running chn 22_3911
+FAILED chn 22_3911 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3911.tif: No such file or directory
+running chn 22_3912
+FAILED chn 22_3912 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3912.tif: No such file or directory
+running chn 22_3913
+FAILED chn 22_3913 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3913.tif: No such file or directory
+running chn 22_3914
+FAILED chn 22_3914 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3914.tif: No such file or directory
+running chn 22_3915
+FAILED chn 22_3915 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3915.tif: No such file or directory
+running chn 22_3916
+FAILED chn 22_3916 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3916.tif: No such file or directory
+running chn 22_3917
+FAILED chn 22_3917 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3917.tif: No such file or directory
+running chn 22_3918
+FAILED chn 22_3918 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3918.tif: No such file or directory
+running chn 22_3919
+FAILED chn 22_3919 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3919.tif: No such file or directory
+running chn 22_3920
+FAILED chn 22_3920 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3920.tif: No such file or directory
+running chn 22_3921
+FAILED chn 22_3921 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3921.tif: No such file or directory
+running chn 22_3922
+FAILED chn 22_3922 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3922.tif: No such file or directory
+running chn 22_3923
+FAILED chn 22_3923 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3923.tif: No such file or directory
+running chn 22_3924
+FAILED chn 22_3924 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3924.tif: No such file or directory
+running chn 22_3925
+FAILED chn 22_3925 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3925.tif: No such file or directory
+running chn 22_3926
+FAILED chn 22_3926 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3926.tif: No such file or directory
+running chn 22_3927
+FAILED chn 22_3927 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3927.tif: No such file or directory
+running chn 22_3928
+FAILED chn 22_3928 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3928.tif: No such file or directory
+running chn 22_3929
+FAILED chn 22_3929 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3929.tif: No such file or directory
+running chn 22_3930
+FAILED chn 22_3930 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3930.tif: No such file or directory
+running chn 22_3931
+FAILED chn 22_3931 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3931.tif: No such file or directory
+running chn 22_3932
+FAILED chn 22_3932 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3932.tif: No such file or directory
+running chn 22_3933
+FAILED chn 22_3933 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3933.tif: No such file or directory
+running chn 22_3934
+FAILED chn 22_3934 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3934.tif: No such file or directory
+running chn 22_3935
+FAILED chn 22_3935 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3935.tif: No such file or directory
+running chn 22_3936
+FAILED chn 22_3936 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3936.tif: No such file or directory
+running chn 22_3937
+FAILED chn 22_3937 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3937.tif: No such file or directory
+running chn 22_3938
+FAILED chn 22_3938 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3938.tif: No such file or directory
+running chn 22_3939
+FAILED chn 22_3939 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3939.tif: No such file or directory
+running chn 22_3940
+FAILED chn 22_3940 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3940.tif: No such file or directory
+running chn 22_3941
+FAILED chn 22_3941 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3941.tif: No such file or directory
+running chn 22_3942
+FAILED chn 22_3942 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3942.tif: No such file or directory
+running chn 22_3943
+FAILED chn 22_3943 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3943.tif: No such file or directory
+running chn 22_3944
+FAILED chn 22_3944 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3944.tif: No such file or directory
+running chn 22_3945
+FAILED chn 22_3945 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3945.tif: No such file or directory
+running chn 22_3946
+FAILED chn 22_3946 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3946.tif: No such file or directory
+running chn 22_3947
+FAILED chn 22_3947 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3947.tif: No such file or directory
+running chn 22_3948
+FAILED chn 22_3948 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3948.tif: No such file or directory
+running chn 22_3949
+FAILED chn 22_3949 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3949.tif: No such file or directory
+running chn 22_3950
+FAILED chn 22_3950 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3950.tif: No such file or directory
+running chn 22_3951
+FAILED chn 22_3951 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3951.tif: No such file or directory
+running chn 22_3952
+FAILED chn 22_3952 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3952.tif: No such file or directory
+running chn 22_3953
+FAILED chn 22_3953 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3953.tif: No such file or directory
+running chn 22_3954
+FAILED chn 22_3954 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3954.tif: No such file or directory
+running chn 22_3955
+FAILED chn 22_3955 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3955.tif: No such file or directory
+running chn 22_3956
+FAILED chn 22_3956 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3956.tif: No such file or directory
+running chn 22_4057
+FAILED chn 22_4057 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4057.tif: No such file or directory
+running chn 22_4058
+FAILED chn 22_4058 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4058.tif: No such file or directory
+running chn 22_4059
+FAILED chn 22_4059 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4059.tif: No such file or directory
+running chn 22_4060
+FAILED chn 22_4060 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4060.tif: No such file or directory
+running chn 22_4061
+FAILED chn 22_4061 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4061.tif: No such file or directory
+running chn 22_4062
+FAILED chn 22_4062 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4062.tif: No such file or directory
+running chn 22_4063
+FAILED chn 22_4063 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4063.tif: No such file or directory
+running chn 22_4064
+FAILED chn 22_4064 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4064.tif: No such file or directory
+running chn 22_4065
+FAILED chn 22_4065 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4065.tif: No such file or directory
+running chn 22_4066
+FAILED chn 22_4066 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4066.tif: No such file or directory
+running chn 22_4067
+FAILED chn 22_4067 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4067.tif: No such file or directory
+running chn 22_4068
+FAILED chn 22_4068 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4068.tif: No such file or directory
+running chn 22_4069
+FAILED chn 22_4069 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4069.tif: No such file or directory
+running chn 22_4070
+FAILED chn 22_4070 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4070.tif: No such file or directory
+running chn 22_4071
+FAILED chn 22_4071 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4071.tif: No such file or directory
+running chn 22_4072
+FAILED chn 22_4072 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4072.tif: No such file or directory
+running chn 22_4073
+FAILED chn 22_4073 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4073.tif: No such file or directory
+running chn 22_4074
+FAILED chn 22_4074 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4074.tif: No such file or directory
+running chn 22_4075
+FAILED chn 22_4075 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4075.tif: No such file or directory
+running chn 22_4076
+FAILED chn 22_4076 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4076.tif: No such file or directory
+running chn 22_4077
+FAILED chn 22_4077 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4077.tif: No such file or directory
+running chn 22_4078
+FAILED chn 22_4078 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4078.tif: No such file or directory
+running chn 22_4079
+FAILED chn 22_4079 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4079.tif: No such file or directory
+running chn 22_4080
+FAILED chn 22_4080 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4080.tif: No such file or directory
+running chn 22_4081
+FAILED chn 22_4081 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4081.tif: No such file or directory
+running chn 22_4082
+FAILED chn 22_4082 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4082.tif: No such file or directory
+running chn 22_4083
+FAILED chn 22_4083 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4083.tif: No such file or directory
+running chn 22_4084
+FAILED chn 22_4084 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4084.tif: No such file or directory
+running chn 22_4085
+FAILED chn 22_4085 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4085.tif: No such file or directory
+running chn 22_4086
+FAILED chn 22_4086 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4086.tif: No such file or directory
+running chn 22_4087
+FAILED chn 22_4087 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4087.tif: No such file or directory
+running chn 22_4088
+FAILED chn 22_4088 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4088.tif: No such file or directory
+running chn 22_4089
+FAILED chn 22_4089 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4089.tif: No such file or directory
+running chn 22_4090
+FAILED chn 22_4090 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4090.tif: No such file or directory
+running chn 22_4091
+FAILED chn 22_4091 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4091.tif: No such file or directory
+running chn 22_4092
+FAILED chn 22_4092 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4092.tif: No such file or directory
+running chn 22_4093
+FAILED chn 22_4093 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4093.tif: No such file or directory
+running chn 22_4094
+FAILED chn 22_4094 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4094.tif: No such file or directory
+running chn 22_4095
+FAILED chn 22_4095 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4095.tif: No such file or directory
+running chn 22_4096
+FAILED chn 22_4096 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4096.tif: No such file or directory
+running chn 22_4097
+FAILED chn 22_4097 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4097.tif: No such file or directory
+running chn 22_4098
+FAILED chn 22_4098 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4098.tif: No such file or directory
+running chn 22_4099
+FAILED chn 22_4099 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4099.tif: No such file or directory
+running chn 22_4100
+FAILED chn 22_4100 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4100.tif: No such file or directory
+running chn 22_4101
+FAILED chn 22_4101 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4101.tif: No such file or directory
+running chn 22_4102
+FAILED chn 22_4102 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4102.tif: No such file or directory
+running chn 22_4103
+FAILED chn 22_4103 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4103.tif: No such file or directory
+running chn 22_4104
+FAILED chn 22_4104 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4104.tif: No such file or directory
+running chn 22_4105
+FAILED chn 22_4105 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4105.tif: No such file or directory
+running chn 22_4106
+FAILED chn 22_4106 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4106.tif: No such file or directory
+running chn 22_3657
+FAILED chn 22_3657 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3657.tif: No such file or directory
+running chn 22_3658
+FAILED chn 22_3658 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3658.tif: No such file or directory
+running chn 22_3659
+FAILED chn 22_3659 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3659.tif: No such file or directory
+running chn 22_3660
+FAILED chn 22_3660 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3660.tif: No such file or directory
+running chn 22_3661
+FAILED chn 22_3661 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3661.tif: No such file or directory
+running chn 22_3662
+FAILED chn 22_3662 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3662.tif: No such file or directory
+running chn 22_3663
+FAILED chn 22_3663 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3663.tif: No such file or directory
+running chn 22_3664
+FAILED chn 22_3664 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3664.tif: No such file or directory
+running chn 22_3665
+FAILED chn 22_3665 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3665.tif: No such file or directory
+running chn 22_3666
+FAILED chn 22_3666 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3666.tif: No such file or directory
+running chn 22_3667
+FAILED chn 22_3667 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3667.tif: No such file or directory
+running chn 22_3668
+FAILED chn 22_3668 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3668.tif: No such file or directory
+running chn 22_3669
+FAILED chn 22_3669 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3669.tif: No such file or directory
+running chn 22_3670
+FAILED chn 22_3670 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3670.tif: No such file or directory
+running chn 22_3671
+FAILED chn 22_3671 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3671.tif: No such file or directory
+running chn 22_3672
+FAILED chn 22_3672 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3672.tif: No such file or directory
+running chn 22_3673
+FAILED chn 22_3673 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3673.tif: No such file or directory
+running chn 22_3674
+FAILED chn 22_3674 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3674.tif: No such file or directory
+running chn 22_3675
+FAILED chn 22_3675 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3675.tif: No such file or directory
+running chn 22_3676
+FAILED chn 22_3676 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3676.tif: No such file or directory
+running chn 22_3677
+FAILED chn 22_3677 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3677.tif: No such file or directory
+running chn 22_3678
+FAILED chn 22_3678 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3678.tif: No such file or directory
+running chn 22_3679
+FAILED chn 22_3679 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3679.tif: No such file or directory
+running chn 22_3680
+FAILED chn 22_3680 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3680.tif: No such file or directory
+running chn 22_3681
+FAILED chn 22_3681 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3681.tif: No such file or directory
+running chn 22_3682
+FAILED chn 22_3682 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3682.tif: No such file or directory
+running chn 22_3683
+FAILED chn 22_3683 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3683.tif: No such file or directory
+running chn 22_3684
+FAILED chn 22_3684 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3684.tif: No such file or directory
+running chn 22_3685
+FAILED chn 22_3685 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3685.tif: No such file or directory
+running chn 22_3686
+FAILED chn 22_3686 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3686.tif: No such file or directory
+running chn 22_3687
+FAILED chn 22_3687 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3687.tif: No such file or directory
+running chn 22_3688
+FAILED chn 22_3688 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3688.tif: No such file or directory
+running chn 22_3689
+FAILED chn 22_3689 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3689.tif: No such file or directory
+running chn 22_3690
+FAILED chn 22_3690 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3690.tif: No such file or directory
+running chn 22_3691
+FAILED chn 22_3691 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3691.tif: No such file or directory
+running chn 22_3692
+FAILED chn 22_3692 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3692.tif: No such file or directory
+running chn 22_3693
+FAILED chn 22_3693 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3693.tif: No such file or directory
+running chn 22_3694
+FAILED chn 22_3694 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3694.tif: No such file or directory
+running chn 22_3695
+FAILED chn 22_3695 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3695.tif: No such file or directory
+running chn 22_3696
+FAILED chn 22_3696 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3696.tif: No such file or directory
+running chn 22_3697
+FAILED chn 22_3697 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3697.tif: No such file or directory
+running chn 22_3698
+FAILED chn 22_3698 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3698.tif: No such file or directory
+running chn 22_3699
+FAILED chn 22_3699 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3699.tif: No such file or directory
+running chn 22_3700
+FAILED chn 22_3700 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3700.tif: No such file or directory
+running chn 22_3701
+FAILED chn 22_3701 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3701.tif: No such file or directory
+running chn 22_3702
+FAILED chn 22_3702 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3702.tif: No such file or directory
+running chn 22_3703
+FAILED chn 22_3703 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3703.tif: No such file or directory
+running chn 22_3704
+FAILED chn 22_3704 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3704.tif: No such file or directory
+running chn 22_3705
+FAILED chn 22_3705 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3705.tif: No such file or directory
+running chn 22_3706
+FAILED chn 22_3706 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3706.tif: No such file or directory
+running chn 22_3257
+FAILED chn 22_3257 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3257.tif: No such file or directory
+running chn 22_3258
+FAILED chn 22_3258 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3258.tif: No such file or directory
+running chn 22_3259
+FAILED chn 22_3259 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3259.tif: No such file or directory
+running chn 22_3260
+FAILED chn 22_3260 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3260.tif: No such file or directory
+running chn 22_3261
+FAILED chn 22_3261 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3261.tif: No such file or directory
+running chn 22_3262
+FAILED chn 22_3262 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3262.tif: No such file or directory
+running chn 22_3263
+FAILED chn 22_3263 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3263.tif: No such file or directory
+running chn 22_3264
+FAILED chn 22_3264 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3264.tif: No such file or directory
+running chn 22_3265
+FAILED chn 22_3265 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3265.tif: No such file or directory
+running chn 22_3266
+FAILED chn 22_3266 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3266.tif: No such file or directory
+running chn 22_3267
+FAILED chn 22_3267 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3267.tif: No such file or directory
+running chn 22_3268
+FAILED chn 22_3268 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3268.tif: No such file or directory
+running chn 22_3269
+FAILED chn 22_3269 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3269.tif: No such file or directory
+running chn 22_3270
+FAILED chn 22_3270 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3270.tif: No such file or directory
+running chn 22_3271
+FAILED chn 22_3271 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3271.tif: No such file or directory
+running chn 22_3272
+FAILED chn 22_3272 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3272.tif: No such file or directory
+running chn 22_3273
+FAILED chn 22_3273 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3273.tif: No such file or directory
+running chn 22_3274
+FAILED chn 22_3274 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3274.tif: No such file or directory
+running chn 22_3275
+FAILED chn 22_3275 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3275.tif: No such file or directory
+running chn 22_4426
+FAILED chn 22_4426 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4426.tif: No such file or directory
+running chn 22_4427
+FAILED chn 22_4427 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4427.tif: No such file or directory
+running chn 22_4428
+FAILED chn 22_4428 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4428.tif: No such file or directory
+running chn 22_4429
+FAILED chn 22_4429 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4429.tif: No such file or directory
+running chn 22_4430
+FAILED chn 22_4430 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4430.tif: No such file or directory
+running chn 22_4431
+FAILED chn 22_4431 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4431.tif: No such file or directory
+running chn 22_4432
+FAILED chn 22_4432 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4432.tif: No such file or directory
+running chn 22_4433
+FAILED chn 22_4433 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4433.tif: No such file or directory
+running chn 22_4434
+FAILED chn 22_4434 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4434.tif: No such file or directory
+running chn 22_4435
+FAILED chn 22_4435 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4435.tif: No such file or directory
+running chn 22_4436
+FAILED chn 22_4436 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4436.tif: No such file or directory
+running chn 22_4437
+FAILED chn 22_4437 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4437.tif: No such file or directory
+running chn 22_4438
+FAILED chn 22_4438 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4438.tif: No such file or directory
+running chn 22_4439
+FAILED chn 22_4439 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4439.tif: No such file or directory
+running chn 22_4440
+FAILED chn 22_4440 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4440.tif: No such file or directory
+running chn 22_4441
+FAILED chn 22_4441 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4441.tif: No such file or directory
+running chn 22_4442
+FAILED chn 22_4442 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4442.tif: No such file or directory
+running chn 22_4443
+FAILED chn 22_4443 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4443.tif: No such file or directory
+running chn 22_4444
+FAILED chn 22_4444 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4444.tif: No such file or directory
+running chn 22_4445
+FAILED chn 22_4445 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4445.tif: No such file or directory
+running chn 22_4446
+FAILED chn 22_4446 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4446.tif: No such file or directory
+running chn 22_4447
+FAILED chn 22_4447 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4447.tif: No such file or directory
+running chn 22_4448
+FAILED chn 22_4448 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4448.tif: No such file or directory
+running chn 22_4449
+FAILED chn 22_4449 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4449.tif: No such file or directory
+running chn 22_4450
+FAILED chn 22_4450 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4450.tif: No such file or directory
+running chn 22_4451
+FAILED chn 22_4451 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4451.tif: No such file or directory
+running chn 22_4452
+FAILED chn 22_4452 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4452.tif: No such file or directory
+running chn 22_4453
+FAILED chn 22_4453 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4453.tif: No such file or directory
+running chn 22_4454
+FAILED chn 22_4454 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4454.tif: No such file or directory
+running chn 22_4455
+FAILED chn 22_4455 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4455.tif: No such file or directory
+running chn 22_4456
+FAILED chn 22_4456 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4456.tif: No such file or directory
+running chn 22_4457
+FAILED chn 22_4457 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4457.tif: No such file or directory
+running chn 22_4458
+FAILED chn 22_4458 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4458.tif: No such file or directory
+running chn 22_4459
+FAILED chn 22_4459 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4459.tif: No such file or directory
+running chn 22_4460
+FAILED chn 22_4460 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4460.tif: No such file or directory
+running chn 22_4461
+FAILED chn 22_4461 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4461.tif: No such file or directory
+running chn 22_4462
+FAILED chn 22_4462 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4462.tif: No such file or directory
+running chn 22_4463
+FAILED chn 22_4463 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4463.tif: No such file or directory
+running chn 22_4464
+FAILED chn 22_4464 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4464.tif: No such file or directory
+running chn 22_4465
+FAILED chn 22_4465 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4465.tif: No such file or directory
+running chn 22_4466
+FAILED chn 22_4466 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4466.tif: No such file or directory
+running chn 22_4467
+FAILED chn 22_4467 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4467.tif: No such file or directory
+running chn 22_4468
+FAILED chn 22_4468 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4468.tif: No such file or directory
+running chn 22_4469
+FAILED chn 22_4469 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4469.tif: No such file or directory
+running chn 22_4470
+FAILED chn 22_4470 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4470.tif: No such file or directory
+running chn 22_4471
+FAILED chn 22_4471 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4471.tif: No such file or directory
+running chn 22_4472
+FAILED chn 22_4472 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4472.tif: No such file or directory
+running chn 22_4473
+FAILED chn 22_4473 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4473.tif: No such file or directory
+running chn 22_4474
+FAILED chn 22_4474 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4474.tif: No such file or directory
+running chn 22_4475
+FAILED chn 22_4475 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4475.tif: No such file or directory
+running chn 22_4476
+FAILED chn 22_4476 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4476.tif: No such file or directory
+running chn 22_4477
+FAILED chn 22_4477 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4477.tif: No such file or directory
+running chn 22_4478
+FAILED chn 22_4478 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4478.tif: No such file or directory
+running chn 22_4479
+FAILED chn 22_4479 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4479.tif: No such file or directory
+running chn 22_4480
+FAILED chn 22_4480 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4480.tif: No such file or directory
+running chn 22_4481
+FAILED chn 22_4481 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4481.tif: No such file or directory
+running chn 22_4482
+FAILED chn 22_4482 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4482.tif: No such file or directory
+running chn 22_4483
+FAILED chn 22_4483 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4483.tif: No such file or directory
+running chn 22_4484
+FAILED chn 22_4484 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4484.tif: No such file or directory
+running chn 22_4485
+FAILED chn 22_4485 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4485.tif: No such file or directory
+running chn 22_4486
+FAILED chn 22_4486 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4486.tif: No such file or directory
+running chn 22_4487
+FAILED chn 22_4487 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4487.tif: No such file or directory
+running chn 22_4488
+FAILED chn 22_4488 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4488.tif: No such file or directory
+running chn 22_4489
+FAILED chn 22_4489 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4489.tif: No such file or directory
+running chn 22_4490
+FAILED chn 22_4490 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4490.tif: No such file or directory
+running chn 22_4491
+FAILED chn 22_4491 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4491.tif: No such file or directory
+running chn 22_4492
+FAILED chn 22_4492 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4492.tif: No such file or directory
+running chn 22_4493
+FAILED chn 22_4493 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4493.tif: No such file or directory
+running chn 22_4494
+FAILED chn 22_4494 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4494.tif: No such file or directory
+running chn 22_4495
+FAILED chn 22_4495 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4495.tif: No such file or directory
+running chn 22_4496
+FAILED chn 22_4496 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4496.tif: No such file or directory
+running chn 22_4497
+FAILED chn 22_4497 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4497.tif: No such file or directory
+running chn 22_4498
+FAILED chn 22_4498 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4498.tif: No such file or directory
+running chn 22_4499
+FAILED chn 22_4499 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4499.tif: No such file or directory
+running chn 22_4500
+FAILED chn 22_4500 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4500.tif: No such file or directory
+running chn 22_4501
+FAILED chn 22_4501 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4501.tif: No such file or directory
+running chn 22_4502
+FAILED chn 22_4502 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4502.tif: No such file or directory
+running chn 22_4503
+FAILED chn 22_4503 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4503.tif: No such file or directory
+running chn 22_4504
+FAILED chn 22_4504 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4504.tif: No such file or directory
+running chn 22_4505
+FAILED chn 22_4505 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4505.tif: No such file or directory
+running chn 22_4506
+FAILED chn 22_4506 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4506.tif: No such file or directory
+running chn 22_4207
+FAILED chn 22_4207 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4207.tif: No such file or directory
+running chn 22_4208
+FAILED chn 22_4208 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4208.tif: No such file or directory
+running chn 22_4209
+FAILED chn 22_4209 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4209.tif: No such file or directory
+running chn 22_4210
+FAILED chn 22_4210 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4210.tif: No such file or directory
+running chn 22_4211
+FAILED chn 22_4211 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4211.tif: No such file or directory
+running chn 22_4212
+FAILED chn 22_4212 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4212.tif: No such file or directory
+running chn 22_4213
+FAILED chn 22_4213 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4213.tif: No such file or directory
+running chn 22_4214
+FAILED chn 22_4214 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4214.tif: No such file or directory
+running chn 22_4215
+FAILED chn 22_4215 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4215.tif: No such file or directory
+running chn 22_4216
+FAILED chn 22_4216 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4216.tif: No such file or directory
+running chn 22_4217
+FAILED chn 22_4217 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4217.tif: No such file or directory
+running chn 22_4218
+FAILED chn 22_4218 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4218.tif: No such file or directory
+running chn 22_4219
+FAILED chn 22_4219 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4219.tif: No such file or directory
+running chn 22_4220
+FAILED chn 22_4220 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4220.tif: No such file or directory
+running chn 22_4221
+FAILED chn 22_4221 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4221.tif: No such file or directory
+running chn 22_4222
+FAILED chn 22_4222 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4222.tif: No such file or directory
+running chn 22_4223
+FAILED chn 22_4223 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4223.tif: No such file or directory
+running chn 22_4224
+FAILED chn 22_4224 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4224.tif: No such file or directory
+running chn 22_4225
+FAILED chn 22_4225 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4225.tif: No such file or directory
+running chn 22_4226
+FAILED chn 22_4226 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4226.tif: No such file or directory
+running chn 22_4227
+FAILED chn 22_4227 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4227.tif: No such file or directory
+running chn 22_4228
+FAILED chn 22_4228 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4228.tif: No such file or directory
+running chn 22_4229
+FAILED chn 22_4229 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4229.tif: No such file or directory
+running chn 22_4230
+FAILED chn 22_4230 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4230.tif: No such file or directory
+running chn 22_4231
+FAILED chn 22_4231 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4231.tif: No such file or directory
+running chn 22_4232
+FAILED chn 22_4232 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4232.tif: No such file or directory
+running chn 22_4233
+FAILED chn 22_4233 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4233.tif: No such file or directory
+running chn 22_4234
+FAILED chn 22_4234 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4234.tif: No such file or directory
+running chn 22_4235
+FAILED chn 22_4235 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4235.tif: No such file or directory
+running chn 22_4236
+FAILED chn 22_4236 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4236.tif: No such file or directory
+running chn 22_4237
+FAILED chn 22_4237 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4237.tif: No such file or directory
+running chn 22_4238
+FAILED chn 22_4238 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4238.tif: No such file or directory
+running chn 22_4239
+FAILED chn 22_4239 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4239.tif: No such file or directory
+running chn 22_4240
+FAILED chn 22_4240 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4240.tif: No such file or directory
+running chn 22_4241
+FAILED chn 22_4241 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4241.tif: No such file or directory
+running chn 22_4242
+FAILED chn 22_4242 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4242.tif: No such file or directory
+running chn 22_4243
+FAILED chn 22_4243 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4243.tif: No such file or directory
+running chn 22_4244
+FAILED chn 22_4244 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4244.tif: No such file or directory
+running chn 22_4245
+FAILED chn 22_4245 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4245.tif: No such file or directory
+running chn 22_4246
+FAILED chn 22_4246 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4246.tif: No such file or directory
+running chn 22_4247
+FAILED chn 22_4247 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4247.tif: No such file or directory
+running chn 22_4248
+FAILED chn 22_4248 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4248.tif: No such file or directory
+running chn 22_4249
+FAILED chn 22_4249 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4249.tif: No such file or directory
+running chn 22_4250
+FAILED chn 22_4250 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4250.tif: No such file or directory
+running chn 22_4251
+FAILED chn 22_4251 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4251.tif: No such file or directory
+running chn 22_4252
+FAILED chn 22_4252 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4252.tif: No such file or directory
+running chn 22_4253
+FAILED chn 22_4253 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4253.tif: No such file or directory
+running chn 22_4254
+FAILED chn 22_4254 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4254.tif: No such file or directory
+running chn 22_4255
+FAILED chn 22_4255 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4255.tif: No such file or directory
+running chn 22_4256
+FAILED chn 22_4256 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4256.tif: No such file or directory
+running chn 22_3507
+FAILED chn 22_3507 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3507.tif: No such file or directory
+running chn 22_3508
+FAILED chn 22_3508 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3508.tif: No such file or directory
+running chn 22_3509
+FAILED chn 22_3509 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3509.tif: No such file or directory
+running chn 22_3510
+FAILED chn 22_3510 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3510.tif: No such file or directory
+running chn 22_3511
+FAILED chn 22_3511 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3511.tif: No such file or directory
+running chn 22_3512
+FAILED chn 22_3512 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3512.tif: No such file or directory
+running chn 22_3513
+FAILED chn 22_3513 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3513.tif: No such file or directory
+running chn 22_3514
+FAILED chn 22_3514 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3514.tif: No such file or directory
+running chn 22_3515
+FAILED chn 22_3515 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3515.tif: No such file or directory
+running chn 22_3516
+FAILED chn 22_3516 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3516.tif: No such file or directory
+running chn 22_3517
+FAILED chn 22_3517 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3517.tif: No such file or directory
+running chn 22_3518
+FAILED chn 22_3518 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3518.tif: No such file or directory
+running chn 22_3519
+FAILED chn 22_3519 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3519.tif: No such file or directory
+running chn 22_3520
+FAILED chn 22_3520 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3520.tif: No such file or directory
+running chn 22_3521
+FAILED chn 22_3521 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3521.tif: No such file or directory
+running chn 22_3522
+FAILED chn 22_3522 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3522.tif: No such file or directory
+running chn 22_3523
+FAILED chn 22_3523 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3523.tif: No such file or directory
+running chn 22_3524
+FAILED chn 22_3524 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3524.tif: No such file or directory
+running chn 22_3525
+FAILED chn 22_3525 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3525.tif: No such file or directory
+running chn 22_3526
+FAILED chn 22_3526 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3526.tif: No such file or directory
+running chn 22_3527
+FAILED chn 22_3527 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3527.tif: No such file or directory
+running chn 22_3528
+FAILED chn 22_3528 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3528.tif: No such file or directory
+running chn 22_3529
+FAILED chn 22_3529 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3529.tif: No such file or directory
+running chn 22_3530
+FAILED chn 22_3530 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3530.tif: No such file or directory
+running chn 22_3531
+FAILED chn 22_3531 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3531.tif: No such file or directory
+running chn 22_3532
+FAILED chn 22_3532 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3532.tif: No such file or directory
+running chn 22_3533
+FAILED chn 22_3533 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3533.tif: No such file or directory
+running chn 22_3534
+FAILED chn 22_3534 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3534.tif: No such file or directory
+running chn 22_3535
+FAILED chn 22_3535 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3535.tif: No such file or directory
+running chn 22_3536
+FAILED chn 22_3536 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3536.tif: No such file or directory
+running chn 22_3537
+FAILED chn 22_3537 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3537.tif: No such file or directory
+running chn 22_3538
+FAILED chn 22_3538 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3538.tif: No such file or directory
+running chn 22_3539
+FAILED chn 22_3539 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3539.tif: No such file or directory
+running chn 22_3540
+FAILED chn 22_3540 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3540.tif: No such file or directory
+running chn 22_3541
+FAILED chn 22_3541 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3541.tif: No such file or directory
+running chn 22_3542
+FAILED chn 22_3542 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3542.tif: No such file or directory
+running chn 22_3543
+FAILED chn 22_3543 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3543.tif: No such file or directory
+running chn 22_3544
+FAILED chn 22_3544 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3544.tif: No such file or directory
+running chn 22_3545
+FAILED chn 22_3545 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3545.tif: No such file or directory
+running chn 22_3546
+FAILED chn 22_3546 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3546.tif: No such file or directory
+running chn 22_3547
+FAILED chn 22_3547 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3547.tif: No such file or directory
+running chn 22_3548
+FAILED chn 22_3548 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3548.tif: No such file or directory
+running chn 22_3549
+FAILED chn 22_3549 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3549.tif: No such file or directory
+running chn 22_3550
+FAILED chn 22_3550 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3550.tif: No such file or directory
+running chn 22_3551
+FAILED chn 22_3551 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3551.tif: No such file or directory
+running chn 22_3552
+FAILED chn 22_3552 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3552.tif: No such file or directory
+running chn 22_3553
+FAILED chn 22_3553 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3553.tif: No such file or directory
+running chn 22_3554
+FAILED chn 22_3554 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3554.tif: No such file or directory
+running chn 22_3555
+FAILED chn 22_3555 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3555.tif: No such file or directory
+running chn 22_3556
+FAILED chn 22_3556 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3556.tif: No such file or directory
+running chn 22_4257
+FAILED chn 22_4257 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4257.tif: No such file or directory
+running chn 22_4258
+FAILED chn 22_4258 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4258.tif: No such file or directory
+running chn 22_4259
+FAILED chn 22_4259 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4259.tif: No such file or directory
+running chn 22_4260
+FAILED chn 22_4260 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4260.tif: No such file or directory
+running chn 22_4261
+FAILED chn 22_4261 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4261.tif: No such file or directory
+running chn 22_4262
+FAILED chn 22_4262 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4262.tif: No such file or directory
+running chn 22_4263
+FAILED chn 22_4263 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4263.tif: No such file or directory
+running chn 22_4264
+FAILED chn 22_4264 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4264.tif: No such file or directory
+running chn 22_4265
+FAILED chn 22_4265 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4265.tif: No such file or directory
+running chn 22_4266
+FAILED chn 22_4266 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4266.tif: No such file or directory
+running chn 22_4267
+FAILED chn 22_4267 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4267.tif: No such file or directory
+running chn 22_4268
+FAILED chn 22_4268 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4268.tif: No such file or directory
+running chn 22_4269
+FAILED chn 22_4269 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4269.tif: No such file or directory
+running chn 22_4270
+FAILED chn 22_4270 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4270.tif: No such file or directory
+running chn 22_4271
+FAILED chn 22_4271 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4271.tif: No such file or directory
+running chn 22_4272
+FAILED chn 22_4272 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4272.tif: No such file or directory
+running chn 22_4273
+FAILED chn 22_4273 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4273.tif: No such file or directory
+running chn 22_4274
+FAILED chn 22_4274 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4274.tif: No such file or directory
+running chn 22_4275
+FAILED chn 22_4275 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4275.tif: No such file or directory
+running chn 22_4276
+FAILED chn 22_4276 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4276.tif: No such file or directory
+running chn 22_4277
+FAILED chn 22_4277 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4277.tif: No such file or directory
+running chn 22_4278
+FAILED chn 22_4278 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4278.tif: No such file or directory
+running chn 22_4279
+FAILED chn 22_4279 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4279.tif: No such file or directory
+running chn 22_4280
+FAILED chn 22_4280 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4280.tif: No such file or directory
+running chn 22_4281
+FAILED chn 22_4281 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4281.tif: No such file or directory
+running chn 22_4282
+FAILED chn 22_4282 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4282.tif: No such file or directory
+running chn 22_4283
+FAILED chn 22_4283 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4283.tif: No such file or directory
+running chn 22_4284
+FAILED chn 22_4284 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4284.tif: No such file or directory
+running chn 22_4285
+FAILED chn 22_4285 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4285.tif: No such file or directory
+running chn 22_4286
+FAILED chn 22_4286 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4286.tif: No such file or directory
+running chn 22_4287
+FAILED chn 22_4287 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4287.tif: No such file or directory
+running chn 22_4288
+FAILED chn 22_4288 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4288.tif: No such file or directory
+running chn 22_4289
+FAILED chn 22_4289 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4289.tif: No such file or directory
+running chn 22_4290
+FAILED chn 22_4290 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4290.tif: No such file or directory
+running chn 22_4291
+FAILED chn 22_4291 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4291.tif: No such file or directory
+running chn 22_4292
+FAILED chn 22_4292 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4292.tif: No such file or directory
+running chn 22_4293
+FAILED chn 22_4293 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4293.tif: No such file or directory
+running chn 22_4294
+FAILED chn 22_4294 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4294.tif: No such file or directory
+running chn 22_4295
+FAILED chn 22_4295 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4295.tif: No such file or directory
+running chn 22_4296
+FAILED chn 22_4296 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4296.tif: No such file or directory
+running chn 22_4297
+FAILED chn 22_4297 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4297.tif: No such file or directory
+running chn 22_4298
+FAILED chn 22_4298 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4298.tif: No such file or directory
+running chn 22_4299
+FAILED chn 22_4299 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4299.tif: No such file or directory
+running chn 22_4300
+FAILED chn 22_4300 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4300.tif: No such file or directory
+running chn 22_4301
+FAILED chn 22_4301 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4301.tif: No such file or directory
+running chn 22_4302
+FAILED chn 22_4302 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4302.tif: No such file or directory
+running chn 22_4303
+FAILED chn 22_4303 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4303.tif: No such file or directory
+running chn 22_4304
+FAILED chn 22_4304 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4304.tif: No such file or directory
+running chn 22_4305
+FAILED chn 22_4305 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4305.tif: No such file or directory
+running chn 22_4306
+FAILED chn 22_4306 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4306.tif: No such file or directory
+running chn 22_3557
+FAILED chn 22_3557 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3557.tif: No such file or directory
+running chn 22_3558
+FAILED chn 22_3558 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3558.tif: No such file or directory
+running chn 22_3559
+FAILED chn 22_3559 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3559.tif: No such file or directory
+running chn 22_3560
+FAILED chn 22_3560 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3560.tif: No such file or directory
+running chn 22_3561
+FAILED chn 22_3561 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3561.tif: No such file or directory
+running chn 22_3562
+FAILED chn 22_3562 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3562.tif: No such file or directory
+running chn 22_3563
+FAILED chn 22_3563 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3563.tif: No such file or directory
+running chn 22_3564
+FAILED chn 22_3564 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3564.tif: No such file or directory
+running chn 22_3565
+FAILED chn 22_3565 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3565.tif: No such file or directory
+running chn 22_3566
+FAILED chn 22_3566 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3566.tif: No such file or directory
+running chn 22_3567
+FAILED chn 22_3567 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3567.tif: No such file or directory
+running chn 22_3568
+FAILED chn 22_3568 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3568.tif: No such file or directory
+running chn 22_3569
+FAILED chn 22_3569 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3569.tif: No such file or directory
+running chn 22_3570
+FAILED chn 22_3570 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3570.tif: No such file or directory
+running chn 22_3571
+FAILED chn 22_3571 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3571.tif: No such file or directory
+running chn 22_3572
+FAILED chn 22_3572 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3572.tif: No such file or directory
+running chn 22_3573
+FAILED chn 22_3573 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3573.tif: No such file or directory
+running chn 22_3574
+FAILED chn 22_3574 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3574.tif: No such file or directory
+running chn 22_3575
+FAILED chn 22_3575 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3575.tif: No such file or directory
+running chn 22_3576
+FAILED chn 22_3576 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3576.tif: No such file or directory
+running chn 22_3577
+FAILED chn 22_3577 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3577.tif: No such file or directory
+running chn 22_3578
+FAILED chn 22_3578 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3578.tif: No such file or directory
+running chn 22_3579
+FAILED chn 22_3579 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3579.tif: No such file or directory
+running chn 22_3580
+FAILED chn 22_3580 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3580.tif: No such file or directory
+running chn 22_3581
+FAILED chn 22_3581 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3581.tif: No such file or directory
+running chn 22_3582
+FAILED chn 22_3582 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3582.tif: No such file or directory
+running chn 22_3583
+FAILED chn 22_3583 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3583.tif: No such file or directory
+running chn 22_3584
+FAILED chn 22_3584 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3584.tif: No such file or directory
+running chn 22_3585
+FAILED chn 22_3585 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3585.tif: No such file or directory
+running chn 22_3586
+FAILED chn 22_3586 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3586.tif: No such file or directory
+running chn 22_3587
+FAILED chn 22_3587 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3587.tif: No such file or directory
+running chn 22_3588
+FAILED chn 22_3588 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3588.tif: No such file or directory
+running chn 22_3589
+FAILED chn 22_3589 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3589.tif: No such file or directory
+running chn 22_3590
+FAILED chn 22_3590 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3590.tif: No such file or directory
+running chn 22_3591
+FAILED chn 22_3591 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3591.tif: No such file or directory
+running chn 22_3592
+FAILED chn 22_3592 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3592.tif: No such file or directory
+running chn 22_3593
+FAILED chn 22_3593 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3593.tif: No such file or directory
+running chn 22_3594
+FAILED chn 22_3594 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3594.tif: No such file or directory
+running chn 22_3595
+FAILED chn 22_3595 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3595.tif: No such file or directory
+running chn 22_3596
+FAILED chn 22_3596 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3596.tif: No such file or directory
+running chn 22_3597
+FAILED chn 22_3597 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3597.tif: No such file or directory
+running chn 22_3598
+FAILED chn 22_3598 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3598.tif: No such file or directory
+running chn 22_3599
+FAILED chn 22_3599 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3599.tif: No such file or directory
+running chn 22_3600
+FAILED chn 22_3600 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3600.tif: No such file or directory
+running chn 22_3601
+FAILED chn 22_3601 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3601.tif: No such file or directory
+running chn 22_3602
+FAILED chn 22_3602 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3602.tif: No such file or directory
+running chn 22_3603
+FAILED chn 22_3603 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3603.tif: No such file or directory
+running chn 22_3604
+FAILED chn 22_3604 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3604.tif: No such file or directory
+running chn 22_3605
+FAILED chn 22_3605 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3605.tif: No such file or directory
+running chn 22_3606
+FAILED chn 22_3606 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3606.tif: No such file or directory
+running chn 22_3707
+FAILED chn 22_3707 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3707.tif: No such file or directory
+running chn 22_3708
+FAILED chn 22_3708 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3708.tif: No such file or directory
+running chn 22_3709
+FAILED chn 22_3709 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3709.tif: No such file or directory
+running chn 22_3710
+FAILED chn 22_3710 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3710.tif: No such file or directory
+running chn 22_3711
+FAILED chn 22_3711 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3711.tif: No such file or directory
+running chn 22_3712
+FAILED chn 22_3712 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3712.tif: No such file or directory
+running chn 22_3713
+FAILED chn 22_3713 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3713.tif: No such file or directory
+running chn 22_3714
+FAILED chn 22_3714 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3714.tif: No such file or directory
+running chn 22_3715
+FAILED chn 22_3715 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3715.tif: No such file or directory
+running chn 22_3716
+FAILED chn 22_3716 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3716.tif: No such file or directory
+running chn 22_3717
+FAILED chn 22_3717 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3717.tif: No such file or directory
+running chn 22_3718
+FAILED chn 22_3718 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3718.tif: No such file or directory
+running chn 22_3719
+FAILED chn 22_3719 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3719.tif: No such file or directory
+running chn 22_3720
+FAILED chn 22_3720 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3720.tif: No such file or directory
+running chn 22_3721
+FAILED chn 22_3721 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3721.tif: No such file or directory
+running chn 22_3722
+FAILED chn 22_3722 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3722.tif: No such file or directory
+running chn 22_3723
+FAILED chn 22_3723 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3723.tif: No such file or directory
+running chn 22_3724
+FAILED chn 22_3724 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3724.tif: No such file or directory
+running chn 22_3725
+FAILED chn 22_3725 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3725.tif: No such file or directory
+running chn 22_3726
+FAILED chn 22_3726 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3726.tif: No such file or directory
+running chn 22_3727
+FAILED chn 22_3727 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3727.tif: No such file or directory
+running chn 22_3728
+FAILED chn 22_3728 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3728.tif: No such file or directory
+running chn 22_3729
+FAILED chn 22_3729 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3729.tif: No such file or directory
+running chn 22_3730
+FAILED chn 22_3730 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3730.tif: No such file or directory
+running chn 22_3731
+FAILED chn 22_3731 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3731.tif: No such file or directory
+running chn 22_3732
+FAILED chn 22_3732 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3732.tif: No such file or directory
+running chn 22_3733
+FAILED chn 22_3733 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3733.tif: No such file or directory
+running chn 22_3734
+FAILED chn 22_3734 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3734.tif: No such file or directory
+running chn 22_3735
+FAILED chn 22_3735 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3735.tif: No such file or directory
+running chn 22_3736
+FAILED chn 22_3736 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3736.tif: No such file or directory
+running chn 22_3737
+FAILED chn 22_3737 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3737.tif: No such file or directory
+running chn 22_3738
+FAILED chn 22_3738 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3738.tif: No such file or directory
+running chn 22_3739
+FAILED chn 22_3739 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3739.tif: No such file or directory
+running chn 22_3740
+FAILED chn 22_3740 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3740.tif: No such file or directory
+running chn 22_3741
+FAILED chn 22_3741 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3741.tif: No such file or directory
+running chn 22_3742
+FAILED chn 22_3742 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3742.tif: No such file or directory
+running chn 22_3743
+FAILED chn 22_3743 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3743.tif: No such file or directory
+running chn 22_3744
+FAILED chn 22_3744 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3744.tif: No such file or directory
+running chn 22_3745
+FAILED chn 22_3745 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3745.tif: No such file or directory
+running chn 22_3746
+FAILED chn 22_3746 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3746.tif: No such file or directory
+running chn 22_3747
+FAILED chn 22_3747 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3747.tif: No such file or directory
+running chn 22_3748
+FAILED chn 22_3748 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3748.tif: No such file or directory
+running chn 22_3749
+FAILED chn 22_3749 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3749.tif: No such file or directory
+running chn 22_3750
+FAILED chn 22_3750 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3750.tif: No such file or directory
+running chn 22_3751
+FAILED chn 22_3751 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3751.tif: No such file or directory
+running chn 22_3752
+FAILED chn 22_3752 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3752.tif: No such file or directory
+running chn 22_3753
+FAILED chn 22_3753 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3753.tif: No such file or directory
+running chn 22_3754
+FAILED chn 22_3754 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3754.tif: No such file or directory
+running chn 22_3755
+FAILED chn 22_3755 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3755.tif: No such file or directory
+running chn 22_3756
+FAILED chn 22_3756 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3756.tif: No such file or directory
+running chn 22_3857
+FAILED chn 22_3857 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3857.tif: No such file or directory
+running chn 22_3858
+FAILED chn 22_3858 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3858.tif: No such file or directory
+running chn 22_3859
+FAILED chn 22_3859 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3859.tif: No such file or directory
+running chn 22_3860
+FAILED chn 22_3860 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3860.tif: No such file or directory
+running chn 22_3861
+FAILED chn 22_3861 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3861.tif: No such file or directory
+running chn 22_3862
+FAILED chn 22_3862 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3862.tif: No such file or directory
+running chn 22_3863
+FAILED chn 22_3863 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3863.tif: No such file or directory
+running chn 22_3864
+FAILED chn 22_3864 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3864.tif: No such file or directory
+running chn 22_3865
+FAILED chn 22_3865 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3865.tif: No such file or directory
+running chn 22_3866
+FAILED chn 22_3866 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3866.tif: No such file or directory
+running chn 22_3867
+FAILED chn 22_3867 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3867.tif: No such file or directory
+running chn 22_3868
+FAILED chn 22_3868 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3868.tif: No such file or directory
+running chn 22_3869
+FAILED chn 22_3869 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3869.tif: No such file or directory
+running chn 22_3870
+FAILED chn 22_3870 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3870.tif: No such file or directory
+running chn 22_3871
+FAILED chn 22_3871 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3871.tif: No such file or directory
+running chn 22_3872
+FAILED chn 22_3872 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3872.tif: No such file or directory
+running chn 22_3873
+FAILED chn 22_3873 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3873.tif: No such file or directory
+running chn 22_3874
+FAILED chn 22_3874 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3874.tif: No such file or directory
+running chn 22_3875
+FAILED chn 22_3875 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3875.tif: No such file or directory
+running chn 22_3876
+FAILED chn 22_3876 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3876.tif: No such file or directory
+running chn 22_3877
+FAILED chn 22_3877 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3877.tif: No such file or directory
+running chn 22_3878
+FAILED chn 22_3878 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3878.tif: No such file or directory
+running chn 22_3879
+FAILED chn 22_3879 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3879.tif: No such file or directory
+running chn 22_3880
+FAILED chn 22_3880 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3880.tif: No such file or directory
+running chn 22_3881
+FAILED chn 22_3881 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3881.tif: No such file or directory
+running chn 22_3882
+FAILED chn 22_3882 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3882.tif: No such file or directory
+running chn 22_3883
+FAILED chn 22_3883 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3883.tif: No such file or directory
+running chn 22_3884
+FAILED chn 22_3884 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3884.tif: No such file or directory
+running chn 22_3885
+FAILED chn 22_3885 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3885.tif: No such file or directory
+running chn 22_3886
+FAILED chn 22_3886 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3886.tif: No such file or directory
+running chn 22_3887
+FAILED chn 22_3887 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3887.tif: No such file or directory
+running chn 22_3888
+FAILED chn 22_3888 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3888.tif: No such file or directory
+running chn 22_3889
+FAILED chn 22_3889 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3889.tif: No such file or directory
+running chn 22_3890
+FAILED chn 22_3890 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3890.tif: No such file or directory
+running chn 22_3891
+FAILED chn 22_3891 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3891.tif: No such file or directory
+running chn 22_3892
+FAILED chn 22_3892 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3892.tif: No such file or directory
+running chn 22_3893
+FAILED chn 22_3893 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3893.tif: No such file or directory
+running chn 22_3894
+FAILED chn 22_3894 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3894.tif: No such file or directory
+running chn 22_3895
+FAILED chn 22_3895 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3895.tif: No such file or directory
+running chn 22_3896
+FAILED chn 22_3896 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3896.tif: No such file or directory
+running chn 22_3897
+FAILED chn 22_3897 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3897.tif: No such file or directory
+running chn 22_3898
+FAILED chn 22_3898 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3898.tif: No such file or directory
+running chn 22_3899
+FAILED chn 22_3899 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3899.tif: No such file or directory
+running chn 22_3900
+FAILED chn 22_3900 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3900.tif: No such file or directory
+running chn 22_3901
+FAILED chn 22_3901 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3901.tif: No such file or directory
+running chn 22_3902
+FAILED chn 22_3902 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3902.tif: No such file or directory
+running chn 22_3903
+FAILED chn 22_3903 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3903.tif: No such file or directory
+running chn 22_3904
+FAILED chn 22_3904 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3904.tif: No such file or directory
+running chn 22_3905
+FAILED chn 22_3905 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3905.tif: No such file or directory
+running chn 22_3906
+FAILED chn 22_3906 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3906.tif: No such file or directory
+running chn 22_3807
+FAILED chn 22_3807 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3807.tif: No such file or directory
+running chn 22_3808
+FAILED chn 22_3808 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3808.tif: No such file or directory
+running chn 22_3809
+FAILED chn 22_3809 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3809.tif: No such file or directory
+running chn 22_3810
+FAILED chn 22_3810 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3810.tif: No such file or directory
+running chn 22_3811
+FAILED chn 22_3811 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3811.tif: No such file or directory
+running chn 22_3812
+FAILED chn 22_3812 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3812.tif: No such file or directory
+running chn 22_3813
+FAILED chn 22_3813 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3813.tif: No such file or directory
+running chn 22_3814
+FAILED chn 22_3814 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3814.tif: No such file or directory
+running chn 22_3815
+FAILED chn 22_3815 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3815.tif: No such file or directory
+running chn 22_3816
+FAILED chn 22_3816 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3816.tif: No such file or directory
+running chn 22_3817
+FAILED chn 22_3817 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3817.tif: No such file or directory
+running chn 22_3818
+FAILED chn 22_3818 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3818.tif: No such file or directory
+running chn 22_3819
+FAILED chn 22_3819 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3819.tif: No such file or directory
+running chn 22_3820
+FAILED chn 22_3820 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3820.tif: No such file or directory
+running chn 22_3821
+FAILED chn 22_3821 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3821.tif: No such file or directory
+running chn 22_3822
+FAILED chn 22_3822 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3822.tif: No such file or directory
+running chn 22_3823
+FAILED chn 22_3823 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3823.tif: No such file or directory
+running chn 22_3824
+FAILED chn 22_3824 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3824.tif: No such file or directory
+running chn 22_3825
+FAILED chn 22_3825 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3825.tif: No such file or directory
+running chn 22_3826
+FAILED chn 22_3826 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3826.tif: No such file or directory
+running chn 22_3827
+FAILED chn 22_3827 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3827.tif: No such file or directory
+running chn 22_3828
+FAILED chn 22_3828 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3828.tif: No such file or directory
+running chn 22_3829
+FAILED chn 22_3829 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3829.tif: No such file or directory
+running chn 22_3830
+FAILED chn 22_3830 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3830.tif: No such file or directory
+running chn 22_3831
+FAILED chn 22_3831 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3831.tif: No such file or directory
+running chn 22_3832
+FAILED chn 22_3832 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3832.tif: No such file or directory
+running chn 22_3833
+FAILED chn 22_3833 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3833.tif: No such file or directory
+running chn 22_3834
+FAILED chn 22_3834 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3834.tif: No such file or directory
+running chn 22_3835
+FAILED chn 22_3835 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3835.tif: No such file or directory
+running chn 22_3836
+FAILED chn 22_3836 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3836.tif: No such file or directory
+running chn 22_3837
+FAILED chn 22_3837 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3837.tif: No such file or directory
+running chn 22_3838
+FAILED chn 22_3838 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3838.tif: No such file or directory
+running chn 22_3839
+FAILED chn 22_3839 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3839.tif: No such file or directory
+running chn 22_3840
+FAILED chn 22_3840 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3840.tif: No such file or directory
+running chn 22_3841
+FAILED chn 22_3841 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3841.tif: No such file or directory
+running chn 22_3842
+FAILED chn 22_3842 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3842.tif: No such file or directory
+running chn 22_3843
+FAILED chn 22_3843 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3843.tif: No such file or directory
+running chn 22_3844
+FAILED chn 22_3844 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3844.tif: No such file or directory
+running chn 22_3845
+FAILED chn 22_3845 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3845.tif: No such file or directory
+running chn 22_3846
+FAILED chn 22_3846 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3846.tif: No such file or directory
+running chn 22_3847
+FAILED chn 22_3847 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3847.tif: No such file or directory
+running chn 22_3848
+FAILED chn 22_3848 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3848.tif: No such file or directory
+running chn 22_3849
+FAILED chn 22_3849 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3849.tif: No such file or directory
+running chn 22_3850
+FAILED chn 22_3850 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3850.tif: No such file or directory
+running chn 22_3851
+FAILED chn 22_3851 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3851.tif: No such file or directory
+running chn 22_3852
+FAILED chn 22_3852 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3852.tif: No such file or directory
+running chn 22_3853
+FAILED chn 22_3853 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3853.tif: No such file or directory
+running chn 22_3854
+FAILED chn 22_3854 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3854.tif: No such file or directory
+running chn 22_3855
+FAILED chn 22_3855 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3855.tif: No such file or directory
+running chn 22_3856
+FAILED chn 22_3856 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3856.tif: No such file or directory
+running chn 22_3757
+FAILED chn 22_3757 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3757.tif: No such file or directory
+running chn 22_3758
+FAILED chn 22_3758 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3758.tif: No such file or directory
+running chn 22_3759
+FAILED chn 22_3759 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3759.tif: No such file or directory
+running chn 22_3760
+FAILED chn 22_3760 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3760.tif: No such file or directory
+running chn 22_3761
+FAILED chn 22_3761 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3761.tif: No such file or directory
+running chn 22_3762
+FAILED chn 22_3762 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3762.tif: No such file or directory
+running chn 22_3763
+FAILED chn 22_3763 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3763.tif: No such file or directory
+running chn 22_3764
+FAILED chn 22_3764 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3764.tif: No such file or directory
+running chn 22_3765
+FAILED chn 22_3765 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3765.tif: No such file or directory
+running chn 22_3766
+FAILED chn 22_3766 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3766.tif: No such file or directory
+running chn 22_3767
+FAILED chn 22_3767 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3767.tif: No such file or directory
+running chn 22_3768
+FAILED chn 22_3768 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3768.tif: No such file or directory
+running chn 22_3769
+FAILED chn 22_3769 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3769.tif: No such file or directory
+running chn 22_3770
+FAILED chn 22_3770 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3770.tif: No such file or directory
+running chn 22_3771
+FAILED chn 22_3771 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3771.tif: No such file or directory
+running chn 22_3772
+FAILED chn 22_3772 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3772.tif: No such file or directory
+running chn 22_3773
+FAILED chn 22_3773 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3773.tif: No such file or directory
+running chn 22_3774
+FAILED chn 22_3774 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3774.tif: No such file or directory
+running chn 22_3775
+FAILED chn 22_3775 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3775.tif: No such file or directory
+running chn 22_3776
+FAILED chn 22_3776 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3776.tif: No such file or directory
+running chn 22_3777
+FAILED chn 22_3777 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3777.tif: No such file or directory
+running chn 22_3778
+FAILED chn 22_3778 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3778.tif: No such file or directory
+running chn 22_3779
+FAILED chn 22_3779 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3779.tif: No such file or directory
+running chn 22_3780
+FAILED chn 22_3780 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3780.tif: No such file or directory
+running chn 22_3781
+FAILED chn 22_3781 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3781.tif: No such file or directory
+running chn 22_3782
+FAILED chn 22_3782 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3782.tif: No such file or directory
+running chn 22_3783
+FAILED chn 22_3783 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3783.tif: No such file or directory
+running chn 22_3784
+FAILED chn 22_3784 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3784.tif: No such file or directory
+running chn 22_3785
+FAILED chn 22_3785 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3785.tif: No such file or directory
+running chn 22_3786
+FAILED chn 22_3786 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3786.tif: No such file or directory
+running chn 22_3787
+FAILED chn 22_3787 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3787.tif: No such file or directory
+running chn 22_3788
+FAILED chn 22_3788 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3788.tif: No such file or directory
+running chn 22_3789
+FAILED chn 22_3789 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3789.tif: No such file or directory
+running chn 22_3790
+FAILED chn 22_3790 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3790.tif: No such file or directory
+running chn 22_3791
+FAILED chn 22_3791 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3791.tif: No such file or directory
+running chn 22_3792
+FAILED chn 22_3792 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3792.tif: No such file or directory
+running chn 22_3793
+FAILED chn 22_3793 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3793.tif: No such file or directory
+running chn 22_3794
+FAILED chn 22_3794 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3794.tif: No such file or directory
+running chn 22_3795
+FAILED chn 22_3795 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3795.tif: No such file or directory
+running chn 22_3796
+FAILED chn 22_3796 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3796.tif: No such file or directory
+running chn 22_3797
+FAILED chn 22_3797 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3797.tif: No such file or directory
+running chn 22_3798
+FAILED chn 22_3798 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3798.tif: No such file or directory
+running chn 22_3799
+FAILED chn 22_3799 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3799.tif: No such file or directory
+running chn 22_3800
+FAILED chn 22_3800 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3800.tif: No such file or directory
+running chn 22_3801
+FAILED chn 22_3801 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3801.tif: No such file or directory
+running chn 22_3802
+FAILED chn 22_3802 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3802.tif: No such file or directory
+running chn 22_3803
+FAILED chn 22_3803 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3803.tif: No such file or directory
+running chn 22_3804
+FAILED chn 22_3804 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3804.tif: No such file or directory
+running chn 22_3805
+FAILED chn 22_3805 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3805.tif: No such file or directory
+running chn 22_3806
+FAILED chn 22_3806 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3806.tif: No such file or directory
+running chn 22_3357
+FAILED chn 22_3357 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3357.tif: No such file or directory
+running chn 22_3358
+FAILED chn 22_3358 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3358.tif: No such file or directory
+running chn 22_3359
+FAILED chn 22_3359 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3359.tif: No such file or directory
+running chn 22_3360
+FAILED chn 22_3360 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3360.tif: No such file or directory
+running chn 22_3361
+FAILED chn 22_3361 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3361.tif: No such file or directory
+running chn 22_3362
+FAILED chn 22_3362 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3362.tif: No such file or directory
+running chn 22_3363
+FAILED chn 22_3363 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3363.tif: No such file or directory
+running chn 22_3364
+FAILED chn 22_3364 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3364.tif: No such file or directory
+running chn 22_3365
+FAILED chn 22_3365 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3365.tif: No such file or directory
+running chn 22_3366
+FAILED chn 22_3366 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3366.tif: No such file or directory
+running chn 22_3367
+FAILED chn 22_3367 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3367.tif: No such file or directory
+running chn 22_3368
+FAILED chn 22_3368 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3368.tif: No such file or directory
+running chn 22_3369
+FAILED chn 22_3369 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3369.tif: No such file or directory
+running chn 22_3370
+FAILED chn 22_3370 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3370.tif: No such file or directory
+running chn 22_3371
+FAILED chn 22_3371 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3371.tif: No such file or directory
+running chn 22_3372
+FAILED chn 22_3372 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3372.tif: No such file or directory
+running chn 22_3373
+FAILED chn 22_3373 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3373.tif: No such file or directory
+running chn 22_3374
+FAILED chn 22_3374 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3374.tif: No such file or directory
+running chn 22_3375
+FAILED chn 22_3375 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3375.tif: No such file or directory
+running chn 22_3376
+FAILED chn 22_3376 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3376.tif: No such file or directory
+running chn 22_3377
+FAILED chn 22_3377 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3377.tif: No such file or directory
+running chn 22_3378
+FAILED chn 22_3378 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3378.tif: No such file or directory
+running chn 22_3379
+FAILED chn 22_3379 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3379.tif: No such file or directory
+running chn 22_3380
+FAILED chn 22_3380 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3380.tif: No such file or directory
+running chn 22_3381
+FAILED chn 22_3381 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3381.tif: No such file or directory
+running chn 22_3382
+FAILED chn 22_3382 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3382.tif: No such file or directory
+running chn 22_3383
+FAILED chn 22_3383 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3383.tif: No such file or directory
+running chn 22_3384
+FAILED chn 22_3384 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3384.tif: No such file or directory
+running chn 22_3385
+FAILED chn 22_3385 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3385.tif: No such file or directory
+running chn 22_3386
+FAILED chn 22_3386 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3386.tif: No such file or directory
+running chn 22_3387
+FAILED chn 22_3387 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3387.tif: No such file or directory
+running chn 22_3388
+FAILED chn 22_3388 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3388.tif: No such file or directory
+running chn 22_3389
+FAILED chn 22_3389 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3389.tif: No such file or directory
+running chn 22_3390
+FAILED chn 22_3390 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3390.tif: No such file or directory
+running chn 22_3391
+FAILED chn 22_3391 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3391.tif: No such file or directory
+running chn 22_3392
+FAILED chn 22_3392 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3392.tif: No such file or directory
+running chn 22_3393
+FAILED chn 22_3393 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3393.tif: No such file or directory
+running chn 22_3394
+FAILED chn 22_3394 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3394.tif: No such file or directory
+running chn 22_3395
+FAILED chn 22_3395 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3395.tif: No such file or directory
+running chn 22_3396
+FAILED chn 22_3396 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3396.tif: No such file or directory
+running chn 22_3397
+FAILED chn 22_3397 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3397.tif: No such file or directory
+running chn 22_3398
+FAILED chn 22_3398 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3398.tif: No such file or directory
+running chn 22_3399
+FAILED chn 22_3399 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3399.tif: No such file or directory
+running chn 22_3400
+FAILED chn 22_3400 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3400.tif: No such file or directory
+running chn 22_3401
+FAILED chn 22_3401 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3401.tif: No such file or directory
+running chn 22_3402
+FAILED chn 22_3402 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3402.tif: No such file or directory
+running chn 22_3403
+FAILED chn 22_3403 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3403.tif: No such file or directory
+running chn 22_3404
+FAILED chn 22_3404 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3404.tif: No such file or directory
+running chn 22_3405
+FAILED chn 22_3405 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3405.tif: No such file or directory
+running chn 22_3406
+FAILED chn 22_3406 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3406.tif: No such file or directory
+running chn 22_3407
+FAILED chn 22_3407 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3407.tif: No such file or directory
+running chn 22_3408
+FAILED chn 22_3408 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3408.tif: No such file or directory
+running chn 22_3409
+FAILED chn 22_3409 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3409.tif: No such file or directory
+running chn 22_3410
+FAILED chn 22_3410 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3410.tif: No such file or directory
+running chn 22_3411
+FAILED chn 22_3411 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3411.tif: No such file or directory
+running chn 22_3412
+FAILED chn 22_3412 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3412.tif: No such file or directory
+running chn 22_3413
+FAILED chn 22_3413 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3413.tif: No such file or directory
+running chn 22_3414
+FAILED chn 22_3414 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3414.tif: No such file or directory
+running chn 22_3415
+FAILED chn 22_3415 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3415.tif: No such file or directory
+running chn 22_3416
+FAILED chn 22_3416 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3416.tif: No such file or directory
+running chn 22_3417
+FAILED chn 22_3417 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3417.tif: No such file or directory
+running chn 22_3418
+FAILED chn 22_3418 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3418.tif: No such file or directory
+running chn 22_3419
+FAILED chn 22_3419 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3419.tif: No such file or directory
+running chn 22_3420
+FAILED chn 22_3420 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3420.tif: No such file or directory
+running chn 22_3421
+FAILED chn 22_3421 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3421.tif: No such file or directory
+running chn 22_3422
+FAILED chn 22_3422 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3422.tif: No such file or directory
+running chn 22_3423
+FAILED chn 22_3423 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3423.tif: No such file or directory
+running chn 22_3424
+FAILED chn 22_3424 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3424.tif: No such file or directory
+running chn 22_3425
+FAILED chn 22_3425 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3425.tif: No such file or directory
+running chn 22_3426
+FAILED chn 22_3426 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3426.tif: No such file or directory
+running chn 22_3427
+FAILED chn 22_3427 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3427.tif: No such file or directory
+running chn 22_3428
+FAILED chn 22_3428 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3428.tif: No such file or directory
+running chn 22_3429
+FAILED chn 22_3429 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3429.tif: No such file or directory
+running chn 22_3430
+FAILED chn 22_3430 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3430.tif: No such file or directory
+running chn 22_3431
+FAILED chn 22_3431 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3431.tif: No such file or directory
+running chn 22_3432
+FAILED chn 22_3432 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3432.tif: No such file or directory
+running chn 22_3433
+FAILED chn 22_3433 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3433.tif: No such file or directory
+running chn 22_3434
+FAILED chn 22_3434 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3434.tif: No such file or directory
+running chn 22_3435
+FAILED chn 22_3435 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3435.tif: No such file or directory
+running chn 22_3436
+FAILED chn 22_3436 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3436.tif: No such file or directory
+running chn 22_3437
+FAILED chn 22_3437 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3437.tif: No such file or directory
+running chn 22_3438
+FAILED chn 22_3438 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3438.tif: No such file or directory
+running chn 22_3439
+FAILED chn 22_3439 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3439.tif: No such file or directory
+running chn 22_3440
+FAILED chn 22_3440 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3440.tif: No such file or directory
+running chn 22_3441
+FAILED chn 22_3441 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3441.tif: No such file or directory
+running chn 22_3442
+FAILED chn 22_3442 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3442.tif: No such file or directory
+running chn 22_3443
+FAILED chn 22_3443 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3443.tif: No such file or directory
+running chn 22_3444
+FAILED chn 22_3444 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3444.tif: No such file or directory
+running chn 22_3445
+FAILED chn 22_3445 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3445.tif: No such file or directory
+running chn 22_3446
+FAILED chn 22_3446 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3446.tif: No such file or directory
+running chn 22_3447
+FAILED chn 22_3447 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3447.tif: No such file or directory
+running chn 22_3448
+FAILED chn 22_3448 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3448.tif: No such file or directory
+running chn 22_3449
+FAILED chn 22_3449 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3449.tif: No such file or directory
+running chn 22_3450
+FAILED chn 22_3450 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3450.tif: No such file or directory
+running chn 22_3451
+FAILED chn 22_3451 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3451.tif: No such file or directory
+running chn 22_3452
+FAILED chn 22_3452 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3452.tif: No such file or directory
+running chn 22_3453
+FAILED chn 22_3453 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3453.tif: No such file or directory
+running chn 22_3454
+FAILED chn 22_3454 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3454.tif: No such file or directory
+running chn 22_3455
+FAILED chn 22_3455 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3455.tif: No such file or directory
+running chn 22_3456
+FAILED chn 22_3456 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_3456.tif: No such file or directory
+running chn 22_4657
+FAILED chn 22_4657 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4657.tif: No such file or directory
+running chn 22_4658
+FAILED chn 22_4658 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4658.tif: No such file or directory
+running chn 22_4659
+FAILED chn 22_4659 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4659.tif: No such file or directory
+running chn 22_4660
+FAILED chn 22_4660 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4660.tif: No such file or directory
+running chn 22_4661
+FAILED chn 22_4661 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4661.tif: No such file or directory
+running chn 22_4662
+FAILED chn 22_4662 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4662.tif: No such file or directory
+running chn 22_4663
+FAILED chn 22_4663 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4663.tif: No such file or directory
+running chn 22_4664
+FAILED chn 22_4664 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4664.tif: No such file or directory
+running chn 22_4665
+FAILED chn 22_4665 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4665.tif: No such file or directory
+running chn 22_4666
+FAILED chn 22_4666 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4666.tif: No such file or directory
+running chn 22_4667
+FAILED chn 22_4667 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4667.tif: No such file or directory
+running chn 22_4668
+FAILED chn 22_4668 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4668.tif: No such file or directory
+running chn 22_4669
+FAILED chn 22_4669 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4669.tif: No such file or directory
+running chn 22_4670
+FAILED chn 22_4670 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4670.tif: No such file or directory
+running chn 22_4671
+FAILED chn 22_4671 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4671.tif: No such file or directory
+running chn 22_4672
+FAILED chn 22_4672 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4672.tif: No such file or directory
+running chn 22_4673
+FAILED chn 22_4673 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4673.tif: No such file or directory
+running chn 22_4674
+FAILED chn 22_4674 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4674.tif: No such file or directory
+running chn 22_4675
+FAILED chn 22_4675 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4675.tif: No such file or directory
+running chn 22_4676
+FAILED chn 22_4676 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4676.tif: No such file or directory
+running chn 22_4677
+FAILED chn 22_4677 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4677.tif: No such file or directory
+running chn 22_4678
+FAILED chn 22_4678 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4678.tif: No such file or directory
+running chn 22_4679
+FAILED chn 22_4679 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4679.tif: No such file or directory
+running chn 22_4680
+FAILED chn 22_4680 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4680.tif: No such file or directory
+running chn 22_4681
+FAILED chn 22_4681 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4681.tif: No such file or directory
+running chn 22_4682
+FAILED chn 22_4682 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4682.tif: No such file or directory
+running chn 22_4683
+FAILED chn 22_4683 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4683.tif: No such file or directory
+running chn 22_4684
+FAILED chn 22_4684 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4684.tif: No such file or directory
+running chn 22_4685
+FAILED chn 22_4685 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4685.tif: No such file or directory
+running chn 22_4686
+FAILED chn 22_4686 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4686.tif: No such file or directory
+running chn 22_4687
+FAILED chn 22_4687 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4687.tif: No such file or directory
+running chn 22_4688
+FAILED chn 22_4688 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4688.tif: No such file or directory
+running chn 22_4689
+FAILED chn 22_4689 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4689.tif: No such file or directory
+running chn 22_4690
+FAILED chn 22_4690 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4690.tif: No such file or directory
+running chn 22_4691
+FAILED chn 22_4691 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4691.tif: No such file or directory
+running chn 22_4692
+FAILED chn 22_4692 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4692.tif: No such file or directory
+running chn 22_4693
+FAILED chn 22_4693 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4693.tif: No such file or directory
+running chn 22_4694
+FAILED chn 22_4694 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4694.tif: No such file or directory
+running chn 22_4695
+FAILED chn 22_4695 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4695.tif: No such file or directory
+running chn 22_4696
+FAILED chn 22_4696 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4696.tif: No such file or directory
+running chn 22_4697
+FAILED chn 22_4697 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4697.tif: No such file or directory
+running chn 22_4698
+FAILED chn 22_4698 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4698.tif: No such file or directory
+running chn 22_4699
+FAILED chn 22_4699 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4699.tif: No such file or directory
+running chn 22_4700
+FAILED chn 22_4700 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4700.tif: No such file or directory
+running chn 22_4701
+FAILED chn 22_4701 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4701.tif: No such file or directory
+running chn 22_4702
+FAILED chn 22_4702 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4702.tif: No such file or directory
+running chn 22_4703
+FAILED chn 22_4703 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4703.tif: No such file or directory
+running chn 22_4704
+FAILED chn 22_4704 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4704.tif: No such file or directory
+running chn 22_4705
+FAILED chn 22_4705 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4705.tif: No such file or directory
+running chn 22_4706
+FAILED chn 22_4706 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4706.tif: No such file or directory
+running chn 22_4557
+FAILED chn 22_4557 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4557.tif: No such file or directory
+running chn 22_4558
+FAILED chn 22_4558 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4558.tif: No such file or directory
+running chn 22_4559
+FAILED chn 22_4559 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4559.tif: No such file or directory
+running chn 22_4560
+FAILED chn 22_4560 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4560.tif: No such file or directory
+running chn 22_4561
+FAILED chn 22_4561 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4561.tif: No such file or directory
+running chn 22_4562
+FAILED chn 22_4562 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4562.tif: No such file or directory
+running chn 22_4563
+FAILED chn 22_4563 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4563.tif: No such file or directory
+running chn 22_4564
+FAILED chn 22_4564 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4564.tif: No such file or directory
+running chn 22_4565
+FAILED chn 22_4565 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4565.tif: No such file or directory
+running chn 22_4566
+FAILED chn 22_4566 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4566.tif: No such file or directory
+running chn 22_4567
+FAILED chn 22_4567 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4567.tif: No such file or directory
+running chn 22_4568
+FAILED chn 22_4568 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4568.tif: No such file or directory
+running chn 22_4569
+FAILED chn 22_4569 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4569.tif: No such file or directory
+running chn 22_4570
+FAILED chn 22_4570 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4570.tif: No such file or directory
+running chn 22_4571
+FAILED chn 22_4571 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4571.tif: No such file or directory
+running chn 22_4572
+FAILED chn 22_4572 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4572.tif: No such file or directory
+running chn 22_4573
+FAILED chn 22_4573 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4573.tif: No such file or directory
+running chn 22_4574
+FAILED chn 22_4574 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4574.tif: No such file or directory
+running chn 22_4575
+FAILED chn 22_4575 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4575.tif: No such file or directory
+running chn 22_4576
+FAILED chn 22_4576 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4576.tif: No such file or directory
+running chn 22_4577
+FAILED chn 22_4577 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4577.tif: No such file or directory
+running chn 22_4578
+FAILED chn 22_4578 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4578.tif: No such file or directory
+running chn 22_4579
+FAILED chn 22_4579 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4579.tif: No such file or directory
+running chn 22_4580
+FAILED chn 22_4580 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4580.tif: No such file or directory
+running chn 22_4581
+FAILED chn 22_4581 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4581.tif: No such file or directory
+running chn 22_4582
+FAILED chn 22_4582 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4582.tif: No such file or directory
+running chn 22_4583
+FAILED chn 22_4583 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4583.tif: No such file or directory
+running chn 22_4584
+FAILED chn 22_4584 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4584.tif: No such file or directory
+running chn 22_4585
+FAILED chn 22_4585 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4585.tif: No such file or directory
+running chn 22_4586
+FAILED chn 22_4586 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4586.tif: No such file or directory
+running chn 22_4587
+FAILED chn 22_4587 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4587.tif: No such file or directory
+running chn 22_4588
+FAILED chn 22_4588 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4588.tif: No such file or directory
+running chn 22_4589
+FAILED chn 22_4589 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4589.tif: No such file or directory
+running chn 22_4590
+FAILED chn 22_4590 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4590.tif: No such file or directory
+running chn 22_4591
+FAILED chn 22_4591 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4591.tif: No such file or directory
+running chn 22_4592
+FAILED chn 22_4592 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4592.tif: No such file or directory
+running chn 22_4593
+FAILED chn 22_4593 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4593.tif: No such file or directory
+running chn 22_4594
+FAILED chn 22_4594 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4594.tif: No such file or directory
+running chn 22_4595
+FAILED chn 22_4595 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4595.tif: No such file or directory
+running chn 22_4596
+FAILED chn 22_4596 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4596.tif: No such file or directory
+running chn 22_4597
+FAILED chn 22_4597 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4597.tif: No such file or directory
+running chn 22_4598
+FAILED chn 22_4598 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4598.tif: No such file or directory
+running chn 22_4599
+FAILED chn 22_4599 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4599.tif: No such file or directory
+running chn 22_4600
+FAILED chn 22_4600 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4600.tif: No such file or directory
+running chn 22_4601
+FAILED chn 22_4601 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4601.tif: No such file or directory
+running chn 22_4602
+FAILED chn 22_4602 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4602.tif: No such file or directory
+running chn 22_4603
+FAILED chn 22_4603 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4603.tif: No such file or directory
+running chn 22_4604
+FAILED chn 22_4604 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4604.tif: No such file or directory
+running chn 22_4605
+FAILED chn 22_4605 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4605.tif: No such file or directory
+running chn 22_4606
+FAILED chn 22_4606 /users/3/kula0049/Files/base_data/NDVI/mean_ndvi_500m_22_4606.tif: No such file or directory
+[2026-05-18T13:02:49.998] error: *** JOB 9374563 ON acn09 CANCELLED AT 2026-05-18T13:02:49 DUE to SIGNAL Terminated ***
+[2026-05-18T13:02:49.998] error: *** JOB 9374567 ON acn09 CANCELLED AT 2026-05-18T13:02:49 DUE to SIGNAL Terminated ***
+[2026-05-18T13:02:49.999] error: *** JOB 9374568 ON acn09 CANCELLED AT 2026-05-18T13:02:49 DUE to SIGNAL Terminated ***
+                                                                                                                                                                                                                                                     [2026-05-18T13:02:49.999] error: *** JOB 9374565 ON acn09 CANCELLED AT 2026-05-18T13:02:49 DUE to SIGNAL Terminated ***

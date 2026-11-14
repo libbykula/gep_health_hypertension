@@ -1,0 +1,1766 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+running col 30_3312
+FAILED col 30_3312 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3313
+FAILED col 30_3313 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3314
+FAILED col 30_3314 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3315
+FAILED col 30_3315 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3316
+FAILED col 30_3316 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3317
+FAILED col 30_3317 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3318
+FAILED col 30_3318 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3319
+FAILED col 30_3319 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3320
+FAILED col 30_3320 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3321
+FAILED col 30_3321 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3322
+FAILED col 30_3322 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3323
+FAILED col 30_3323 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3324
+FAILED col 30_3324 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3325
+FAILED col 30_3325 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3326
+FAILED col 30_3326 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3327
+FAILED col 30_3327 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3328
+FAILED col 30_3328 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3329
+FAILED col 30_3329 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3330
+FAILED col 30_3330 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3331
+FAILED col 30_3331 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3332
+FAILED col 30_3332 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3333
+FAILED col 30_3333 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3334
+FAILED col 30_3334 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3335
+FAILED col 30_3335 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3336
+FAILED col 30_3336 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3337
+FAILED col 30_3337 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3338
+FAILED col 30_3338 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3339
+FAILED col 30_3339 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3340
+FAILED col 30_3340 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3341
+FAILED col 30_3341 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3342
+FAILED col 30_3342 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3343
+FAILED col 30_3343 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3344
+FAILED col 30_3344 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3345
+FAILED col 30_3345 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3346
+FAILED col 30_3346 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3347
+FAILED col 30_3347 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3348
+FAILED col 30_3348 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3349
+FAILED col 30_3349 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3350
+FAILED col 30_3350 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3351
+FAILED col 30_3351 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3352
+FAILED col 30_3352 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3353
+FAILED col 30_3353 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3354
+FAILED col 30_3354 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3355
+FAILED col 30_3355 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3356
+FAILED col 30_3356 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3357
+FAILED col 30_3357 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3358
+FAILED col 30_3358 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3359
+FAILED col 30_3359 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3360
+FAILED col 30_3360 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3361
+FAILED col 30_3361 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26951
+FAILED col 23_26951 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26952
+FAILED col 23_26952 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26953
+FAILED col 23_26953 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26954
+FAILED col 23_26954 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26955
+FAILED col 23_26955 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26956
+FAILED col 23_26956 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26957
+FAILED col 23_26957 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26958
+FAILED col 23_26958 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26959
+FAILED col 23_26959 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26960
+FAILED col 23_26960 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26961
+FAILED col 23_26961 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26962
+FAILED col 23_26962 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26963
+FAILED col 23_26963 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26964
+FAILED col 23_26964 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26965
+FAILED col 23_26965 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26966
+FAILED col 23_26966 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26967
+FAILED col 23_26967 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26968
+FAILED col 23_26968 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26969
+FAILED col 23_26969 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26970
+FAILED col 23_26970 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26971
+FAILED col 23_26971 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26972
+FAILED col 23_26972 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26973
+FAILED col 23_26973 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26974
+FAILED col 23_26974 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26975
+FAILED col 23_26975 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26976
+FAILED col 23_26976 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26977
+FAILED col 23_26977 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26978
+FAILED col 23_26978 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26979
+FAILED col 23_26979 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26980
+FAILED col 23_26980 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26981
+FAILED col 23_26981 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26982
+FAILED col 23_26982 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26983
+FAILED col 23_26983 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26984
+FAILED col 23_26984 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26985
+FAILED col 23_26985 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26986
+FAILED col 23_26986 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26987
+FAILED col 23_26987 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26988
+FAILED col 23_26988 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26989
+FAILED col 23_26989 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26990
+FAILED col 23_26990 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26991
+FAILED col 23_26991 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26992
+FAILED col 23_26992 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26993
+FAILED col 23_26993 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26994
+FAILED col 23_26994 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26995
+FAILED col 23_26995 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26996
+FAILED col 23_26996 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26997
+FAILED col 23_26997 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26998
+FAILED col 23_26998 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26999
+FAILED col 23_26999 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27000
+FAILED col 23_27000 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26901
+FAILED col 23_26901 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26902
+FAILED col 23_26902 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26903
+FAILED col 23_26903 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26904
+FAILED col 23_26904 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26905
+FAILED col 23_26905 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26906
+FAILED col 23_26906 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26907
+FAILED col 23_26907 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26908
+FAILED col 23_26908 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26909
+FAILED col 23_26909 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26910
+FAILED col 23_26910 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26911
+FAILED col 23_26911 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26912
+FAILED col 23_26912 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26913
+FAILED col 23_26913 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26914
+FAILED col 23_26914 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26915
+FAILED col 23_26915 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26916
+FAILED col 23_26916 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26917
+FAILED col 23_26917 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26918
+FAILED col 23_26918 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26919
+FAILED col 23_26919 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26920
+FAILED col 23_26920 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26921
+FAILED col 23_26921 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26922
+FAILED col 23_26922 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26923
+FAILED col 23_26923 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26924
+FAILED col 23_26924 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26925
+FAILED col 23_26925 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26926
+FAILED col 23_26926 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26927
+FAILED col 23_26927 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26928
+FAILED col 23_26928 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26929
+FAILED col 23_26929 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26930
+FAILED col 23_26930 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26931
+FAILED col 23_26931 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26932
+FAILED col 23_26932 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26933
+FAILED col 23_26933 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26934
+FAILED col 23_26934 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26935
+FAILED col 23_26935 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26936
+FAILED col 23_26936 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26937
+FAILED col 23_26937 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26938
+FAILED col 23_26938 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26939
+FAILED col 23_26939 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26940
+FAILED col 23_26940 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26941
+FAILED col 23_26941 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26942
+FAILED col 23_26942 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26943
+FAILED col 23_26943 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26944
+FAILED col 23_26944 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26945
+FAILED col 23_26945 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26946
+FAILED col 23_26946 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26947
+FAILED col 23_26947 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26948
+FAILED col 23_26948 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26949
+FAILED col 23_26949 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26950
+FAILED col 23_26950 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3362
+FAILED col 30_3362 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3363
+FAILED col 30_3363 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3364
+FAILED col 30_3364 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3365
+FAILED col 30_3365 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3366
+FAILED col 30_3366 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3367
+FAILED col 30_3367 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3368
+FAILED col 30_3368 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3369
+FAILED col 30_3369 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3370
+FAILED col 30_3370 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3371
+FAILED col 30_3371 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3372
+FAILED col 30_3372 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3373
+FAILED col 30_3373 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3374
+FAILED col 30_3374 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3375
+FAILED col 30_3375 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3376
+FAILED col 30_3376 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3377
+FAILED col 30_3377 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3378
+FAILED col 30_3378 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3379
+FAILED col 30_3379 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3380
+FAILED col 30_3380 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3381
+FAILED col 30_3381 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3382
+FAILED col 30_3382 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3383
+FAILED col 30_3383 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3384
+FAILED col 30_3384 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3385
+FAILED col 30_3385 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3386
+FAILED col 30_3386 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3387
+FAILED col 30_3387 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3388
+FAILED col 30_3388 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3389
+FAILED col 30_3389 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3390
+FAILED col 30_3390 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3391
+FAILED col 30_3391 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3392
+FAILED col 30_3392 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3393
+FAILED col 30_3393 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3394
+FAILED col 30_3394 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3395
+FAILED col 30_3395 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3396
+FAILED col 30_3396 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3397
+FAILED col 30_3397 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3398
+FAILED col 30_3398 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3399
+FAILED col 30_3399 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3400
+FAILED col 30_3400 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3401
+FAILED col 30_3401 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3402
+FAILED col 30_3402 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 30_3403
+FAILED col 30_3403 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26893
+FAILED col 23_26893 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26894
+FAILED col 23_26894 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26895
+FAILED col 23_26895 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26896
+FAILED col 23_26896 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26897
+FAILED col 23_26897 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26898
+FAILED col 23_26898 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26899
+FAILED col 23_26899 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_26900
+FAILED col 23_26900 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27501
+FAILED col 23_27501 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27502
+FAILED col 23_27502 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27503
+FAILED col 23_27503 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27504
+FAILED col 23_27504 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27505
+FAILED col 23_27505 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27506
+FAILED col 23_27506 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27507
+FAILED col 23_27507 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27508
+FAILED col 23_27508 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27509
+FAILED col 23_27509 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27510
+FAILED col 23_27510 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27511
+FAILED col 23_27511 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27512
+FAILED col 23_27512 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27513
+FAILED col 23_27513 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27514
+FAILED col 23_27514 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27515
+FAILED col 23_27515 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27516
+FAILED col 23_27516 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27517
+FAILED col 23_27517 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27518
+FAILED col 23_27518 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27519
+FAILED col 23_27519 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27520
+FAILED col 23_27520 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27521
+FAILED col 23_27521 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27522
+FAILED col 23_27522 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27523
+FAILED col 23_27523 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27524
+FAILED col 23_27524 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27525
+FAILED col 23_27525 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27526
+FAILED col 23_27526 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27527
+FAILED col 23_27527 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27528
+FAILED col 23_27528 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27529
+FAILED col 23_27529 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27530
+FAILED col 23_27530 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27531
+FAILED col 23_27531 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27532
+FAILED col 23_27532 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27533
+FAILED col 23_27533 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27534
+FAILED col 23_27534 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27535
+FAILED col 23_27535 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27536
+FAILED col 23_27536 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27537
+FAILED col 23_27537 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27538
+FAILED col 23_27538 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27539
+FAILED col 23_27539 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27540
+FAILED col 23_27540 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27541
+FAILED col 23_27541 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27542
+FAILED col 23_27542 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27543
+FAILED col 23_27543 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27544
+FAILED col 23_27544 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27545
+FAILED col 23_27545 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27546
+FAILED col 23_27546 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27547
+FAILED col 23_27547 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27548
+FAILED col 23_27548 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27549
+FAILED col 23_27549 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27550
+FAILED col 23_27550 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27451
+FAILED col 23_27451 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27452
+FAILED col 23_27452 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27453
+FAILED col 23_27453 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27454
+FAILED col 23_27454 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27455
+FAILED col 23_27455 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27456
+FAILED col 23_27456 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27457
+FAILED col 23_27457 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27458
+FAILED col 23_27458 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27459
+FAILED col 23_27459 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27460
+FAILED col 23_27460 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27461
+FAILED col 23_27461 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27462
+FAILED col 23_27462 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27463
+FAILED col 23_27463 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27464
+FAILED col 23_27464 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27465
+FAILED col 23_27465 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27466
+FAILED col 23_27466 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27467
+FAILED col 23_27467 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27468
+FAILED col 23_27468 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27469
+FAILED col 23_27469 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27470
+FAILED col 23_27470 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27471
+FAILED col 23_27471 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27472
+FAILED col 23_27472 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27473
+FAILED col 23_27473 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27474
+FAILED col 23_27474 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27475
+FAILED col 23_27475 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27476
+FAILED col 23_27476 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27477
+FAILED col 23_27477 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27478
+FAILED col 23_27478 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27479
+FAILED col 23_27479 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27480
+FAILED col 23_27480 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27481
+FAILED col 23_27481 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27482
+FAILED col 23_27482 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27483
+FAILED col 23_27483 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27484
+FAILED col 23_27484 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27485
+FAILED col 23_27485 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27486
+FAILED col 23_27486 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27487
+FAILED col 23_27487 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27488
+FAILED col 23_27488 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27489
+FAILED col 23_27489 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27490
+FAILED col 23_27490 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27491
+FAILED col 23_27491 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27492
+FAILED col 23_27492 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27493
+FAILED col 23_27493 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27494
+FAILED col 23_27494 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27495
+FAILED col 23_27495 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27496
+FAILED col 23_27496 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27497
+FAILED col 23_27497 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27498
+FAILED col 23_27498 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27499
+FAILED col 23_27499 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27500
+FAILED col 23_27500 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27401
+FAILED col 23_27401 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27402
+FAILED col 23_27402 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27403
+FAILED col 23_27403 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27404
+FAILED col 23_27404 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27405
+FAILED col 23_27405 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27406
+FAILED col 23_27406 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27407
+FAILED col 23_27407 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27408
+FAILED col 23_27408 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27409
+FAILED col 23_27409 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27410
+FAILED col 23_27410 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27411
+FAILED col 23_27411 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27412
+FAILED col 23_27412 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27413
+FAILED col 23_27413 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27414
+FAILED col 23_27414 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27415
+FAILED col 23_27415 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27416
+FAILED col 23_27416 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27417
+FAILED col 23_27417 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27418
+FAILED col 23_27418 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27419
+FAILED col 23_27419 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27420
+FAILED col 23_27420 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27421
+FAILED col 23_27421 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27422
+FAILED col 23_27422 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27423
+FAILED col 23_27423 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27424
+FAILED col 23_27424 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27425
+FAILED col 23_27425 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27426
+FAILED col 23_27426 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27427
+FAILED col 23_27427 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27428
+FAILED col 23_27428 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27429
+FAILED col 23_27429 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27430
+FAILED col 23_27430 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27431
+FAILED col 23_27431 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27432
+FAILED col 23_27432 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27433
+FAILED col 23_27433 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27434
+FAILED col 23_27434 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27435
+FAILED col 23_27435 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27436
+FAILED col 23_27436 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27437
+FAILED col 23_27437 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27438
+FAILED col 23_27438 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27439
+FAILED col 23_27439 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27440
+FAILED col 23_27440 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27441
+FAILED col 23_27441 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27442
+FAILED col 23_27442 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27443
+FAILED col 23_27443 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27444
+FAILED col 23_27444 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27445
+FAILED col 23_27445 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27446
+FAILED col 23_27446 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27447
+FAILED col 23_27447 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27448
+FAILED col 23_27448 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27449
+FAILED col 23_27449 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27450
+FAILED col 23_27450 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27251
+FAILED col 23_27251 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27252
+FAILED col 23_27252 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27253
+FAILED col 23_27253 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27254
+FAILED col 23_27254 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27255
+FAILED col 23_27255 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27256
+FAILED col 23_27256 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27257
+FAILED col 23_27257 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27258
+FAILED col 23_27258 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27259
+FAILED col 23_27259 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27260
+FAILED col 23_27260 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27261
+FAILED col 23_27261 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27262
+FAILED col 23_27262 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27263
+FAILED col 23_27263 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27264
+FAILED col 23_27264 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27265
+FAILED col 23_27265 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27266
+FAILED col 23_27266 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27267
+FAILED col 23_27267 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27268
+FAILED col 23_27268 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27269
+FAILED col 23_27269 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27270
+FAILED col 23_27270 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27271
+FAILED col 23_27271 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27272
+FAILED col 23_27272 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27273
+FAILED col 23_27273 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27274
+FAILED col 23_27274 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27275
+FAILED col 23_27275 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27276
+FAILED col 23_27276 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27277
+FAILED col 23_27277 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27278
+FAILED col 23_27278 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27279
+FAILED col 23_27279 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27280
+FAILED col 23_27280 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27281
+FAILED col 23_27281 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27282
+FAILED col 23_27282 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27283
+FAILED col 23_27283 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27284
+FAILED col 23_27284 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27285
+FAILED col 23_27285 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27286
+FAILED col 23_27286 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27287
+FAILED col 23_27287 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27288
+FAILED col 23_27288 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27289
+FAILED col 23_27289 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27290
+FAILED col 23_27290 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27291
+FAILED col 23_27291 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27292
+FAILED col 23_27292 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27293
+FAILED col 23_27293 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27294
+FAILED col 23_27294 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27295
+FAILED col 23_27295 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27296
+FAILED col 23_27296 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27297
+FAILED col 23_27297 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27298
+FAILED col 23_27298 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27299
+FAILED col 23_27299 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27300
+FAILED col 23_27300 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27201
+FAILED col 23_27201 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27202
+FAILED col 23_27202 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27203
+FAILED col 23_27203 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27204
+FAILED col 23_27204 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27205
+FAILED col 23_27205 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27206
+FAILED col 23_27206 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27207
+FAILED col 23_27207 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27208
+FAILED col 23_27208 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27209
+FAILED col 23_27209 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27210
+FAILED col 23_27210 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27211
+FAILED col 23_27211 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27212
+FAILED col 23_27212 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27213
+FAILED col 23_27213 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27214
+FAILED col 23_27214 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27215
+FAILED col 23_27215 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27216
+FAILED col 23_27216 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27217
+FAILED col 23_27217 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27218
+FAILED col 23_27218 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27219
+FAILED col 23_27219 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27220
+FAILED col 23_27220 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27221
+FAILED col 23_27221 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27222
+FAILED col 23_27222 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27223
+FAILED col 23_27223 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27224
+FAILED col 23_27224 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27225
+FAILED col 23_27225 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27226
+FAILED col 23_27226 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27227
+FAILED col 23_27227 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27228
+FAILED col 23_27228 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27229
+FAILED col 23_27229 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27230
+FAILED col 23_27230 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27231
+FAILED col 23_27231 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27232
+FAILED col 23_27232 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27233
+FAILED col 23_27233 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27234
+FAILED col 23_27234 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27235
+FAILED col 23_27235 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27236
+FAILED col 23_27236 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27237
+FAILED col 23_27237 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27238
+FAILED col 23_27238 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27239
+FAILED col 23_27239 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27240
+FAILED col 23_27240 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27241
+FAILED col 23_27241 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27242
+FAILED col 23_27242 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27243
+FAILED col 23_27243 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27244
+FAILED col 23_27244 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27245
+FAILED col 23_27245 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27246
+FAILED col 23_27246 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27247
+FAILED col 23_27247 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27248
+FAILED col 23_27248 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27249
+FAILED col 23_27249 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27250
+FAILED col 23_27250 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27151
+FAILED col 23_27151 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27152
+FAILED col 23_27152 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27153
+FAILED col 23_27153 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27154
+FAILED col 23_27154 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27155
+FAILED col 23_27155 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27156
+FAILED col 23_27156 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27157
+FAILED col 23_27157 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27158
+FAILED col 23_27158 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27159
+FAILED col 23_27159 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27160
+FAILED col 23_27160 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27161
+FAILED col 23_27161 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27162
+FAILED col 23_27162 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27163
+FAILED col 23_27163 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27164
+FAILED col 23_27164 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27165
+FAILED col 23_27165 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27166
+FAILED col 23_27166 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27167
+FAILED col 23_27167 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27168
+FAILED col 23_27168 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27169
+FAILED col 23_27169 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27170
+FAILED col 23_27170 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27171
+FAILED col 23_27171 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27172
+FAILED col 23_27172 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27173
+FAILED col 23_27173 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27174
+FAILED col 23_27174 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27175
+FAILED col 23_27175 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27176
+FAILED col 23_27176 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27177
+FAILED col 23_27177 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27178
+FAILED col 23_27178 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27179
+FAILED col 23_27179 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27180
+FAILED col 23_27180 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27181
+FAILED col 23_27181 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27182
+FAILED col 23_27182 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27183
+FAILED col 23_27183 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27184
+FAILED col 23_27184 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27185
+FAILED col 23_27185 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27186
+FAILED col 23_27186 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27187
+FAILED col 23_27187 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27188
+FAILED col 23_27188 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27189
+FAILED col 23_27189 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27190
+FAILED col 23_27190 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27191
+FAILED col 23_27191 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27192
+FAILED col 23_27192 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27193
+FAILED col 23_27193 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27194
+FAILED col 23_27194 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27195
+FAILED col 23_27195 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27196
+FAILED col 23_27196 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27197
+FAILED col 23_27197 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27198
+FAILED col 23_27198 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27199
+FAILED col 23_27199 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27200
+FAILED col 23_27200 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27651
+FAILED col 23_27651 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27652
+FAILED col 23_27652 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27653
+FAILED col 23_27653 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27654
+FAILED col 23_27654 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27655
+FAILED col 23_27655 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27656
+FAILED col 23_27656 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27657
+FAILED col 23_27657 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5845
+FAILED col 22_5845 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5846
+FAILED col 22_5846 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5847
+FAILED col 22_5847 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5848
+FAILED col 22_5848 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5849
+FAILED col 22_5849 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5850
+FAILED col 22_5850 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5851
+FAILED col 22_5851 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5852
+FAILED col 22_5852 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5853
+FAILED col 22_5853 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5854
+FAILED col 22_5854 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5855
+FAILED col 22_5855 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5856
+FAILED col 22_5856 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5857
+FAILED col 22_5857 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5858
+FAILED col 22_5858 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5859
+FAILED col 22_5859 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5860
+FAILED col 22_5860 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5861
+FAILED col 22_5861 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5862
+FAILED col 22_5862 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5863
+FAILED col 22_5863 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5864
+FAILED col 22_5864 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5865
+FAILED col 22_5865 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5866
+FAILED col 22_5866 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5867
+FAILED col 22_5867 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5868
+FAILED col 22_5868 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 22_5869
+FAILED col 22_5869 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27101
+FAILED col 23_27101 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27102
+FAILED col 23_27102 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27103
+FAILED col 23_27103 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27104
+FAILED col 23_27104 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27105
+FAILED col 23_27105 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27106
+FAILED col 23_27106 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27107
+FAILED col 23_27107 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27108
+FAILED col 23_27108 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27109
+FAILED col 23_27109 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27110
+FAILED col 23_27110 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27111
+FAILED col 23_27111 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27112
+FAILED col 23_27112 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27113
+FAILED col 23_27113 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27114
+FAILED col 23_27114 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27115
+FAILED col 23_27115 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27116
+FAILED col 23_27116 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27117
+FAILED col 23_27117 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27118
+FAILED col 23_27118 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27119
+FAILED col 23_27119 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27120
+FAILED col 23_27120 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27121
+FAILED col 23_27121 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27122
+FAILED col 23_27122 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27123
+FAILED col 23_27123 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27124
+FAILED col 23_27124 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27125
+FAILED col 23_27125 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27126
+FAILED col 23_27126 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27127
+FAILED col 23_27127 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27128
+FAILED col 23_27128 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27129
+FAILED col 23_27129 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27130
+FAILED col 23_27130 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27131
+FAILED col 23_27131 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27132
+FAILED col 23_27132 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27133
+FAILED col 23_27133 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27134
+FAILED col 23_27134 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27135
+FAILED col 23_27135 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27136
+FAILED col 23_27136 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27137
+FAILED col 23_27137 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27138
+FAILED col 23_27138 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27139
+FAILED col 23_27139 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27140
+FAILED col 23_27140 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27141
+FAILED col 23_27141 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27142
+FAILED col 23_27142 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27143
+FAILED col 23_27143 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27144
+FAILED col 23_27144 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27145
+FAILED col 23_27145 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27146
+FAILED col 23_27146 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27147
+FAILED col 23_27147 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27148
+FAILED col 23_27148 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27149
+FAILED col 23_27149 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27150
+FAILED col 23_27150 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27301
+FAILED col 23_27301 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27302
+FAILED col 23_27302 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27303
+FAILED col 23_27303 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27304
+FAILED col 23_27304 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27305
+FAILED col 23_27305 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27306
+FAILED col 23_27306 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27307
+FAILED col 23_27307 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27308
+FAILED col 23_27308 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27309
+FAILED col 23_27309 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27310
+FAILED col 23_27310 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27311
+FAILED col 23_27311 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27312
+FAILED col 23_27312 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27313
+FAILED col 23_27313 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27314
+FAILED col 23_27314 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27315
+FAILED col 23_27315 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27316
+FAILED col 23_27316 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27317
+FAILED col 23_27317 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27318
+FAILED col 23_27318 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27319
+FAILED col 23_27319 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27320
+FAILED col 23_27320 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27321
+FAILED col 23_27321 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27322
+FAILED col 23_27322 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27323
+FAILED col 23_27323 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27324
+FAILED col 23_27324 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27325
+FAILED col 23_27325 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27326
+FAILED col 23_27326 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27327
+FAILED col 23_27327 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27328
+FAILED col 23_27328 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27329
+FAILED col 23_27329 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27330
+FAILED col 23_27330 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27331
+FAILED col 23_27331 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27332
+FAILED col 23_27332 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27333
+FAILED col 23_27333 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27334
+FAILED col 23_27334 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27335
+FAILED col 23_27335 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27336
+FAILED col 23_27336 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27337
+FAILED col 23_27337 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27338
+FAILED col 23_27338 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27339
+FAILED col 23_27339 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27340
+FAILED col 23_27340 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27341
+FAILED col 23_27341 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27342
+FAILED col 23_27342 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27343
+FAILED col 23_27343 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27344
+FAILED col 23_27344 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27345
+FAILED col 23_27345 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27346
+FAILED col 23_27346 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27347
+FAILED col 23_27347 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27348
+FAILED col 23_27348 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27349
+FAILED col 23_27349 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27350
+FAILED col 23_27350 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27601
+FAILED col 23_27601 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27602
+FAILED col 23_27602 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27603
+FAILED col 23_27603 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27604
+FAILED col 23_27604 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27605
+FAILED col 23_27605 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27606
+FAILED col 23_27606 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27607
+FAILED col 23_27607 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27608
+FAILED col 23_27608 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27609
+FAILED col 23_27609 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27610
+FAILED col 23_27610 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27611
+FAILED col 23_27611 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27612
+FAILED col 23_27612 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27613
+FAILED col 23_27613 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27614
+FAILED col 23_27614 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27615
+FAILED col 23_27615 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27616
+FAILED col 23_27616 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27617
+FAILED col 23_27617 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27618
+FAILED col 23_27618 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27619
+FAILED col 23_27619 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27620
+FAILED col 23_27620 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27621
+FAILED col 23_27621 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27622
+FAILED col 23_27622 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27623
+FAILED col 23_27623 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27624
+FAILED col 23_27624 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27625
+FAILED col 23_27625 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27626
+FAILED col 23_27626 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27627
+FAILED col 23_27627 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27628
+FAILED col 23_27628 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27629
+FAILED col 23_27629 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27630
+FAILED col 23_27630 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27631
+FAILED col 23_27631 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27632
+FAILED col 23_27632 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27633
+FAILED col 23_27633 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27634
+FAILED col 23_27634 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27635
+FAILED col 23_27635 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27636
+FAILED col 23_27636 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27637
+FAILED col 23_27637 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27638
+FAILED col 23_27638 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27639
+FAILED col 23_27639 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27640
+FAILED col 23_27640 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27641
+FAILED col 23_27641 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27642
+FAILED col 23_27642 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27643
+FAILED col 23_27643 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27644
+FAILED col 23_27644 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27645
+FAILED col 23_27645 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27646
+FAILED col 23_27646 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27647
+FAILED col 23_27647 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27648
+FAILED col 23_27648 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27649
+FAILED col 23_27649 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27650
+FAILED col 23_27650 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27551
+FAILED col 23_27551 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27552
+FAILED col 23_27552 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27553
+FAILED col 23_27553 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27554
+FAILED col 23_27554 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27555
+FAILED col 23_27555 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27556
+FAILED col 23_27556 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27557
+FAILED col 23_27557 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27558
+FAILED col 23_27558 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27559
+FAILED col 23_27559 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27560
+FAILED col 23_27560 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27561
+FAILED col 23_27561 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27562
+FAILED col 23_27562 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27563
+FAILED col 23_27563 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27564
+FAILED col 23_27564 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27565
+FAILED col 23_27565 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27566
+FAILED col 23_27566 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27567
+FAILED col 23_27567 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27568
+FAILED col 23_27568 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27569
+FAILED col 23_27569 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27570
+FAILED col 23_27570 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27571
+FAILED col 23_27571 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27572
+FAILED col 23_27572 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27573
+FAILED col 23_27573 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27574
+FAILED col 23_27574 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27575
+FAILED col 23_27575 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27576
+FAILED col 23_27576 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27577
+FAILED col 23_27577 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27578
+FAILED col 23_27578 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27579
+FAILED col 23_27579 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27580
+FAILED col 23_27580 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27581
+FAILED col 23_27581 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27582
+FAILED col 23_27582 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27583
+FAILED col 23_27583 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27584
+FAILED col 23_27584 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27585
+FAILED col 23_27585 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27586
+FAILED col 23_27586 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27587
+FAILED col 23_27587 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27588
+FAILED col 23_27588 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27589
+FAILED col 23_27589 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27590
+FAILED col 23_27590 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27591
+FAILED col 23_27591 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27592
+FAILED col 23_27592 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27593
+FAILED col 23_27593 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27594
+FAILED col 23_27594 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27595
+FAILED col 23_27595 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27596
+FAILED col 23_27596 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27597
+FAILED col 23_27597 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27598
+FAILED col 23_27598 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27599
+FAILED col 23_27599 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27600
+FAILED col 23_27600 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27001
+FAILED col 23_27001 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27002
+FAILED col 23_27002 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27003
+FAILED col 23_27003 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27004
+FAILED col 23_27004 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27005
+FAILED col 23_27005 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27006
+FAILED col 23_27006 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27007
+FAILED col 23_27007 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27008
+FAILED col 23_27008 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27009
+FAILED col 23_27009 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27010
+FAILED col 23_27010 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27011
+FAILED col 23_27011 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27012
+FAILED col 23_27012 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27013
+FAILED col 23_27013 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27014
+FAILED col 23_27014 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27015
+FAILED col 23_27015 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27016
+FAILED col 23_27016 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27017
+FAILED col 23_27017 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27018
+FAILED col 23_27018 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27019
+FAILED col 23_27019 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27020
+FAILED col 23_27020 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27021
+FAILED col 23_27021 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27022
+FAILED col 23_27022 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27023
+FAILED col 23_27023 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27024
+FAILED col 23_27024 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27025
+FAILED col 23_27025 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27026
+FAILED col 23_27026 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27027
+FAILED col 23_27027 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27028
+FAILED col 23_27028 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27029
+FAILED col 23_27029 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27030
+FAILED col 23_27030 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27031
+FAILED col 23_27031 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27032
+FAILED col 23_27032 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27033
+FAILED col 23_27033 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27034
+FAILED col 23_27034 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27035
+FAILED col 23_27035 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27036
+FAILED col 23_27036 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27037
+FAILED col 23_27037 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27038
+FAILED col 23_27038 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27039
+FAILED col 23_27039 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27040
+FAILED col 23_27040 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27041
+FAILED col 23_27041 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27042
+FAILED col 23_27042 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27043
+FAILED col 23_27043 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27044
+FAILED col 23_27044 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27045
+FAILED col 23_27045 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27046
+FAILED col 23_27046 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27047
+FAILED col 23_27047 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27048
+FAILED col 23_27048 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27049
+FAILED col 23_27049 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27050
+FAILED col 23_27050 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27351
+FAILED col 23_27351 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27352
+FAILED col 23_27352 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27353
+FAILED col 23_27353 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27354
+FAILED col 23_27354 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27355
+FAILED col 23_27355 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27356
+FAILED col 23_27356 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27357
+FAILED col 23_27357 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27358
+FAILED col 23_27358 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27359
+FAILED col 23_27359 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27360
+FAILED col 23_27360 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27361
+FAILED col 23_27361 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27362
+FAILED col 23_27362 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27363
+FAILED col 23_27363 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27364
+FAILED col 23_27364 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27365
+FAILED col 23_27365 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27366
+FAILED col 23_27366 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27367
+FAILED col 23_27367 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27368
+FAILED col 23_27368 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27369
+FAILED col 23_27369 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27370
+FAILED col 23_27370 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27371
+FAILED col 23_27371 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27372
+FAILED col 23_27372 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27373
+FAILED col 23_27373 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27374
+FAILED col 23_27374 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27375
+FAILED col 23_27375 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27376
+FAILED col 23_27376 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27377
+FAILED col 23_27377 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27378
+FAILED col 23_27378 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27379
+FAILED col 23_27379 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27380
+FAILED col 23_27380 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27381
+FAILED col 23_27381 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27382
+FAILED col 23_27382 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27383
+FAILED col 23_27383 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27384
+FAILED col 23_27384 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27385
+FAILED col 23_27385 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27386
+FAILED col 23_27386 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27387
+FAILED col 23_27387 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27388
+FAILED col 23_27388 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27389
+FAILED col 23_27389 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27390
+FAILED col 23_27390 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27391
+FAILED col 23_27391 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27392
+FAILED col 23_27392 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27393
+FAILED col 23_27393 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27394
+FAILED col 23_27394 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27395
+FAILED col 23_27395 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27396
+FAILED col 23_27396 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27397
+FAILED col 23_27397 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27398
+FAILED col 23_27398 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27399
+FAILED col 23_27399 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27400
+FAILED col 23_27400 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27051
+FAILED col 23_27051 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27052
+FAILED col 23_27052 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27053
+FAILED col 23_27053 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27054
+FAILED col 23_27054 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27055
+FAILED col 23_27055 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27056
+FAILED col 23_27056 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27057
+FAILED col 23_27057 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27058
+FAILED col 23_27058 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27059
+FAILED col 23_27059 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27060
+FAILED col 23_27060 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27061
+FAILED col 23_27061 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27062
+FAILED col 23_27062 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27063
+FAILED col 23_27063 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27064
+FAILED col 23_27064 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27065
+FAILED col 23_27065 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27066
+FAILED col 23_27066 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27067
+FAILED col 23_27067 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27068
+FAILED col 23_27068 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27069
+FAILED col 23_27069 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27070
+FAILED col 23_27070 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27071
+FAILED col 23_27071 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27072
+FAILED col 23_27072 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27073
+FAILED col 23_27073 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27074
+FAILED col 23_27074 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27075
+FAILED col 23_27075 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27076
+FAILED col 23_27076 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27077
+FAILED col 23_27077 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27078
+FAILED col 23_27078 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27079
+FAILED col 23_27079 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27080
+FAILED col 23_27080 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27081
+FAILED col 23_27081 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27082
+FAILED col 23_27082 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27083
+FAILED col 23_27083 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27084
+FAILED col 23_27084 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27085
+FAILED col 23_27085 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27086
+FAILED col 23_27086 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27087
+FAILED col 23_27087 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27088
+FAILED col 23_27088 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27089
+FAILED col 23_27089 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27090
+FAILED col 23_27090 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27091
+FAILED col 23_27091 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27092
+FAILED col 23_27092 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27093
+FAILED col 23_27093 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27094
+FAILED col 23_27094 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27095
+FAILED col 23_27095 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27096
+FAILED col 23_27096 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27097
+FAILED col 23_27097 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27098
+FAILED col 23_27098 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27099
+FAILED col 23_27099 cannot access local variable 'pixel_width' where it is not associated with a value
+running col 23_27100
+FAILED col 23_27100 cannot access local variable 'pixel_width' where it is not associated with a value

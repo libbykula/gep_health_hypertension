@@ -1,0 +1,102 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+running che 30_1153
+FAILED che 30_1153 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1154
+FAILED che 30_1154 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1155
+FAILED che 30_1155 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1156
+FAILED che 30_1156 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1157
+FAILED che 30_1157 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1158
+FAILED che 30_1158 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1159
+FAILED che 30_1159 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1160
+FAILED che 30_1160 '/users/3/kula0049/urban-cooling/Data/urbanspatial-guppd-v1-gpkg/indiv/30_1160.gpkg' not recognized as being in a supported file format.; It might help to specify the correct driver explicitly by prefixing the file path with '<DRIVER>:', e.g. 'CSV:path'.
+running che 30_1161
+FAILED che 30_1161 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1162
+FAILED che 30_1162 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1163
+FAILED che 30_1163 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1164
+FAILED che 30_1164 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1165
+FAILED che 30_1165 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1166
+FAILED che 30_1166 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1167
+FAILED che 30_1167 'NoneType' object has no attribute 'GetGeoTransform'
+running che 30_1168
+FAILED che 30_1168 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8141
+FAILED che 23_8141 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8142
+FAILED che 23_8142 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8143
+FAILED che 23_8143 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8144
+FAILED che 23_8144 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8145
+FAILED che 23_8145 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8146
+FAILED che 23_8146 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8147
+FAILED che 23_8147 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8148
+FAILED che 23_8148 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8149
+FAILED che 23_8149 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8150
+FAILED che 23_8150 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8151
+FAILED che 23_8151 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8152
+FAILED che 23_8152 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8153
+FAILED che 23_8153 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8154
+FAILED che 23_8154 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8155
+FAILED che 23_8155 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8156
+FAILED che 23_8156 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8157
+FAILED che 23_8157 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8158
+FAILED che 23_8158 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8159
+FAILED che 23_8159 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8160
+FAILED che 23_8160 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8161
+FAILED che 23_8161 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8162
+FAILED che 23_8162 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8163
+FAILED che 23_8163 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8164
+FAILED che 23_8164 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8165
+FAILED che 23_8165 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8166
+FAILED che 23_8166 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8167
+FAILED che 23_8167 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8168
+FAILED che 23_8168 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8169
+FAILED che 23_8169 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8170
+FAILED che 23_8170 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8171
+FAILED che 23_8171 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8172
+FAILED che 23_8172 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8173
+FAILED che 23_8173 'NoneType' object has no attribute 'GetGeoTransform'
+running che 23_8174
+FAILED che 23_8174 'NoneType' object has no attribute 'GetGeoTransform'

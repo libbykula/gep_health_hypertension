@@ -1,0 +1,6 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/osgeo/gdal.py:9374: RuntimeWarning: Self-intersection at or near point 30385.160037952064 14210.629773379032
+  return _gdal.wrapper_GDALWarpDestName(*args)
+[2026-05-26T16:27:33.052] error: *** JOB 9757924 ON acn127 CANCELLED AT 2026-05-26T16:27:33 DUE to SIGNAL Terminated ***
+NAL Terminated ***
+[2026-05-26T16:27:33.048] error: *** JOB 9757927 ON acn87 CANCELLED AT 2026-05-26T16:27:33 DUE to SIGNAL Terminated ***
+

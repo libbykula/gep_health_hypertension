@@ -1,0 +1,260 @@
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+/users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
+  return ogr_read(
+running grc 22_7866
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7866_hypertension_results_2019_11_6_25.csv
+running grc 22_7867
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7867_hypertension_results_2019_11_6_25.csv
+running grc 22_7868
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7868_hypertension_results_2019_11_6_25.csv
+running grc 22_7869
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7869_hypertension_results_2019_11_6_25.csv
+running grc 22_7870
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7870_hypertension_results_2019_11_6_25.csv
+running grc 22_7871
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7871_hypertension_results_2019_11_6_25.csv
+running grc 22_7872
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7872_hypertension_results_2019_11_6_25.csv
+running grc 22_7873
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7873_hypertension_results_2019_11_6_25.csv
+running grc 22_7874
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7874_hypertension_results_2019_11_6_25.csv
+running grc 22_7875
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7875_hypertension_results_2019_11_6_25.csv
+running grc 22_7876
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7876_hypertension_results_2019_11_6_25.csv
+running grc 22_7877
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7877_hypertension_results_2019_11_6_25.csv
+running grc 22_7878
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7878_hypertension_results_2019_11_6_25.csv
+running grc 22_7879
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7879_hypertension_results_2019_11_6_25.csv
+running grc 22_7880
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7880_hypertension_results_2019_11_6_25.csv
+running grc 22_7881
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7881_hypertension_results_2019_11_6_25.csv
+running grc 22_7882
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7882_hypertension_results_2019_11_6_25.csv
+running grc 22_7883
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7883_hypertension_results_2019_11_6_25.csv
+running grc 22_7884
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7884_hypertension_results_2019_11_6_25.csv
+running grc 22_7885
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7885_hypertension_results_2019_11_6_25.csv
+running grc 22_7886
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7886_hypertension_results_2019_11_6_25.csv
+running grc 22_7887
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7887_hypertension_results_2019_11_6_25.csv
+running grc 22_7888
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7888_hypertension_results_2019_11_6_25.csv
+running grc 22_7889
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7889_hypertension_results_2019_11_6_25.csv
+running grc 22_7890
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7890_hypertension_results_2019_11_6_25.csv
+running grc 22_7891
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7891_hypertension_results_2019_11_6_25.csv
+running grc 22_7892
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7892_hypertension_results_2019_11_6_25.csv
+running grc 23_35117
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35117_hypertension_results_2019_11_6_25.csv
+running grc 23_35118
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35118_hypertension_results_2019_11_6_25.csv
+running grc 23_35119
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35119_hypertension_results_2019_11_6_25.csv
+running grc 23_35120
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35120_hypertension_results_2019_11_6_25.csv
+running grc 23_35121
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35121_hypertension_results_2019_11_6_25.csv
+running grc 23_35122
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35122_hypertension_results_2019_11_6_25.csv
+running grc 23_35123
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35123_hypertension_results_2019_11_6_25.csv
+running grc 23_35124
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35124_hypertension_results_2019_11_6_25.csv
+running grc 23_35125
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35125_hypertension_results_2019_11_6_25.csv
+running grc 23_35126
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35126_hypertension_results_2019_11_6_25.csv
+running grc 23_35127
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35127_hypertension_results_2019_11_6_25.csv
+running grc 23_35128
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35128_hypertension_results_2019_11_6_25.csv
+running grc 23_35129
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35129_hypertension_results_2019_11_6_25.csv
+running grc 23_35130
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35130_hypertension_results_2019_11_6_25.csv
+running grc 23_35131
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35131_hypertension_results_2019_11_6_25.csv
+running grc 23_35132
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35132_hypertension_results_2019_11_6_25.csv
+running grc 23_35133
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35133_hypertension_results_2019_11_6_25.csv
+running grc 23_35134
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35134_hypertension_results_2019_11_6_25.csv
+running grc 23_35135
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35135_hypertension_results_2019_11_6_25.csv
+running grc 23_35136
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35136_hypertension_results_2019_11_6_25.csv
+running grc 23_35137
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35137_hypertension_results_2019_11_6_25.csv
+running grc 23_35138
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35138_hypertension_results_2019_11_6_25.csv
+running grc 23_35139
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35139_hypertension_results_2019_11_6_25.csv
+running grc 23_35140
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35140_hypertension_results_2019_11_6_25.csv
+running grc 23_35141
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35141_hypertension_results_2019_11_6_25.csv
+running grc 23_35142
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35142_hypertension_results_2019_11_6_25.csv
+running grc 23_35143
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35143_hypertension_results_2019_11_6_25.csv
+running grc 22_7843
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7843_hypertension_results_2019_11_6_25.csv
+running grc 22_7844
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7844_hypertension_results_2019_11_6_25.csv
+running grc 22_7845
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7845_hypertension_results_2019_11_6_25.csv
+running grc 22_7846
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7846_hypertension_results_2019_11_6_25.csv
+running grc 22_7847
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7847_hypertension_results_2019_11_6_25.csv
+running grc 22_7848
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7848_hypertension_results_2019_11_6_25.csv
+running grc 22_7849
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7849_hypertension_results_2019_11_6_25.csv
+running grc 22_7850
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7850_hypertension_results_2019_11_6_25.csv
+running grc 22_7851
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7851_hypertension_results_2019_11_6_25.csv
+running grc 22_7852
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7852_hypertension_results_2019_11_6_25.csv
+running grc 22_7853
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7853_hypertension_results_2019_11_6_25.csv
+running grc 22_7854
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7854_hypertension_results_2019_11_6_25.csv
+running grc 22_7855
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7855_hypertension_results_2019_11_6_25.csv
+running grc 22_7856
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7856_hypertension_results_2019_11_6_25.csv
+running grc 22_7857
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7857_hypertension_results_2019_11_6_25.csv
+running grc 22_7858
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7858_hypertension_results_2019_11_6_25.csv
+running grc 22_7859
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7859_hypertension_results_2019_11_6_25.csv
+running grc 22_7860
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7860_hypertension_results_2019_11_6_25.csv
+running grc 22_7861
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7861_hypertension_results_2019_11_6_25.csv
+running grc 22_7862
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7862_hypertension_results_2019_11_6_25.csv
+running grc 22_7863
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7863_hypertension_results_2019_11_6_25.csv
+running grc 22_7864
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7864_hypertension_results_2019_11_6_25.csv
+running grc 22_7865
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/22_7865_hypertension_results_2019_11_6_25.csv
+running grc 30_4841
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4841_hypertension_results_2019_11_6_25.csv
+running grc 30_4842
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4842_hypertension_results_2019_11_6_25.csv
+running grc 30_4843
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4843_hypertension_results_2019_11_6_25.csv
+running grc 30_4844
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4844_hypertension_results_2019_11_6_25.csv
+running grc 30_4845
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4845_hypertension_results_2019_11_6_25.csv
+running grc 30_4846
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4846_hypertension_results_2019_11_6_25.csv
+running grc 30_4847
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4847_hypertension_results_2019_11_6_25.csv
+running grc 30_4848
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4848_hypertension_results_2019_11_6_25.csv
+running grc 30_4849
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4849_hypertension_results_2019_11_6_25.csv
+running grc 30_4850
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/30_4850_hypertension_results_2019_11_6_25.csv
+running grc 23_35077
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35077_hypertension_results_2019_11_6_25.csv
+running grc 23_35078
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35078_hypertension_results_2019_11_6_25.csv
+running grc 23_35079
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35079_hypertension_results_2019_11_6_25.csv
+running grc 23_35080
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35080_hypertension_results_2019_11_6_25.csv
+running grc 23_35081
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35081_hypertension_results_2019_11_6_25.csv
+running grc 23_35082
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35082_hypertension_results_2019_11_6_25.csv
+running grc 23_35083
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35083_hypertension_results_2019_11_6_25.csv
+running grc 23_35084
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35084_hypertension_results_2019_11_6_25.csv
+running grc 23_35085
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35085_hypertension_results_2019_11_6_25.csv
+running grc 23_35086
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35086_hypertension_results_2019_11_6_25.csv
+running grc 23_35087
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35087_hypertension_results_2019_11_6_25.csv
+running grc 23_35088
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35088_hypertension_results_2019_11_6_25.csv
+running grc 23_35089
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35089_hypertension_results_2019_11_6_25.csv
+running grc 23_35090
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35090_hypertension_results_2019_11_6_25.csv
+running grc 23_35091
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35091_hypertension_results_2019_11_6_25.csv
+running grc 23_35092
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35092_hypertension_results_2019_11_6_25.csv
+running grc 23_35093
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35093_hypertension_results_2019_11_6_25.csv
+running grc 23_35094
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35094_hypertension_results_2019_11_6_25.csv
+running grc 23_35095
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35095_hypertension_results_2019_11_6_25.csv
+running grc 23_35096
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35096_hypertension_results_2019_11_6_25.csv
+running grc 23_35097
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35097_hypertension_results_2019_11_6_25.csv
+running grc 23_35098
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35098_hypertension_results_2019_11_6_25.csv
+running grc 23_35099
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35099_hypertension_results_2019_11_6_25.csv
+running grc 23_35100
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35100_hypertension_results_2019_11_6_25.csv
+running grc 23_35101
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35101_hypertension_results_2019_11_6_25.csv
+running grc 23_35102
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35102_hypertension_results_2019_11_6_25.csv
+running grc 23_35103
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35103_hypertension_results_2019_11_6_25.csv
+running grc 23_35104
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35104_hypertension_results_2019_11_6_25.csv
+running grc 23_35105
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35105_hypertension_results_2019_11_6_25.csv
+running grc 23_35106
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35106_hypertension_results_2019_11_6_25.csv
+running grc 23_35107
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35107_hypertension_results_2019_11_6_25.csv
+running grc 23_35108
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35108_hypertension_results_2019_11_6_25.csv
+running grc 23_35109
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35109_hypertension_results_2019_11_6_25.csv
+running grc 23_35110
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35110_hypertension_results_2019_11_6_25.csv
+running grc 23_35111
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35111_hypertension_results_2019_11_6_25.csv
+running grc 23_35112
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35112_hypertension_results_2019_11_6_25.csv
+running grc 23_35113
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35113_hypertension_results_2019_11_6_25.csv
+running grc 23_35114
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35114_hypertension_results_2019_11_6_25.csv
+running grc 23_35115
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35115_hypertension_results_2019_11_6_25.csv
+running grc 23_35116
+Saved results to /users/3/kula0049/gep_health/output/indiv_11_6_25/23_35116_hypertension_results_2019_11_6_25.csv
