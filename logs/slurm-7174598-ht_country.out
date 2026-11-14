@@ -8,3 +8,37 @@
   return ogr_read(
 /users/3/kula0049/.conda/envs/gdalfix/lib/python3.11/site-packages/pyogrio/raw.py:198: RuntimeWarning: locking protocol: this file is a WAL-enabled database. It cannot be opened because it is presumably read-only or in a read-only directory. Retrying with IMMUTABLE=YES open option
   return ogr_read(
+running khm 23_62310
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/23_62310_hypertension_results_2019_linear.csv
+running khm 22_10465
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10465_hypertension_results_2019_linear.csv
+running khm 22_10466
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10466_hypertension_results_2019_linear.csv
+running khm 22_10467
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10467_hypertension_results_2019_linear.csv
+running khm 22_10468
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10468_hypertension_results_2019_linear.csv
+running khm 22_10469
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10469_hypertension_results_2019_linear.csv
+running khm 22_10470
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10470_hypertension_results_2019_linear.csv
+running khm 22_10471
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10471_hypertension_results_2019_linear.csv
+running khm 22_10472
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10472_hypertension_results_2019_linear.csv
+running khm 22_10473
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10473_hypertension_results_2019_linear.csv
+running khm 22_10474
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10474_hypertension_results_2019_linear.csv
+running khm 22_10475
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10475_hypertension_results_2019_linear.csv
+running khm 22_10476
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10476_hypertension_results_2019_linear.csv
+running khm 22_10477
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10477_hypertension_results_2019_linear.csv
+running khm 22_10478
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10478_hypertension_results_2019_linear.csv
+running khm 22_10479
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10479_hypertension_results_2019_linear.csv
+running khm 22_10480
+Saved results to /users/3/kula0049/gep_health/output/linear_p0_upd_5_18_2026/22_10480_hypertension_results_2019_linear.csv
