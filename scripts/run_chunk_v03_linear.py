@@ -28,7 +28,7 @@ age_data = pd.read_csv(os.path.join(base_dir, 'Age/IDB_02-18-2026.csv'))
 dcpp = countries_df.loc[countries_df['iso3_r250_label'].str.lower()==country_label,'Total cost per person in 2019 USD'].values[0]
 country_prev = prev_data[(prev_data['SpatialDimValueCode'].str.lower()==country_label)&(prev_data['Period']==2019)&(prev_data['Dim1']=='Both sexes')&(prev_data['Indicator']=='Prevalence of hypertension among adults aged 30-79 years, age-standardized')]['FactValueNumeric'].values[0]
 
-baseline_risk =  country_prev/0.76 # Based on China and Australia 
+baseline_risk =  country_prev/100/0.76 # Based on China and Australia, hmmmmmm.... is country_prev a decimal or as a percentage? if it's a percentage, then I have to divide by 100
 
 # Prepping age -- do I need to merge in iso3 labels?
 age_data = age_data[age_data['GROUP'].notna()]

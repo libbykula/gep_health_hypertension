@@ -25,7 +25,7 @@ urban_boundaries = gpd.read_file(
 )
 
 # Save results to CSV
-output_dir = os.path.join(dir, 'gep_health/output/linear_p0_upd_5_18_2026')
+output_dir = os.path.join(dir, 'gep_health/output/linear_p0_upd_11_16_2026')
 ndvi_path = os.path.join(base_dir, 'NDVI/ndvi_2019_ave_scaled.tiff')  #  annual?
 
 os.makedirs(output_dir, exist_ok=True)
